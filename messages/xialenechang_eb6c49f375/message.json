@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Xialene Chang"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524608538525,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Xialene Chang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "XialeneChang_eb6c49f375"
+}

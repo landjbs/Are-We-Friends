@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Lucy Rickerich"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1456803785298,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucy Rickerich",
+      "timestamp_ms": 1456803435504,
+      "content": "Was our only HW finishing the reading and reading questions?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455684784841,
+      "content": "thank you so much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucy Rickerich",
+      "timestamp_ms": 1455684679773,
+      "content": "https://quizlet.com/121765166/vocabulario-capitulo-7-flash-cards/",
+      "share": {
+        "link": "https://quizlet.com/121765166/vocabulario-capitulo-7-flash-cards/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Lucy Rickerich",
+      "timestamp_ms": 1455684658146,
+      "content": "my book is downstairs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucy Rickerich",
+      "timestamp_ms": 1455684653702,
+      "content": "can i send you a link to my quizlet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455684607887,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucy Rickerich",
+      "timestamp_ms": 1455684587748,
+      "content": "for tomorrow's quiz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455683586372,
+      "content": "could u send me a picture of the spanish vocab?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lucy Rickerich",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LucyRickerich_0e319405d4"
+}

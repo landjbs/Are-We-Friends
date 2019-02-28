@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Felipe Ignacio Flores Guajardo"
+    },
+    {
+      "name": "Leyla Brittan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534469566347,
+      "content": "haha thanks pipe! i\u00e2\u0080\u0099ll friend you and i\u00e2\u0080\u0099d just love to hear what you thought of ls50 and whether or not you\u00e2\u0080\u0099d recommend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Leyla Brittan",
+      "timestamp_ms": 1534448681746,
+      "content": "@landon Pipe is happy to talk to you about LS50! Friend each other, make a message without me--whatever you want. Go crazy!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Felipe and Leyla",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "FelipeandLeyla_997e1f8793"
+}

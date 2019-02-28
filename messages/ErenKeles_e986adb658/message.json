@@ -1,0 +1,922 @@
+{
+  "participants": [
+    {
+      "name": "Eren Keles"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534003385612,
+      "content": "Thank you so much man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534002187938,
+      "content": "and she\u00e2\u0080\u0099ll appreciate that you\u00e2\u0080\u0099re working on it over the summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534002169703,
+      "content": "you\u00e2\u0080\u0099re backed by bu so it seems legit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534002169652,
+      "content": "definitely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534002067571,
+      "content": "Because if I forward it they would know I\u00e2\u0080\u0099m not just messing around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534002010442,
+      "content": "And ask her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534001998888,
+      "content": "So do u think I should forward this e mail to boylan and give her an introduction on what I said before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534001936205,
+      "content": "they let me pay for some stuff to protect my intellectual property from the business office",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534001907078,
+      "content": "they\u00e2\u0080\u0099ll probably let that happen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534001900919,
+      "content": "But idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534001890830,
+      "content": "I\u00e2\u0080\u0099ll say if they don\u00e2\u0080\u0099t fund it I\u00e2\u0080\u0099ll try to pay it myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534001866323,
+      "content": "This e mail came from a doctor from bu to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534001826668,
+      "content": "i\u00e2\u0080\u0099d recommend picking a piece of that project and presenting it as the first step and then working up to the rest as you get good results",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534001811567,
+      "content": "Ik I\u00e2\u0080\u0099ll also say that if they can\u00e2\u0080\u0099t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534001787139,
+      "content": "so you might be able to get away w 5k but that\u00e2\u0080\u0099s a bit steep of an initial request",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534001762888,
+      "content": "but i definitely had to prove myself a lot before they allowed that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534001744287,
+      "content": "the school didn\u00e2\u0080\u0099t cap my funding as long as it was justifiable and i could pull it from either the mol bio or engineering program fund",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534001376297,
+      "content": "Do u think can sps fund this 5k project or nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534001311881,
+      "content": "I could definitely advise you on a salivary microbiome project.  We'd have to start with a clear hypothesis and some literature searches, We could then focus down on a significant problem, that could be published.  I'm sure Leslie would be happy to be involved as well.  To be honest the core facility at Forsyth is the best for oral bacteria, so the analyses could be outsourced to them at an academic rate.  Detailed informatics and the statistics could be done at BU.  Do you know if St. Paul has small research funds that could support this, or should I look around BU?  It would be ~$5K max. I could certainly help with the paper.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534000640034,
+      "content": "Landon how much funding did the school do for u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1534000559130,
+      "content": "Ok thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1533933521388,
+      "content": "and just lmk if you or the other engineering honors people ever have other questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1533933518982,
+      "content": "for sure man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1533926084287,
+      "content": "Much appreciated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1533926076099,
+      "content": "Ok thanks so much on the feedback",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1533926021356,
+      "content": "just like select that strain and test a variety of antimicrobials on it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1533926002277,
+      "content": "thats a great idea i think it\u00e2\u0080\u0099d work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1533924116147,
+      "content": "Would it work or nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1533904453474,
+      "content": "What do u think?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1533904447160,
+      "content": "Yo Landon I just came up with a idea! I will research what are the ideal conditions that bacteria grow in the mouth/ on the teeth. And I can research how to get rid of the bacteria. How does it become resistant, and what drugs are most effective",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1533840926902,
+      "content": "Eren called you.",
+      "call_duration": 585,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1533840324001,
+      "content": "Yo Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1531949494276,
+      "content": "Thank you so much man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1531949479176,
+      "content": "Ok I will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1531880012115,
+      "content": "definitely lmk what you think of or if there\u00e2\u0080\u0099s anything i can do to help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1531284679745,
+      "content": "No I have no clue yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1531274868733,
+      "content": "do you know what you\u00e2\u0080\u0099re gonna do in the fall?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1530828874217,
+      "content": "Tomorrow is my last day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1530828868176,
+      "content": "It\u00e2\u0080\u0099s great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1530828531980,
+      "content": "how\u00e2\u0080\u0099s the internship going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1530828524708,
+      "content": "for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1530734926643,
+      "content": "Ok dope thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1530734909744,
+      "content": "double i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1530734906804,
+      "content": "yeah they grade and they count a shit ton but they\u00e2\u0080\u0099re pretty nice w the points",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1530734816910,
+      "content": "Is it single spaced or double",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1530734803245,
+      "content": "They want 5 pages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1530734785994,
+      "content": "Do they actually grade the journals or do they just want to see what we did over the summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1530734711548,
+      "content": "what\u00e2\u0080\u0099s up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1530728647966,
+      "content": "Yo Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529442282346,
+      "content": "*aight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529442279312,
+      "content": "aighr good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529438081863,
+      "content": "Yeah it\u00e2\u0080\u0099s all good tho now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529437425945,
+      "content": "i think the primers and plasmid wouldve but aside from that i agree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529437036669,
+      "content": "But I asked her what would happen if I did it the wrong way she said nothing would have showed up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529436989123,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529436983916,
+      "content": "did you ever run the messed up pcrs in a gel? im curious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529436981079,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529436968184,
+      "content": "haha good i\u00e2\u0080\u0099m glad harvard profs are chill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529436841588,
+      "content": "Didn\u00e2\u0080\u0099t get mad at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529436827193,
+      "content": "I told her after I fixed it and she was like ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529436808602,
+      "content": "I redid it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529436802939,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529426593737,
+      "content": "Eren called you.",
+      "call_duration": 694,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1529425822326,
+      "content": "Yo Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519932607440,
+      "content": "Ok dope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519932599925,
+      "content": "ok im on my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519931760979,
+      "content": "Ok no worries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519931745778,
+      "content": "still in class its getting out late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519931707605,
+      "content": "I\u00e2\u0080\u0099m in the tower room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519931698683,
+      "content": "Where are u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519931096714,
+      "content": "Yo I\u00e2\u0080\u0099m in lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519930419034,
+      "content": "I\u00e2\u0080\u0099ll leave Simpson soon then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519930408093,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519930400770,
+      "content": "im in the engineering lab downstairs i\u00e2\u0080\u0099ll be out in like 5 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519930245743,
+      "content": "Yo I\u00e2\u0080\u0099m out do u want to meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519921711245,
+      "content": "im in lindsay where are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519921029362,
+      "content": "i can come over rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519921022572,
+      "content": "yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519920764207,
+      "content": "In Lindsey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519920749414,
+      "content": "Yo do u want to meet rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519920747478,
+      "content": "You missed a call from Eren.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519419337657,
+      "content": "thats be so helpful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519419333245,
+      "content": "yeah actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519419325505,
+      "content": "Which is quite dope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519419318503,
+      "content": "So I might even see her there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519419314477,
+      "content": "oh cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519419303517,
+      "content": "Also she will be in Harvard this summer to do her masters",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519419282221,
+      "content": "if youve got bio questions going forward shed be good to talk w",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519419268370,
+      "content": "shes really great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519419192785,
+      "content": "I actually got denied by wardrop but when I mentioned Ms. Boylan supported me he accepted me to the program",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519419138013,
+      "content": "I will do my best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519419130846,
+      "content": "theyve given my so much support",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519419123112,
+      "content": "have a good time and do the most you can w it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519418988414,
+      "content": "I Really appreciate it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519418981271,
+      "content": "Without u I would of made it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519418969160,
+      "content": "definitely im happy to help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519418964001,
+      "content": "its gonna be really great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519418960840,
+      "content": "Thank you so much for everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519418956274,
+      "content": "congrats!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519418946094,
+      "content": "I got accepted to the engineering honors program",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519418938420,
+      "content": "whats up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519418928085,
+      "content": "Yo Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1519418919425,
+      "content": "You missed a call from Eren.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518899391991,
+      "content": "Ok thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518898566663,
+      "content": "good luck and lmk if you have any other questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518898544653,
+      "content": "for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518898538281,
+      "content": "Really appreciate it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518898535148,
+      "content": "Ok dope thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518898525621,
+      "content": "yeah prob its def worth a try",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518898509530,
+      "content": "Physics 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518898502166,
+      "content": "So is that enough do u think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518898490407,
+      "content": "Accel chem marine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518898473160,
+      "content": "Since I\u00e2\u0080\u0099m a repeat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518898465844,
+      "content": "I took reg bio at my old school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518898394681,
+      "content": "but you might be able to do it w less",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518898377388,
+      "content": "yeah id already taken bio, accel chem, adv chem, adv bio: eco, robotics, ai seminar, and some harvard computer programming courses",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518896381631,
+      "content": "For the prequisites did u have to take anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518896326770,
+      "content": "Which one was the one u did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518896314493,
+      "content": "Eren sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/ErenKeles_e986adb658/photos/28216925_1935115926515918_706878215_o_1935115926515918.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518896300720,
+      "content": "Eren sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/ErenKeles_e986adb658/photos/28217564_1935115763182601_581724357_o_1935115763182601.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518896271128,
+      "content": "Yo lando",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518817113144,
+      "content": "Will be there in 2 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518816898248,
+      "content": "im in the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518812813274,
+      "content": "bet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518812742074,
+      "content": "I\u00e2\u0080\u0099m at the trainers rn I\u00e2\u0080\u0099ll let u know if I can meet earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518812718675,
+      "content": "Yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518812705283,
+      "content": "yeah sure meet in the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518812700520,
+      "content": "sorry just saw this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518812689168,
+      "content": "Does like 4:30 work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518812669613,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1518800700432,
+      "content": "Yo Landon do you wanna meet after the debrief session to study for marine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1517343831299,
+      "content": "Ok dope see u then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517343819111,
+      "content": "sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1517343619286,
+      "content": "Yo Lando do u want to study at lib at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1516072043171,
+      "content": "Eren called you.",
+      "call_duration": 141,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1516070263947,
+      "content": "Eren called you.",
+      "call_duration": 132,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510099620967,
+      "content": "im in the lib big room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1510099611298,
+      "content": "Where are u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509553485052,
+      "content": "yeah im on my way rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1509553204229,
+      "content": "Come to my room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1509502010423,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509500248778,
+      "content": "i've got a film a movie for another class tomorrow so I'm not sure what time but something like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1509496572147,
+      "content": "1:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1509496544366,
+      "content": "What time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509496512586,
+      "content": "do you think he\u00e2\u0080\u0099s gonna give us class time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509496493124,
+      "content": "yeah that sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1509496295313,
+      "content": "I have my go pro which we can use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eren Keles",
+      "timestamp_ms": 1509496279312,
+      "content": "Yo do u want to do the video for marine bio tomorrow",
+      "type": "Generic"
+    }
+  ],
+  "title": "Eren Keles",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ErenKeles_e986adb658"
+}

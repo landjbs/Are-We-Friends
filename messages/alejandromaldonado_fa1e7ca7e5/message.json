@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Alejandro Maldonado"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alejandro Maldonado",
+      "timestamp_ms": 1415509431936,
+      "content": "nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415509423815,
+      "content": "What's up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alejandro Maldonado",
+      "timestamp_ms": 1415508733223,
+      "content": "LANDON",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alejandro Maldonado",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AlejandroMaldonado_fa1e7ca7e5"
+}

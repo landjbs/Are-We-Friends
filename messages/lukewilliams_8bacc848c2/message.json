@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Luke Williams"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luke Williams",
+      "timestamp_ms": 1533915047716,
+      "content": "Luke Williams just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522510030500,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Luke Williams",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LukeWilliams_8bacc848c2"
+}

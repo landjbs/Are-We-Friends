@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Aspen Buck"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522307615179,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aspen Buck",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AspenBuck_2bbfc9f9e2"
+}

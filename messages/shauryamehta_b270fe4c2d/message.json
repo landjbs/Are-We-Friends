@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Shaurya Mehta"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528467163727,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shaurya Mehta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ShauryaMehta_b270fe4c2d"
+}

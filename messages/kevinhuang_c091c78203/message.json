@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Huang"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522454962773,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kevin Huang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "KevinHuang_c091c78203"
+}

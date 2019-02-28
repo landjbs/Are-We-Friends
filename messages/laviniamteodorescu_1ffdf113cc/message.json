@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Lavinia M. Teodorescu"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522427844325,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lavinia M. Teodorescu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LaviniaMTeodorescu_1ffdf113cc"
+}

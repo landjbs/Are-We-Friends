@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Edward Klatskin"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466477826216,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Edward Klatskin",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "EdwardKlatskin_811836733b"
+}

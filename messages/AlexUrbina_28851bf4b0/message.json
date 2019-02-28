@@ -1,0 +1,261 @@
+{
+  "participants": [
+    {
+      "name": "Alex Urbina"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526141651658,
+      "content": "Yea that\u00e2\u0080\u0099s so much. Have a good time in Boston",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526137679574,
+      "content": "great! lmk if you need anything else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526131724355,
+      "content": "Thanks a million!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526131717458,
+      "content": "Yessssss this is perfect!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526131545599,
+      "content": "is this what you were thinking?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526131539322,
+      "content": "You sent an audio clip.",
+      "audio_files": [
+        {
+          "uri": "messages/AlexUrbina_28851bf4b0/audio/MiGenteDowntown_809701672561175.mp3"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526079370222,
+      "content": "Yea of course",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526075967537,
+      "content": "aw thanks :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526075850546,
+      "content": "Also cute promposal btw. Nice encounters puns",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526075834181,
+      "content": "Awesome \u00f0\u009f\u0098\u008a thank you sm!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526075820522,
+      "content": "yeah i can definitely do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526075195670,
+      "content": "That\u00e2\u0080\u0099s it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526075183739,
+      "content": "Awesome thanks! Here\u00e2\u0080\u0099s what I need string together 2 songs. The first is mi gente by j balvin (not the Beyonc\u00c3\u00a9 remix) from 0:00-1:18. Then I need 6 seconds of silence. And then start the song downtown by Anitta and j balvin from 0:00-0:16. Then cut to 1:14 and let it go to the end.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526074501825,
+      "content": "definitely! just lmk the songs and what you want done w them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526058350489,
+      "content": "Also I was wondering if you could string two songs together for me? I need there to be some cuts and pauses and I\u00e2\u0080\u0099ll let you know where but I don\u00e2\u0080\u0099t have like garage band or anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1526058266151,
+      "content": "Hey Landon so just wanted to clarify that you don\u00e2\u0080\u0099t have to set up the equipment anymore. Thank you for working with Charlie to teach him how.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1525741077248,
+      "content": "Yea no that\u00e2\u0080\u0099s not important we don\u00e2\u0080\u0099t have to do that. Thanks for the heads up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525741048148,
+      "content": "we\u00e2\u0080\u0099ve had some trouble w that before just so you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1525737623980,
+      "content": "*priority",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1525737618207,
+      "content": "We were but that\u00e2\u0080\u0099s not a priorit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525736986700,
+      "content": "wait you arent planning to turn off the lights are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525736974551,
+      "content": "great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1525736648981,
+      "content": "I\u00e2\u0080\u0099ll let you know more as plans solidify",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1525736630115,
+      "content": "It will be downstairs in hargate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525736539912,
+      "content": "just lmk where its gonna be and stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525736527285,
+      "content": "haha im happy to help \u00f0\u009f\u0099\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1525736400423,
+      "content": "Omg THANK YOU SO MUCH! I owe you one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525736331576,
+      "content": "i leave right after classes but i could come in during my free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525736321844,
+      "content": "yeah for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1525736288211,
+      "content": "Oh no \u00e2\u0098\u00b9\u00ef\u00b8\u008f Okay well I don\u00e2\u0080\u0099t know what your schedule is and I don\u00e2\u0080\u0099t want to ask too much but do you think you would be able to set up the equipment before you leave and then we can ask Alexa and/or Charlie to dj the actual event?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525736175859,
+      "content": "id love to but im gonna be in boston saturday and sunday night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1525735743077,
+      "content": "Hey Landon I know this is super last minute but Latinx Appreciation and La Sociedad are hosting an event this weekend and we need a dj. Would you be willing to help us out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519170520087,
+      "content": "just got here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519170471584,
+      "content": "Lmk when you\u00e2\u0080\u0099re here and I\u00e2\u0080\u0099ll come down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519170457291,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519170167597,
+      "content": "im almost there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519170163478,
+      "content": "first floor near the entrance maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519170114293,
+      "content": "You accepted Alex's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519169827397,
+      "content": "Hey where in the lib did you want to meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519169813434,
+      "content": "Alex added you on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alex Urbina",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AlexUrbina_28851bf4b0"
+}

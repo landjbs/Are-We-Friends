@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "John Etchart"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Etchart",
+      "timestamp_ms": 1503975016475,
+      "content": "You're good man, that you for doing that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1503974982671,
+      "content": "yeah definitely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1503974979060,
+      "content": "sorry man just saw this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Etchart",
+      "timestamp_ms": 1503421973851,
+      "content": "Hey man! I'm excited to tell you that you have a little brother! His name is Jacob (jake) Meyers and he is in the third form in drury. Please call him as soon as you can to welcome him to the school and see if he needs anything! (You can find his number on the directory) Hope you're having a great rest of your summer.",
+      "type": "Generic"
+    }
+  ],
+  "title": "John Etchart",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JohnEtchart_6de6af0d86"
+}

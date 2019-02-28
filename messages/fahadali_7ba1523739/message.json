@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Fahad Ali"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523468535629,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fahad Ali",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "FahadAli_7ba1523739"
+}

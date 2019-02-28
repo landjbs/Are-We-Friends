@@ -1,0 +1,190 @@
+{
+  "participants": [
+    {
+      "name": "Ethan Ruttenberg"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Willa King"
+    },
+    {
+      "name": "Sam Van Horn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516062062449,
+      "content": "k the meeting should only be like 7:30-8 so come by if you have time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1516062031673,
+      "content": "But I could try to drop by after that, idk how long it will be tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1516061750329,
+      "content": "I have a field hockey meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Van Horn",
+      "timestamp_ms": 1516061735466,
+      "content": "I have a commitment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516061589129,
+      "content": "anyone else though?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516061582210,
+      "content": "dw its ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ethan Ruttenberg",
+      "timestamp_ms": 1516061188013,
+      "content": "I have tones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516060911289,
+      "content": "hey guys sorry for the late notice but would you be able to come to the studio for a very quick meeting at 7:30 today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1506870842267,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506870811141,
+      "content": "im printing a sign rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1506870767265,
+      "content": "Is there a sign or banner for table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1506869201638,
+      "content": "Got someone to cover will be there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506867289012,
+      "content": "and hopefully ill be able to come before that i just have a lot of other ones to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506867263316,
+      "content": "if that works id really appreciate it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1506867219500,
+      "content": "I'm supposed to do JGW but I can set up tables next to each other maybe?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506867021015,
+      "content": "could you do 11:30-12:15 then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506867003510,
+      "content": "yeah my bad youre right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Van Horn",
+      "timestamp_ms": 1506866990785,
+      "content": "Thats true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1506866958894,
+      "content": "I think the fair stars at 11:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506866229517,
+      "content": "thanks so much!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1506866081552,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506866037140,
+      "content": "could you do 11-11:45?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1506866012853,
+      "content": "earlier is better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506865994509,
+      "content": "what times work best for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506865982081,
+      "content": "great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1506865956769,
+      "content": "I can do one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506865619204,
+      "content": "does anyone want to do a shift at the club bazaar id really appreciate it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506865594780,
+      "content": "You named the group Wsps.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Wsps",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "Wsps_694ae3336e"
+}

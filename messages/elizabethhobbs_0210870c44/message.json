@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Elizabeth Hobbs"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522070606561,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Elizabeth Hobbs",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ElizabethHobbs_0210870c44"
+}

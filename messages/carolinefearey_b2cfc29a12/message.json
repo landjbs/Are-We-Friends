@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Caroline Fearey"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522279273143,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Caroline Fearey",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "CarolineFearey_b2cfc29a12"
+}

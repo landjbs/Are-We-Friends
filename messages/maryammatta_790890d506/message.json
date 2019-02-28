@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Maryam Matta"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maryam Matta",
+      "timestamp_ms": 1523785181615,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Maryam Matta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MaryamMatta_790890d506"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Quentin Dosch"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509655414168,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Quentin Dosch",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "QuentinDosch_45d1c7188e"
+}

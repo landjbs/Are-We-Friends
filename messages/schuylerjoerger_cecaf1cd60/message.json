@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Schuyler Joerger"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Schuyler Joerger",
+      "timestamp_ms": 1526083543492,
+      "content": "ya i\u00e2\u0080\u0099m just outside of hargate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526083503334,
+      "content": "are you coming to wsps meeting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Schuyler Joerger",
+      "timestamp_ms": 1512006551550,
+      "content": "thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1511978192488,
+      "content": "sorry for the late response",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1511978187318,
+      "content": "yeah your title is Technical Director and you're a Board Member",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Schuyler Joerger",
+      "timestamp_ms": 1511921201938,
+      "content": "I am completing my resume for engineering honors and i was curious what my official position in the radio station, i would really appreciate if you could tell me. Also am I on the board ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509942603998,
+      "content": "dw about it just come to our board meeting at 7:40 tomorrow in the publication room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Schuyler Joerger",
+      "timestamp_ms": 1509940814063,
+      "content": "thank you for this opportunity and i'm sorry it has taken so long for me to get back to you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Schuyler Joerger",
+      "timestamp_ms": 1509940774967,
+      "content": "hey sorry to bother you for the position of technical manger what is the email/name of the advisor of wsps that I need to email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1494560672721,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Schuyler Joerger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SchuylerJoerger_cecaf1cd60"
+}

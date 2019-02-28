@@ -1,0 +1,229 @@
+{
+  "participants": [
+    {
+      "name": "Will Boffa"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522798982437,
+      "content": "just did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1522795804494,
+      "content": "Yo can you resend me your writers articles for the most recent issue?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1496189737697,
+      "content": "Great!  We'll definitely get some use out of those.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1496184989972,
+      "content": "i got permission to use sps.edu articles in the pelican so lmk if you want any of the 5 ive written this year",
+      "share": {
+        "link": "https://www.sps.edu/page"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495828801498,
+      "content": "k thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1495826492165,
+      "content": "Lower",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495826001030,
+      "content": "yo wheres the pelican meeting tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1453907630456,
+      "content": "Worst moments?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1453667278745,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1453666889389,
+      "content": "we just have to review ch 1-6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1453665803639,
+      "content": "What's our hum homework?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1448069553743,
+      "content": "put that you can go to the lib website",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1448067090369,
+      "content": "What did you guys put for the \"how can you learn more\" part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1444433391575,
+      "content": "I'm not debating next weekend.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1444433376647,
+      "content": "Ok.  Thanks dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444433367920,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1444432569555,
+      "content": "Is extra help for hum in brewster",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444418509542,
+      "content": "r u debating next weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443654777966,
+      "content": "thanks dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1443654314409,
+      "content": "Yes.  It will be at 7:30 in Hargate auditorium.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443653951953,
+      "content": "yo is there a debate meeting tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1442801430455,
+      "content": "K thanks.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1442801361014,
+      "content": "I don't think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1442800897021,
+      "content": "Do we need to have a full draft of our personal narrative for tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1442620267143,
+      "content": "Np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1442620252574,
+      "content": "Thanks dude.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1442620244972,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1442620233110,
+      "content": "Yeah but we just have to like review the stories",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1442620203849,
+      "content": "We have hum tomorrow right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1442620182544,
+      "content": "I don't think we have any",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1442619779202,
+      "content": "Yo whats our hum hw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432599392439,
+      "content": "np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1432598949779,
+      "content": "Ok. Thanks dude.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432598934188,
+      "content": "nah I think it's mr. Saravia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Boffa",
+      "timestamp_ms": 1432598831426,
+      "content": "Yo is mr chase on duty?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Will Boffa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "WillBoffa_30e49500df"
+}

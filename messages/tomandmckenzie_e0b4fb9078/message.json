@@ -1,0 +1,568 @@
+{
+  "participants": [
+    {
+      "name": "Tom Dienes"
+    },
+    {
+      "name": "Mckenzie Case"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464104994402,
+      "content": "But once I get back yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104986688,
+      "content": "ok no worries then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464104978464,
+      "content": "Uh I'm running to grab and go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104977624,
+      "content": "like if that would work versus the whole o2 thing that Landon did out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104957905,
+      "content": "in part 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104954567,
+      "content": "also while I'm gone if you get there could you see if we could add potassium permanganate to ch2ch2 to make ohch2ch2oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104906766,
+      "content": "awesome thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464104899973,
+      "content": "Tom: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104896074,
+      "content": "will be back soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104891021,
+      "content": "but my bags there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104885229,
+      "content": "Getting food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464104869144,
+      "content": "Yeah sure are you there now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104630437,
+      "content": "just a few things we need to finish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104624142,
+      "content": "can you guys meet me in Lindsey at the red chairs by our classroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464104611038,
+      "content": "We need to meet during lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464088645654,
+      "content": "hey so are we good or do we need to meet during hum flex or lunch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464050444940,
+      "content": "yeah 2nd floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464050434932,
+      "content": "You guys in the lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464046854583,
+      "content": "d is the real sturggle for me, got answers for the rest of them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464045970522,
+      "content": "yeah for part 2 im confident about my answers for a b and c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464043507453,
+      "content": "I have the first half of 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464043458858,
+      "content": "And yeah that's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464043451709,
+      "content": "I have 1 and the first half of 2 done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464043011930,
+      "content": "im gonna work on some on the bus rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464043005622,
+      "content": "which ones have you done so far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464042999388,
+      "content": "Okay awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464042963937,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464042753867,
+      "content": "Does that work for you guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464042747072,
+      "content": "Can we meet at 8:30 in the lib to finish the problems?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464003331557,
+      "content": "okay thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464003288914,
+      "content": "Pretty sure they're basic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464003224071,
+      "content": "and no got rid of big table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464003215029,
+      "content": "are ketones basic or neutral?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464002700579,
+      "content": "do we still want the big table?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464002478070,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464002468695,
+      "content": "what top left corner box?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464002408184,
+      "content": "and delete that top left corner box somehow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464002399122,
+      "content": "can someone go to the iodoform test on our original thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001410724,
+      "content": "i shared it with both of your emails, gmail and sps, so if you get it lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001388855,
+      "content": "and i got rid of the huge table entirely, since now we have cleaner smaller tables for everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001372926,
+      "content": "added a bit to the conclusion about the lucas test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001360553,
+      "content": "fixed the table for lucas test-it was showing results for chromic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001350400,
+      "content": "added a table for iodoform",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001346596,
+      "content": "I got rid of that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001340287,
+      "content": "and it had a bunch of stuff from the hydrocarbons lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001325141,
+      "content": "Uh the first one it looked like you were working on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464001311487,
+      "content": "what is different about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464001306976,
+      "content": "no i didnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001302754,
+      "content": "what you had really confused me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001297667,
+      "content": "i named it 2.0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464001293290,
+      "content": "which one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001286552,
+      "content": "did you get the document?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001282989,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464001280887,
+      "content": "still working on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1464001277284,
+      "content": "dont print out yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001226475,
+      "content": "i'm gonna print out what i have here and bring it to class-i named it rxns of alcohols 2, and shared it with you guys. if you want to make any changes feel free, otherwise im going with this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464001193274,
+      "content": "i fixed the table for chromic acid, and im not sure what the small blank table you had was for",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464000872169,
+      "content": "But I think it's pretty much what we want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464000860373,
+      "content": "i edited it in a different document so i dont screw anything you were doing up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464000621684,
+      "content": "and im wondering if you just wanna get rid of the big table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1464000601898,
+      "content": "hey---im trying to finalize it/make edits and i noticed you reorganized everything. im adding a little table for iodoform and getting rid of the stuff from the hydrocarbons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463959809523,
+      "content": "Ok awesome on way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463959196068,
+      "content": "im on the second floor when you guys get here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1463956584014,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463956562120,
+      "content": "yeah thats probably better for me too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463956538129,
+      "content": "I might be more like 7:15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463949983345,
+      "content": "thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463949980960,
+      "content": "okay thats fine with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463949964107,
+      "content": "uh I can yeah but not past 930-from then on i need to work on my capstone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463949920607,
+      "content": "I have an away game tomorrow at 5 so I will be back very late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463949901772,
+      "content": "would you guys be okay with also working through most of our problem set?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463948569054,
+      "content": "It should be yeah, coming back from a game in Boston. If 7 doesn't work I'll let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1463940214770,
+      "content": "is 7 good?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463937717111,
+      "content": "When do you guys want to meet to write the lab?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463618270979,
+      "content": "can you come up if thats ok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463618258591,
+      "content": "at round table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463618256373,
+      "content": "upstairs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463617917801,
+      "content": "lmk when you get here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463617914764,
+      "content": "im on the first floor, but i can move if you guys want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463615999315,
+      "content": "That should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463615964377,
+      "content": "can we do 8:30 in the lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463615956301,
+      "content": "ok awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463615952158,
+      "content": "Yeah it works for me either way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463615944841,
+      "content": "i think we should go through it all together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463615939004,
+      "content": "can we meet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463615265185,
+      "content": "Should only take like 15 minutes that way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463615247986,
+      "content": "Although the tbh it might not be easier to meet---if we put all the data in a Google doc, Kenzie look what the first one does Landon take the second, and I'll do the last 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1463614442578,
+      "content": "i can meet at 745",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tom Dienes",
+      "timestamp_ms": 1463614282478,
+      "content": "How about like right now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463613629575,
+      "content": "what time works for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mckenzie Case",
+      "timestamp_ms": 1463613625907,
+      "content": "Hey can we meet in the lib tonight to go over what tests to do for the unknown tomorrow?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tom and Mckenzie",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "TomandMckenzie_e0b4fb9078"
+}

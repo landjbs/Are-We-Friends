@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Rowan Macy"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488148346853,
+      "content": "its ok we found it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rowan Macy",
+      "timestamp_ms": 1488145590168,
+      "content": "Nope, sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488144284142,
+      "content": "hey do you know where the gear catcher is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rowan Macy",
+      "timestamp_ms": 1487552989331,
+      "content": "That makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1487552970643,
+      "content": "the short ones are meant to go through the bent plexiglass and the long ones are for holding the churros",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rowan Macy",
+      "timestamp_ms": 1487552953395,
+      "content": "Okay thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1487552932463,
+      "content": "yeah we have to cut the corrugated aluminum along those lines",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rowan Macy",
+      "timestamp_ms": 1487552890529,
+      "content": "Are the screws on the table the right ones? They look like they're too short to go through two pieces of sign board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rowan Macy",
+      "timestamp_ms": 1487552703176,
+      "content": "Mr. Wardrop said he fixed it and replaced the blade but all there is is a piece of corrugated aluminum with yellow lines on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1487552650051,
+      "content": "no the backing hasn't gotten cut yet. mr renauld made one cut before something in the saw broke and he had to stop. we've got to wait until he fixes it to get any more done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1487552528017,
+      "content": "You accepted Rowan's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rowan Macy",
+      "timestamp_ms": 1487552491112,
+      "content": "Hey Landon, Mr. Wardrop was just wondering what's up with the gear mechanism - do you know if the backing ever go cut?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rowan Macy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RowanMacy_6c9aeba012"
+}

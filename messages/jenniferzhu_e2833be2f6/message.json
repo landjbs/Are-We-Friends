@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jennifer Zhu"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jennifer Zhu",
+      "timestamp_ms": 1525873846438,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jennifer Zhu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JenniferZhu_e2833be2f6"
+}

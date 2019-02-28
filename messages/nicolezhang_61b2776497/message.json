@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Nicole Zhang"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522253942218,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nicole Zhang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "NicoleZhang_61b2776497"
+}

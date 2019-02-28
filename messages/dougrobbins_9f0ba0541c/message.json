@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Doug Robbins"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1430271334306,
+      "content": "Shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Doug Robbins",
+      "timestamp_ms": 1430270850286,
+      "content": "It was due at 3 tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Doug Robbins",
+      "timestamp_ms": 1430270850196,
+      "content": "Yeah it took me a hell of a long time and I looked almost everything up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1430269437066,
+      "content": "what was the music thing we had to do tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Doug Robbins",
+      "timestamp_ms": 1427841737677,
+      "content": "He didn't like the revisit as a whole tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Doug Robbins",
+      "timestamp_ms": 1427841727929,
+      "content": "Yeah he did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1427818877133,
+      "content": "did ur brother like his revisit host?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1427740478938,
+      "content": "yo is ur brother coming to revisits today?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Doug Robbins",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "DougRobbins_9f0ba0541c"
+}

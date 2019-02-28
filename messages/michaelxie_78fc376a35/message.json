@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Michael Xie"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524604859211,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Xie",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MichaelXie_78fc376a35"
+}

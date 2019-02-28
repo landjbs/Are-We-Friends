@@ -1,0 +1,338 @@
+{
+  "participants": [
+    {
+      "name": "Bidley Saladin"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1463108332529,
+      "content": "k thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1463107345098,
+      "content": "I think I'm gonna shorten certain parts so it's not extremely long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1463106635841,
+      "content": "yo are you copying everything exactly to your poster or are you shortening it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1463068248108,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1463068208514,
+      "content": "Do you want to add a background and make the citation text smaller?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1463017745764,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1463017700568,
+      "content": "Hey you can do as much as you want I'm gonna work on it during my D free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444269528045,
+      "content": "Alright well this is the best that I've come up with",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444269495977,
+      "content": "I haven't written it yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444269443892,
+      "content": "Idl what did you talk about?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444269410920,
+      "content": "yeah that's a good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444269151899,
+      "content": "I just started talking about the logarithmic scale of ph and how the concentration of the OH- must increase in order for the ph to be considered basic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444269086070,
+      "content": "yeah that looks good Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444268539766,
+      "content": "Bidley sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/BidleySaladin_8dd0c52a83/photos/12087437_1798579977035304_1320529019_n_1798579977035304.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444268518117,
+      "content": "This is what I have for the conclusion so far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444265489457,
+      "content": "k thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444265464056,
+      "content": "I'm not on the conclusion yet I just started working on it now I'll tell you when I get there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444265423255,
+      "content": "wat did u put in your lab report in the conclusion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444265362645,
+      "content": "I have no clue so I'm guessing we're gonna have to do some research",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444265337077,
+      "content": "do u know why the number of drops to produce a neutral wasn't equal between the acid and base?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444259885612,
+      "content": "Yeah thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444259858805,
+      "content": "did u get my email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444259823233,
+      "content": "not yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444259762346,
+      "content": "Have you finished the lab report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444259731609,
+      "content": "yea sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444259152436,
+      "content": "Can you send me the graphs please? My email is bidley.saladin@sps.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444007457604,
+      "content": "Oh ok well I'm done then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444007429998,
+      "content": "but for tomorrow u just have to do two of those sections",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444007364964,
+      "content": "Almost I just have to do the procedure but I think that will be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444007299824,
+      "content": "ur already done then right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444007188823,
+      "content": "Bidley sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/BidleySaladin_8dd0c52a83/photos/12086826_1797634247129877_1119142906_n_1797634247129877.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444007180235,
+      "content": "yeah that sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444007142809,
+      "content": "I will probably do the introduction, experimental design, and maybe some data?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444007055189,
+      "content": "wat parts of the report r u doing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444004500775,
+      "content": "Ok I'm starting it now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444004477901,
+      "content": "i think were doing just our experiment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1444004439896,
+      "content": "When writing our lab report are we reporting and analyzing our own experiment or the one the class did as a whole",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443989462118,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1443989243171,
+      "content": "I think I'm gonna start my lab report around 8 so I'll message you then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443987081539,
+      "content": "yah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1443987032261,
+      "content": "I don't think so she said were gonna turn in two different reports but I think our data is kind of weird so we can talk about it thru Facebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443986975707,
+      "content": "r we supposed to work together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1443986939685,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443986920361,
+      "content": "do we have to do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1443986867723,
+      "content": "Yeah that's what I saw too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443986842223,
+      "content": "on canvas it says we have to do two sections of the report for tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1443983215239,
+      "content": "No problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443983188536,
+      "content": "k thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1443983093346,
+      "content": "I think we have to do two sections of the lab report but it's due on Tuesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443983048635,
+      "content": "do we have to do a lab report for bio?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443741100493,
+      "content": "yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bidley Saladin",
+      "timestamp_ms": 1443740379682,
+      "content": "Wanna meet in the lib at 8:00",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bidley Saladin",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "BidleySaladin_8dd0c52a83"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Seoyoon Kim"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1513199492432,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Seoyoon Kim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SeoyoonKim_21f57df3a3"
+}

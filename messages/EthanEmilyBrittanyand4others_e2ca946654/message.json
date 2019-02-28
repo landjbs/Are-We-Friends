@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Ethan Ruttenberg"
+    },
+    {
+      "name": "Emily Albright"
+    },
+    {
+      "name": "Brittany Cong"
+    },
+    {
+      "name": "Alexa Greene"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Charlotte Bennington"
+    },
+    {
+      "name": "Eda Keni"
+    },
+    {
+      "name": "Avery Van Ingen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1519868152207,
+      "content": "yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ethan Ruttenberg",
+      "timestamp_ms": 1519864057946,
+      "content": "Gooood",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1519862663649,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Avery Van Ingen",
+      "timestamp_ms": 1519862575309,
+      "content": "ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519862260257,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emily Albright",
+      "timestamp_ms": 1519862236169,
+      "content": "yeah!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Bennington",
+      "timestamp_ms": 1519862230146,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1519862205716,
+      "content": "i needed to find a picture of nash bash for the pelican do you mind if i use this one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1519862188635,
+      "content": "Brittany sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/EthanEmilyBrittanyand4others_e2ca946654/photos/28512313_927657760717123_787504365_n_927657760717123.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1519862188388,
+      "content": "hey guys",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ethan, Emily, Brittany and 4 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "EthanEmilyBrittanyand4others_e2ca946654"
+}

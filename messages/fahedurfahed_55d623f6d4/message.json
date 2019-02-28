@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Fahedur Fahed"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fahedur Fahed",
+      "timestamp_ms": 1517507595343,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fahedur Fahed",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "FahedurFahed_55d623f6d4"
+}

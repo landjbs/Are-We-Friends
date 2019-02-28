@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Kendra Heredia"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509496506421,
+      "content": "i'm in the peer tutoring room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509496501338,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509496479547,
+      "content": "do you want to work on the movie?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509496450293,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509496419859,
+      "content": "are you still in the lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1507170229611,
+      "content": "ok sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1507169233069,
+      "content": "anything darkish should work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1507169098460,
+      "content": "i don't think I have black",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1507168921031,
+      "content": "black",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1507168905315,
+      "content": "what color sweats are you wearing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1507168892756,
+      "content": "yeah thats perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1507168876231,
+      "content": "Yeah, do you have a plain white t shirt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1507168849047,
+      "content": "you wanna just do something chill like sweatpants and a t shirt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1507168681748,
+      "content": "Hey Landon, so what did you have in mind for tomorrow?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kendra Heredia",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "KendraHeredia_7191141925"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Janelle Perez"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Janelle Perez",
+      "timestamp_ms": 1524142648038,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Janelle Perez",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JanellePerez_7b5c42b9d2"
+}

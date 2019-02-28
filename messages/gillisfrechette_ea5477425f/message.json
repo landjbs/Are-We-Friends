@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Gillis Frechette"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488914775510,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gillis Frechette",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "GillisFrechette_ea5477425f"
+}

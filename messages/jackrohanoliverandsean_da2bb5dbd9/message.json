@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Jack Parker"
+    },
+    {
+      "name": "Rohan Mundiya"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Oliver Morton"
+    },
+    {
+      "name": "Sean Lee"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sean Lee",
+      "timestamp_ms": 1427335870749,
+      "content": "Just make it up as u go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jack Parker",
+      "timestamp_ms": 1427335844768,
+      "content": "We just have to improvise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Oliver Morton",
+      "timestamp_ms": 1427335843056,
+      "content": "Boston...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1427335830796,
+      "content": "I haven't done shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jack Parker",
+      "timestamp_ms": 1427335462256,
+      "content": "done already wrote it down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rohan Mundiya",
+      "timestamp_ms": 1427335437999,
+      "content": "\"Yo motherfuckas issa bout to go down\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jack Parker",
+      "timestamp_ms": 1427335253214,
+      "content": "How are you guys beginning your speech for tomorrow?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jack, Rohan, Oliver and Sean",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "JackRohanOliverandSean_da2bb5dbd9"
+}

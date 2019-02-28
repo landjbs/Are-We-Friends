@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "James Pirozzolo"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "James Pirozzolo",
+      "timestamp_ms": 1462036920333,
+      "content": "we'll meet in the boathouse erg room at 1:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "James Pirozzolo",
+      "timestamp_ms": 1462036907610,
+      "content": "thabks so much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1462036892506,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "James Pirozzolo",
+      "timestamp_ms": 1462036761579,
+      "content": "we need a body",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "James Pirozzolo",
+      "timestamp_ms": 1462036757847,
+      "content": "1:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "James Pirozzolo",
+      "timestamp_ms": 1462036755914,
+      "content": "come to practice today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "James Pirozzolo",
+      "timestamp_ms": 1462036750616,
+      "content": "landon",
+      "type": "Generic"
+    }
+  ],
+  "title": "James Pirozzolo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JamesPirozzolo_29101655de"
+}

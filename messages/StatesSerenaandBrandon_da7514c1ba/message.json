@@ -1,0 +1,434 @@
+{
+  "participants": [
+    {
+      "name": "States Langham"
+    },
+    {
+      "name": "Serena Bingham"
+    },
+    {
+      "name": "Brandon Ruiz"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447136976681,
+      "content": "I'm pretty sure I sorted it out, some of your graphs were in random places, I shared it with you guys and I have a free before class tommorow so if you have any problems with it let me know and I'll fix it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447135961162,
+      "content": "okay where the fuck are all your scatter plots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447135872134,
+      "content": "you guys may have accidently put your graph for 3 in your answer for four",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447135756294,
+      "content": "nvmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447135089484,
+      "content": "you didnt make a scatter plot for 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447135083144,
+      "content": "uhh guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447127674547,
+      "content": "States put some pictures of 'Murica in there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1447126318617,
+      "content": "Is it done?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447115227287,
+      "content": "It's on google docs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447115221716,
+      "content": "Oh and the thing is done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447115218106,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447115203256,
+      "content": "Please take your needs to Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447115190201,
+      "content": "I'm gonna take a nap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447115149455,
+      "content": "The fucking stuff Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447115132696,
+      "content": "what do u need states?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447114984412,
+      "content": "I just need to get the goodie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447114939802,
+      "content": "Edwards is making rounds",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447114933612,
+      "content": "Dorm is closed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447114628982,
+      "content": "Uk the stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447114624588,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447114369287,
+      "content": "Stuff?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447114306101,
+      "content": "For the stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447114302282,
+      "content": "I'm coming to armor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1447113309669,
+      "content": "Ok I will in a sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447113025545,
+      "content": "Serena we need you to paste your graphs onto the Google doc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447019013911,
+      "content": "Yeah I'll make the pp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1447018973070,
+      "content": "Okie sounds good and then states is making the power point?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447018972245,
+      "content": "is states going to do those with us or is he just doing the power point by himself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447018584966,
+      "content": "We got to number 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447018577361,
+      "content": "Me and Landon are gonna finish it up later tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1447018520520,
+      "content": "How's it coming?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446934239713,
+      "content": "You're making the power point",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446930734508,
+      "content": "did I miss everything?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446919662741,
+      "content": "I have mandatory rehearsal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446919653197,
+      "content": "/can't meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446919644402,
+      "content": "In an sat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446919618999,
+      "content": "Where re you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446919432151,
+      "content": "Are you guys here?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446902997005,
+      "content": "Meet in the library at 1 today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446779392768,
+      "content": "Yup good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446778219466,
+      "content": "....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446778207964,
+      "content": "Has anyone done anything more?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446778202772,
+      "content": "Okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446778176661,
+      "content": "that sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446778123117,
+      "content": "States sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/11405237_850975711617532_606420572_n_850975701617533.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446778091825,
+      "content": "Totally agreed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446778020770,
+      "content": "I think we should meet after classes on Saturday and work on it for a little so that on Sunday someone can just make a PowerPoint and we can be done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446777982298,
+      "content": "Guys I'm not gonna be here at all on Sunday so if we were planning on doing our whole project then that's not gonna work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446688969725,
+      "content": "no i refuse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446688962408,
+      "content": "nobody does",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446688959356,
+      "content": "We aren't turning this in right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446688815779,
+      "content": "Well fuck me I do not understand any of these",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446688639076,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/StatesSerenaandBrandon_da7514c1ba/photos/12200628_418741061657240_1690664077_n_418741061657240.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446688629839,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/StatesSerenaandBrandon_da7514c1ba/photos/12212313_418741048323908_851541825_n_418741048323908.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446688127876,
+      "content": "Tell me what you guys got",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446688119399,
+      "content": "Serena sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/StatesSerenaandBrandon_da7514c1ba/photos/12212435_891230350953089_1378631496_n_891230350953089.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446688103114,
+      "content": "Serena sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/StatesSerenaandBrandon_da7514c1ba/photos/12212128_891230314286426_2102571185_n_891230314286426.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446688064743,
+      "content": "Can we see it? To compare answers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446688007643,
+      "content": "Ya but I totally fucked it up and didn't get any of it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446687487415,
+      "content": "Did u do the hw yet Serena",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446685669487,
+      "content": "I also did 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446649097323,
+      "content": "There are 18 questions total 9 for the world and 9 for the U.S.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446649074603,
+      "content": "That's what I've done for the project so far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Bingham",
+      "timestamp_ms": 1446649064157,
+      "content": "Serena sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/StatesSerenaandBrandon_da7514c1ba/photos/12212146_891046200971504_1629740055_n_891046200971504.jpg"
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "States, Serena and Brandon",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "StatesSerenaandBrandon_da7514c1ba"
+}

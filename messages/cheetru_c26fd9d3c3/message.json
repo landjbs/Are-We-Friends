@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Cheet Ru"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523640831468,
+      "content": "hey i heard we cant have the dance in the wrestling room could we move it to new space?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Cheet Ru",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "CheetRu_c26fd9d3c3"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Anna Solzhenitsyn"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anna Solzhenitsyn",
+      "timestamp_ms": 1506989795302,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anna Solzhenitsyn",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AnnaSolzhenitsyn_98acf860a6"
+}

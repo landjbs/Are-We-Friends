@@ -1,0 +1,337 @@
+{
+  "participants": [
+    {
+      "name": "Brandon Ruiz"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1513217329080,
+      "content": "thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1513167009694,
+      "content": "!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1513167007617,
+      "content": "Grats on Harvard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484356872230,
+      "content": "k i'll be there in a few",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484356845346,
+      "content": "Shim and I are heading out now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484356662855,
+      "content": "Hold up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484356623842,
+      "content": "yo do you want to go to the lab rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484353420728,
+      "content": "yea but only for 30 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484352747568,
+      "content": "You going to the lab tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484183451113,
+      "content": "https://instructure-uploads.s3.amazonaws.com/account_34080000000000001/attachments/74746/2017FRCGameSeasonManual.pdf?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&Expires=1484269421&Signature=VWp68T%2BkYe9OTasruHxZ8ENXXd0%3D&response-content-disposition=attachment%3B%20filename%3D%222017FRCGameSeasonManual.pdf%22%3B%20filename%2A%3DUTF-8%27%272017FRCGameSeasonManual.pdf",
+      "share": {
+        "link": "https://instructure-uploads.s3.amazonaws.com/account_34080000000000001/attachments/74746/2017FRCGameSeasonManual.pdf?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&Expires=1484269421&Signature=VWp68T%2BkYe9OTasruHxZ8ENXXd0%3D&response-content-disposition=attachment%3B+filename%3D%222017FRCGameSeasonManual.pdf%22%3B+filename%2A%3DUTF-8%27%272017FRCGameSeasonManual.pdf"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484183423206,
+      "content": "send me that link",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484183419009,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484183408923,
+      "content": "im just like looking at the rules rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484183363587,
+      "content": "but they actually check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484183363542,
+      "content": "what do you do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484183356042,
+      "content": "ik it sucks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484183330991,
+      "content": "bruhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484183324000,
+      "content": "prob until 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484183316336,
+      "content": "you need 4 hrs a week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484183262723,
+      "content": "How long you gonna be there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484183253450,
+      "content": "Bruh how often do you go?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484183229955,
+      "content": "yea im there rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1484183016966,
+      "content": "yo do you go to the lab for hw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1483797809686,
+      "content": "10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1483765922658,
+      "content": "What time do we have to be at thing thing tomorrow???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465185437835,
+      "content": "Understand the basic overview of HIV/AIDS.\nHow does the virus spread, what does the virus do to the body, and why it is important to know about HIV/AIDS\nDefine the term virus\nExplain the role of the helper T-cell in human immune response\nModel the structure of HIV and its method of reproduction.\nIdentify the structures of HIV and explain the significance of each structure\nExplain why viral RNA can be translated into cellular DNA\nExplain the role that reverse transcriptase, integrase, and protease have with HIV viral replication\nModel the structures of reverse transcriptase, integrase, and protease and how it relates to HIV\nUnderstand the effect of HIV at a cellular level.\nUnderstand the progression of an HIV infection\nExplain how HIV infects and kills a Helper T-cell and relate this concept to the function of the cell membrane\nDescribe the concept of antiretroviral drug therapy and why it is an effective in treating HIV",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447286854882,
+      "content": "Damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447286835253,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447286817603,
+      "content": "You in the dorm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447174899565,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447174263532,
+      "content": "to see if states messed up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447174256527,
+      "content": "We have to review everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447174250435,
+      "content": "Come to my room after lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447111400307,
+      "content": "where r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447110777622,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447110539867,
+      "content": "My room in 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447110487022,
+      "content": "when u wanna do the project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447044789651,
+      "content": "Come down spod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447042170755,
+      "content": "yo do u want to do the project now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446919080046,
+      "content": "My room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446863885208,
+      "content": "Send me the picture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446070496897,
+      "content": "To see if there is a pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446070487885,
+      "content": "Files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446070482971,
+      "content": "look on canvas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446067410024,
+      "content": "The decay one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446067366418,
+      "content": "What packet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446067315820,
+      "content": "yo is there anyway to get another one of the packets from class if me and states don't have it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445228647119,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445227285596,
+      "content": "that's ok we can do it tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445226731155,
+      "content": "Can't do it tonight got Chinese to do still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445225083122,
+      "content": "yea sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445224645524,
+      "content": "Maybe at like midnight if you down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445223740822,
+      "content": "yo do u want to work on the problem set",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brandon Ruiz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "BrandonRuiz_d2d854fc6b"
+}

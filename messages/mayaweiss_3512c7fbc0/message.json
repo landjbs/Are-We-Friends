@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Maya Weiss"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1430180963412,
+      "content": "landjbs@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maya Weiss",
+      "timestamp_ms": 1430180380861,
+      "content": "Do you have a gmail account? I'm going to create a google doc for the lab so that we can work on it.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Maya Weiss",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MayaWeiss_3512c7fbc0"
+}

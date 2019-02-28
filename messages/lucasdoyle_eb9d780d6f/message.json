@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Doyle"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucas Doyle",
+      "timestamp_ms": 1516118989076,
+      "content": "maddie you and i",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucas Doyle",
+      "timestamp_ms": 1516118981606,
+      "content": "for the project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucas Doyle",
+      "timestamp_ms": 1516118978453,
+      "content": "wanna be in our group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucas Doyle",
+      "timestamp_ms": 1516118975244,
+      "content": "yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucas Doyle",
+      "timestamp_ms": 1513051610584,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lucas Doyle",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LucasDoyle_eb9d780d6f"
+}

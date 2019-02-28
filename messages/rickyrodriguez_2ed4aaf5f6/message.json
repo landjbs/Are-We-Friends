@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Ricky Rodriguez"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ricky Rodriguez",
+      "timestamp_ms": 1524529940795,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ricky Rodriguez",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RickyRodriguez_2ed4aaf5f6"
+}

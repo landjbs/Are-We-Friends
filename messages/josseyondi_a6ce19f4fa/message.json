@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Joss Eyondi"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1493392898692,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Joss Eyondi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JossEyondi_a6ce19f4fa"
+}

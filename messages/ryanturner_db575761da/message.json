@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Ryan Turner"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ryan Turner",
+      "timestamp_ms": 1519155066626,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ryan Turner",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RyanTurner_db575761da"
+}

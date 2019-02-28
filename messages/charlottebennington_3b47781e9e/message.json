@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Charlotte Bennington"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charlotte Bennington",
+      "timestamp_ms": 1527032333670,
+      "content": "got it! thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527032283895,
+      "content": "yeah definitely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Bennington",
+      "timestamp_ms": 1527032250277,
+      "content": "sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Bennington",
+      "timestamp_ms": 1527032248561,
+      "content": "do you mind trying again it doesnt think you did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Bennington",
+      "timestamp_ms": 1527032240514,
+      "content": "https://docs.google.com/forms/d/1PZ5J9_JdZds90uPKjS0cyUr2zUbj6LGWOphbpJxAZpE/edit#responses",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527032201272,
+      "content": "already did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Bennington",
+      "timestamp_ms": 1527031517331,
+      "content": "Hey landon, can you pls fill out the Survey I emailed you for my stats class?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Charlotte Bennington",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "CharlotteBennington_3b47781e9e"
+}

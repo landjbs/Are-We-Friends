@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "Brittany Cong"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Thaddeus Doodnath"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506906854827,
+      "content": "https://preclaboratories.com/product/nitrite-nitrate-test-strip/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506906836293,
+      "content": "https://www.chemetrics.com/index.php?route=product/category&path=59_98",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506903685100,
+      "content": "come meet me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506903652650,
+      "content": "ok im just on the first floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506903629396,
+      "content": "ill be there in a few",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506902911111,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thaddeus Doodnath",
+      "timestamp_ms": 1506902895920,
+      "content": "ill be there at 830",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506902862220,
+      "content": "im on the first floor rn if either of your are free to meet rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thaddeus Doodnath",
+      "timestamp_ms": 1506882006901,
+      "content": "perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506878384580,
+      "content": "im good with that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506878377025,
+      "content": "@Thaddeus Doodnath u good with that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506878368937,
+      "content": "yeah lets do 3rd floor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506878357205,
+      "content": "great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506878325635,
+      "content": "can we meet then somewhere in the lib?? just for a little bit i will try to do some stuff before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506878301120,
+      "content": "perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506877902267,
+      "content": "i'm free after 8:30 in the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1506877164660,
+      "content": "guys do we want to meet for our presentation/report",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brittany and Thaddeus",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "BrittanyandThaddeus_181ac58f5c"
+}

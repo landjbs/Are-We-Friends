@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Sean Lee"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1424985136475,
+      "content": "u didn't measure manville?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1424985065069,
+      "content": "shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sean Lee",
+      "timestamp_ms": 1424983584897,
+      "content": "We only measured the lake, a flagpole, the old and new chapel, and something else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1424983029170,
+      "content": "yo what buildings did u measure for the project?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sean Lee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SeanLee_1e761a1a04"
+}

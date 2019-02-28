@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Giacomo Messina"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1521418443687,
+      "content": "thanks! yeah things are going well rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Giacomo Messina",
+      "timestamp_ms": 1521174307860,
+      "content": "Just saw the article you wrote for SPS, great job! Hope you\u00e2\u0080\u0099re doing well buddy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Giacomo Messina",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "GiacomoMessina_306994a169"
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Harrison Abram"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455456890510,
+      "content": "I'm here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harrison Abram",
+      "timestamp_ms": 1455456862117,
+      "content": "You're late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455408489986,
+      "content": "oh shit my bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harrison Abram",
+      "timestamp_ms": 1455408480070,
+      "content": "What're you talking about? We don't have practice on Saturday nigh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455408445271,
+      "content": "where's the schoolhouse library",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harrison Abram",
+      "timestamp_ms": 1455408362346,
+      "content": "Look at the email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455408338500,
+      "content": "where is debate meeting",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harrison Abram",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "HarrisonAbram_c4f6a42e98"
+}

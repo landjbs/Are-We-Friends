@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Nicholas Shepard"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicholas Shepard",
+      "timestamp_ms": 1523120958079,
+      "content": "Nicholas Shepard accepted your request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506515794142,
+      "content": "hey i heard you dj-ed and studco and i were wondering if you'd be interested in showing us what you can do",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nicholas Shepard",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "NicholasShepard_e6d1e5cbed"
+}

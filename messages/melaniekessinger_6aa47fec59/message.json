@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Melanie Kessinger"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Melanie Kessinger",
+      "timestamp_ms": 1517064298458,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Melanie Kessinger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MelanieKessinger_6aa47fec59"
+}

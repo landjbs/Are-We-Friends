@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Brian Cowhey"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Cowhey",
+      "timestamp_ms": 1506224370437,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brian Cowhey",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "BrianCowhey_3613fcdb5b"
+}

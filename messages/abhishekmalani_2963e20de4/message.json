@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Malani"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhishek Malani",
+      "timestamp_ms": 1520453808620,
+      "content": "Np dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1520453030823,
+      "content": "thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhishek Malani",
+      "timestamp_ms": 1520452997380,
+      "content": "You're invited to my new group 'Harvard '22' on GroupMe. Click here to join: https://groupme.com/join_group/36881240/CQ1t6k",
+      "share": {
+        "link": "https://web.groupme.com/join_group/36881240/CQ1t6k"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1520452993275,
+      "content": "You and Abhishek waved at each other!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1520452988376,
+      "content": "You accepted Abhishek's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhishek Malani",
+      "timestamp_ms": 1520452976017,
+      "content": "Abhishek is waving at you!",
+      "type": "Share"
+    }
+  ],
+  "title": "Abhishek Malani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AbhishekMalani_2963e20de4"
+}

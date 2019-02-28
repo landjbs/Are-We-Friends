@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "William Yuen Yee"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508539248642,
+      "content": "no chance had to push it back so itll be next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Yuen Yee",
+      "timestamp_ms": 1508538184455,
+      "content": "is your show airing tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508374569716,
+      "content": "ill send out an email when im confident but it\u00e2\u0080\u0099s probably gonna be this friday at 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Yuen Yee",
+      "timestamp_ms": 1508369898336,
+      "content": "Do you have a definite time for your WSPS show coming up?",
+      "type": "Generic"
+    }
+  ],
+  "title": "William Yuen Yee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "WilliamYuenYee_d2a19489d9"
+}

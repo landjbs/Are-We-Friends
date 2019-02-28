@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Joy Ma"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joy Ma",
+      "timestamp_ms": 1513561424190,
+      "content": "Ah I see that's cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1513559742740,
+      "content": "we met at a writing workshop last year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1513559733733,
+      "content": "we\u00e2\u0080\u0099ve been dating for a while",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joy Ma",
+      "timestamp_ms": 1513491399488,
+      "content": "Wait... how do you know Isabelle Jia?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Joy Ma",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JoyMa_b06ad6dea6"
+}

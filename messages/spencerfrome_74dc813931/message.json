@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Spencer Frome"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Spencer Frome",
+      "timestamp_ms": 1523245183897,
+      "content": "Spencer sent a link.",
+      "share": {
+        "link": "http://56lse6lasc.storage.googleapis.com/t6tyi7ogcc3m.png"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522461988145,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Spencer Frome",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SpencerFrome_74dc813931"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "James Rose"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517670250096,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "James Rose",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JamesRose_61b9eac980"
+}

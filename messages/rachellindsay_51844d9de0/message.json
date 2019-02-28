@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Rachel Lindsay"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rachel Lindsay",
+      "timestamp_ms": 1484960553261,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484960416157,
+      "content": "im in the top floor of the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484957734435,
+      "content": "ok great ill see you there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachel Lindsay",
+      "timestamp_ms": 1484956763491,
+      "content": "Yep!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484956733784,
+      "content": "sure can you meet at 8?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484956722843,
+      "content": "You accepted Rachel's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachel Lindsay",
+      "timestamp_ms": 1484956529692,
+      "content": "Do you want to work on the worksheet in the library?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rachel Lindsay",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RachelLindsay_51844d9de0"
+}

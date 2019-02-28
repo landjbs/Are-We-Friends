@@ -1,0 +1,144 @@
+{
+  "participants": [
+    {
+      "name": "Scott Spurzem"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526338391954,
+      "content": "idk i dont wanna make him mad i think i\u00e2\u0080\u0099ll just take it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526338380398,
+      "content": "he said it was fine after i got back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Scott Spurzem",
+      "timestamp_ms": 1526336936505,
+      "content": "Did he say you can go?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526326415384,
+      "content": "do you think i can dispute?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526326404162,
+      "content": "bruhh babs bagged me for seeing the plane",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Scott Spurzem",
+      "timestamp_ms": 1523247624951,
+      "content": "did you make the other feedback loop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Scott Spurzem",
+      "timestamp_ms": 1523247615582,
+      "content": "Ya I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523247582529,
+      "content": "true but i think we\u00e2\u0080\u0099re good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Scott Spurzem",
+      "timestamp_ms": 1523247530434,
+      "content": "I think they could use a little more detail though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Scott Spurzem",
+      "timestamp_ms": 1523247518406,
+      "content": "The feedback loops aren't bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523247475730,
+      "content": "she didnt say but the half kinda makes more sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523247464657,
+      "content": "yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Scott Spurzem",
+      "timestamp_ms": 1523247446548,
+      "content": "For feedback loops do we need the whole loop or just half?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Scott Spurzem",
+      "timestamp_ms": 1523247356997,
+      "content": "Wanna read over my prognosis things I wasn\u00e2\u0080\u0099t sure how to answer them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523245116819,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/ScottSpurzem_e7be8bb540/photos/30174611_783919225139420_229042494_o_783919225139420.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523245111904,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/ScottSpurzem_e7be8bb540/photos/30232131_783919215139421_443651119_o_783919215139421.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Scott Spurzem",
+      "timestamp_ms": 1523245007370,
+      "content": "Scott called you.",
+      "call_duration": 183,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Scott Spurzem",
+      "timestamp_ms": 1518401151959,
+      "content": "Scott Spurzem accepted your request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518392542838,
+      "content": "https://quizlet.com/268101252/upper-respiratory-anatomy-diagram/",
+      "share": {
+        "link": "https://quizlet.com/268101252/upper-respiratory-anatomy-diagram/"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Scott Spurzem",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ScottSpurzem_e7be8bb540"
+}

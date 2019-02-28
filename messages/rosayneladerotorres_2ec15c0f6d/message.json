@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Rosayne Ladero Torres"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rosayne Ladero Torres",
+      "timestamp_ms": 1534601063831,
+      "content": "Hi beb\u00c3\u00a9",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rosayne Ladero Torres",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "RosayneLaderoTorres_2ec15c0f6d"
+}

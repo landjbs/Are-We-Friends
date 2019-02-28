@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Ben Leach"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ben Leach",
+      "timestamp_ms": 1488170325224,
+      "content": "Ya that'd be great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488168273856,
+      "content": "they actually are thinking of also putting it in the alumni magazine if thats ok w you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Leach",
+      "timestamp_ms": 1488168269371,
+      "content": "Ok great, thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488168246836,
+      "content": "yeah i did its being reviewed by the communications dept rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Leach",
+      "timestamp_ms": 1488167772782,
+      "content": "hey landon, I know these last two weeks of winter term are stressful but I was just wondering if you had finished writing the article yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1487816062543,
+      "content": "haha thats great thanks im writing it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Leach",
+      "timestamp_ms": 1487816020937,
+      "content": "Landon, just wanted to let you know that as you are writing the article about the Lower School Classic you can say we raised $2200 instead $2193 (someone gave me $7 so it could be an even 2200)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1487179411858,
+      "content": "sure i'll see you there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Leach",
+      "timestamp_ms": 1487120215803,
+      "content": "we could meet in the front room of hargate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1487120188389,
+      "content": "yeah thats great where do you want to meet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Leach",
+      "timestamp_ms": 1487120107951,
+      "content": "does 1:15 work for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1487120059091,
+      "content": "yea sure what time works?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Leach",
+      "timestamp_ms": 1487119855174,
+      "content": "Landon, can we do the interview tomorrow afternoon?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ben Leach",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "BenLeach_631b1b5997"
+}

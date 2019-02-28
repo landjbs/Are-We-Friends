@@ -1,0 +1,516 @@
+{
+  "participants": [
+    {
+      "name": "Gio Kim"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535341430537,
+      "content": "honestly it\u00e2\u0080\u0099s terrible and really boring and seems useless but ultimately ive gotten the advice that youve just gotta persevere through it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535340167798,
+      "content": "Im Gunna have my intro memorized by the end of the day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535340155951,
+      "content": "Yghhh yes i haaate that part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535340152873,
+      "content": "\u00f0\u009f\u0098\u00b4\u00f0\u009f\u0098\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535340143664,
+      "content": "\u00e2\u0080\u009comg hiii!! whats your name?? where are you from?? what\u00e2\u0080\u0099s your concentration?? ok bye\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535340102738,
+      "content": "Hahahahaha omggggg I hate that partttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535340079502,
+      "content": "my head is so full of names rn but i love it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535340062509,
+      "content": "True true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535340049685,
+      "content": "it\u00e2\u0080\u0099s definitely a lot to process",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535339999549,
+      "content": "Now I just wanna start already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535339994712,
+      "content": "Ugh I bet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535339978103,
+      "content": "college is already so much fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535339954348,
+      "content": "Sounds like it will be a fun night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535339947299,
+      "content": "nice!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535339936000,
+      "content": "just left hanging out w a bunch of my new friends omw to see one of my sps friends who happens to be on campus and then back to the dorm to meet one of my roommates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535339786219,
+      "content": "wyd now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535339780219,
+      "content": "Hehehehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535339698666,
+      "content": "You sent a GIF from Tenor GIF Keyboard.",
+      "gifs": [
+        {
+          "uri": "messages/GioKim_86f12d36a9/gifs/20506356_1440004212719770_6722126887759380480_n_231133700910758.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535339587829,
+      "content": "Gio sent a GIF from Tenor GIF Keyboard.",
+      "gifs": [
+        {
+          "uri": "messages/GioKim_86f12d36a9/gifs/20859824_354613661636118_5725273903299821568_n_2188362207902654.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535339558216,
+      "content": "WOOOOHOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535339542766,
+      "content": "You sent a GIF from GIPHY.",
+      "gifs": [
+        {
+          "uri": "messages/GioKim_86f12d36a9/gifs/31921384_579146455787015_5440657737832726528_n_469604940224818.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535333502484,
+      "content": "WOOOOHOOOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535333498276,
+      "content": "Gio sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851558_396469957163777_1480614187_n_396449380499168.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535329498130,
+      "content": "i\u00e2\u0080\u0099m a real life COLLEGE STUDENT!!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535329476002,
+      "content": "im soo hype that i can open harvard buildings w my ID watching that light turn green was such a good feeling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535329336606,
+      "content": "WOW what a coincidence!!!\u00c2\u00a1!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535326476713,
+      "content": "Isn\u00e2\u0080\u0099t it so crazy that I literslly thought of you and about how long it\u00e2\u0080\u0099s been since u left for the camping when I texted the messages about the socks and the very next day, u rlly are done w the trip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535326428573,
+      "content": "YES!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535325904869,
+      "content": "my friends are the best i\u00e2\u0080\u0099ll have to introduce you sometime",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535325892869,
+      "content": "AND I LOVED IT SOOOOOOO MUCH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535325883140,
+      "content": "NO IT ISNT THAT BAD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535268794217,
+      "content": "Just spent freaking $150 on socks for this hiking trip and i can\u00e2\u0080\u0099t shower for 5 days (GROSS KMN)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535268773967,
+      "content": "hajahsdfgg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535268766048,
+      "content": "Hope ur camping trip is going well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1535268759612,
+      "content": "hi landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616973355,
+      "content": "thanks :))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616969108,
+      "content": "its only 2 hrs away so i can come for the weekend if i need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616598029,
+      "content": "\u00f0\u009f\u0092\u009b\u00f0\u009f\u00a6\u008b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616580075,
+      "content": "it\u00e2\u0080\u0099s okay u got this!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616573235,
+      "content": "Will u be back in spring?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616564481,
+      "content": "so scared",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616560259,
+      "content": "i think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616554540,
+      "content": "and if it goes well they might ask me to play this giant festival in the spring called green key",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616427606,
+      "content": "but whatever works for u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616420590,
+      "content": "Maybe just a bit to calm ur nerves down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616412362,
+      "content": "Yeah this is a diff level",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616406683,
+      "content": "but i dont wanna overdo it at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616397845,
+      "content": "i never did at sps but this is scary",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616389082,
+      "content": "yes i was thinking that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616363692,
+      "content": "I feel like I\u00e2\u0080\u0099d need that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616359594,
+      "content": "Do u think u might need a drink or something to loosen u up ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616349780,
+      "content": "You\u00e2\u0080\u0099re gunna do great!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616340167,
+      "content": "SO FUCKING NERVOUS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616292544,
+      "content": "r u nervous",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534616288559,
+      "content": "Party todaaaaay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616245621,
+      "content": "i accidentally send stuff too often",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534616230056,
+      "content": "I HATE THAT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534613177906,
+      "content": "Gio sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851593_657500010999923_808460951_n_657500007666590.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534613169876,
+      "content": "Gio sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574704_823252514360393_1212486708_n_823252511027060.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534613153909,
+      "content": "okay oops why is there literally no preview for the things I send",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534613132941,
+      "content": "Gio sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10333109_657502160999708_1634243487_n_657502157666375.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534399142525,
+      "content": "Yayyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534399137062,
+      "content": "such a good idea i love it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534399122274,
+      "content": "also the \u00e2\u0080\u009cI love you. K.\u00e2\u0080\u009d is me so that\u00e2\u0080\u0099s why i like it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534399102797,
+      "content": "follow Ellen Chappell art on IG, she\u00e2\u0080\u0099s my FAVORITE and for my dorm, I\u00e2\u0080\u0099m gunna print those on vintage stock paper and then make a collage to put on my wall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534399068462,
+      "content": "this is sophisticated af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534399063504,
+      "content": "WOW",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534399060797,
+      "content": "My phone wallpaper that I put together w a few of my favorite pieces",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534399046714,
+      "content": "Gio sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/GioKim_86f12d36a9/photos/39390235_252103108747360_5890624925810556928_n_252103082080696.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534399036182,
+      "content": "its amazing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534399023359,
+      "content": "I love photo collages surrealism",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534399011684,
+      "content": "that\u00e2\u0080\u0099s just my aesthetic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534398995504,
+      "content": "what was the inspiration",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534398985472,
+      "content": "RIGHT?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534398975492,
+      "content": "OH YEAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534398957942,
+      "content": "now I have to go check what it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gio Kim",
+      "timestamp_ms": 1534398945456,
+      "content": "SHUT UPPPP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534398931479,
+      "content": "what an ~artsy~ cover photo  \u00f0\u009f\u00a4\u00a9",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gio Kim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "GioKim_86f12d36a9"
+}

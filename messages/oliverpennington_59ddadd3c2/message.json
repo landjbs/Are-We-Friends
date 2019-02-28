@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Oliver Pennington"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1463064902737,
+      "content": "thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Oliver Pennington",
+      "timestamp_ms": 1463061767356,
+      "content": "Happy birthday lando",
+      "type": "Generic"
+    }
+  ],
+  "title": "Oliver Pennington",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "OliverPennington_59ddadd3c2"
+}

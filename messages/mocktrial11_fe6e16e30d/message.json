@@ -1,0 +1,157 @@
+{
+  "participants": [
+    {
+      "name": "Tereshchenko Victoria"
+    },
+    {
+      "name": "Sanjna Chetan"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Linda Pan"
+    },
+    {
+      "name": "Olivia Chuang"
+    },
+    {
+      "name": "Rasika Iyer"
+    },
+    {
+      "name": "Annie Xiong"
+    },
+    {
+      "name": "Agatha La Voie"
+    },
+    {
+      "name": "Jackie Shen-Yi"
+    },
+    {
+      "name": "Faith Onyechere"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Linda Pan",
+      "timestamp_ms": 1487856383631,
+      "content": "where is everyone?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1487818240290,
+      "content": "Just look super model status",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1487816910896,
+      "content": "I think we r just doing whatever lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Olivia Chuang",
+      "timestamp_ms": 1487815737139,
+      "content": "Yes!! Any theme guys or are we just doing whatever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1487814841343,
+      "content": "Agreed!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1487814829886,
+      "content": "\u00e2\u009a\u0096\u00ef\u00b8\u008f\u00e2\u009a\u0096\u00ef\u00b8\u008f\u00e2\u009a\u0096\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1487814815114,
+      "content": "Everyone in this chat should be in the pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1487814694618,
+      "content": "I want to!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1487776391378,
+      "content": "Guys email me if u want to take the photo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1487769424197,
+      "content": "omg yes we should",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Faith Onyechere",
+      "timestamp_ms": 1487769422249,
+      "content": "we should",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agatha La Voie",
+      "timestamp_ms": 1487769383996,
+      "content": "are we taking a year book photo this week?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Faith Onyechere",
+      "timestamp_ms": 1486482439792,
+      "content": "no to the detachable collars",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Faith Onyechere",
+      "timestamp_ms": 1486482432224,
+      "content": "YES",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agatha La Voie",
+      "timestamp_ms": 1486210502690,
+      "content": "Agatha: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1486210440499,
+      "content": ":)))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1486210438272,
+      "content": "W/ detachable collars",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1486210403906,
+      "content": "WE NEED TEAM WEAR",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Olivia Chuang",
+      "timestamp_ms": 1486210229907,
+      "content": "Olivia named the group Mock trial!!!1!1!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mock trial!!!1!1!",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "Mocktrial11_fe6e16e30d"
+}

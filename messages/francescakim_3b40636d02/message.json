@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Francesca Kim"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415152929354,
+      "content": "Great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Kim",
+      "timestamp_ms": 1415152608903,
+      "content": "Oh nvm i am ur partner :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Kim",
+      "timestamp_ms": 1415150905491,
+      "content": "I thought I wouldn't be participating because I already went to the andover tournament but I wasnt quite sure so...\u00f3\u00be\u008c\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Kim",
+      "timestamp_ms": 1415150805663,
+      "content": "Hey landon! You're participating in the exeter tournament right?? Am I still your partner or did u get assigned a different partner?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Francesca Kim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "FrancescaKim_3b40636d02"
+}

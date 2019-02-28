@@ -1,0 +1,316 @@
+{
+  "participants": [
+    {
+      "name": "Sis Gibson"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450307747122,
+      "content": "great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450292118730,
+      "content": "We got a 19/20 on the debate!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450153687970,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450152646655,
+      "content": "That looks like a good quote!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450152289112,
+      "content": "check out the quote i just put up Maybe we can use that to show that the rest of the family went through bad things in the name of science too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450151430152,
+      "content": "lets just get a few more quotes and then we can be done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450151362655,
+      "content": "Yeah I have two essays due tomorrow so I totally understand!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450151291145,
+      "content": "yeah it looks good We need a quote about gender though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450151167110,
+      "content": "I'm about to start working on it Sry I've been really busy with chem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450151026188,
+      "content": "How is it looking? I tried to look at it a little bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450145461048,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450140622512,
+      "content": "I think we will be alright, we just need to find some more info",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450133391752,
+      "content": "do you think we need to meet in the lib or are we good to just do it on the Google doc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450058143468,
+      "content": "I'm here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450058092037,
+      "content": "Ok message me when you get here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450057986219,
+      "content": "I'm almost there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450057780604,
+      "content": "Are you at the library?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450057728895,
+      "content": "Ok I'm almost there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450056213615,
+      "content": "that's fine I may be too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450056184606,
+      "content": "I may be a little late!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450050106424,
+      "content": "thanks sry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450050095841,
+      "content": "I guess we could try 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450050089485,
+      "content": "I have to run a focus group at that time, sorry!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450050065793,
+      "content": "what about like 720 because I was going to go to the dc at 745",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450049261149,
+      "content": "Can you do like 7:45?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1450041588944,
+      "content": "can we do 830",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1450041125568,
+      "content": "Do you want to work in the library tonight at 8?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446084524828,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1446083886522,
+      "content": "And for the 10 mL at 76.3 the reading was 0 mg/DL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1446083870663,
+      "content": "For our reading at 4.44 C it was 1/5 or 235 mg/DL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1446083853169,
+      "content": "For our test at room temp or 19.5 C the clucose reading was 1/2 or 500 mg/DL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446080853925,
+      "content": "could u send me the actual values for our data all I have is the fractions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446080531922,
+      "content": "like a paragraph",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1446080496851,
+      "content": "How long are you thinking your discussion is going to be?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1446080480218,
+      "content": "Sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446080471328,
+      "content": "k could u send me ur procedure when ur done I want to make sure I didn't forget anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1446079850663,
+      "content": "I think we are good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446073000692,
+      "content": "do we need to work on the lab report together or r we good?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445473856427,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1445472877234,
+      "content": "I think we just have to do data tables!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445468835050,
+      "content": "we don't have to do any of the lab report for tomorrow right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1445309551257,
+      "content": "Oh ok thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445308357822,
+      "content": "I already wrote it so u don't have to do anything if u don't want to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1445307985012,
+      "content": "Hi Landon! What exactly do you want to do for our hypothesis and procedure and stuff? Didn't you already write it up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1443749937325,
+      "content": "Ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443749263638,
+      "content": "yeah idk but that's all it said on canvas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1443748808509,
+      "content": "Or I guess it was this afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1443748795396,
+      "content": "Just page 18? I didn't get a chance to look at the board this morning!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443748552038,
+      "content": "I think we just have to think up an experiment for tomorrow It's on page 18 of the lab manual I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1443748292638,
+      "content": "Hi Landon! Do you know what our bio homework is?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sis Gibson",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SisGibson_4518119ab2"
+}

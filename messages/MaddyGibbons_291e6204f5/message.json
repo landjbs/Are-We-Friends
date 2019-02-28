@@ -1,0 +1,153 @@
+{
+  "participants": [
+    {
+      "name": "Maddy Gibbons"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1511241420582,
+      "content": "just shared it on drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1511241396179,
+      "content": "haha sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1511237513315,
+      "content": "Im trying to prove to someone how bad mine was",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1511237503553,
+      "content": "Weird and random question but would you mind sending me your 1000 white women trailer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1504922852852,
+      "content": "Sure thang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1504893528535,
+      "content": "great playlist thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1504891794702,
+      "content": "Grassroots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1504891791840,
+      "content": "Maddygibbons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1504888708128,
+      "content": "whats it called?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1504888704039,
+      "content": "yeah that sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1504877828501,
+      "content": "I have one on spotify thats clean that i used for grassroots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1504877812836,
+      "content": "Hey u need a playlist right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446867704471,
+      "content": "ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1446853405530,
+      "content": "Maddy sent a GIF from Tenor GIF Keyboard.",
+      "gifs": [
+        {
+          "uri": "messages/MaddyGibbons_291e6204f5/gifs/11392541_10152981326138367_665036804_n_1672111913032513.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446783760061,
+      "content": "so wat do u think of him?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446783122004,
+      "content": "wat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1446780823917,
+      "content": "Yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1428338400991,
+      "content": "yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1428338377833,
+      "content": "hrasky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1428338358810,
+      "content": "what do u think of josh?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1428338355863,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1428338335669,
+      "content": "hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Maddy Gibbons",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MaddyGibbons_291e6204f5"
+}

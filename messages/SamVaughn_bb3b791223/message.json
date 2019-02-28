@@ -1,0 +1,751 @@
+{
+  "participants": [
+    {
+      "name": "Sam Vaughn"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432525508346,
+      "content": "yeah see u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432525475543,
+      "content": "See you Tuesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432525464581,
+      "content": "Alright I'm going to bed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432525445964,
+      "content": "So it really doesn't affect your grade, unless you have an 89 or 79",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432525439843,
+      "content": "yeah true I think we're fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432525410241,
+      "content": "And we were sixteen points below that, which will be only 1.6 points lower on the final grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432525377047,
+      "content": "If you think about it, had we got a 90, that would have been a really good grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432525310678,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432525306189,
+      "content": "But it's cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432525297661,
+      "content": "I just now have to study for the exam (which I was going to do anyway)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432525272492,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432525264031,
+      "content": "Did it screw ur grade?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432525263711,
+      "content": "ok that makes me feel better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432525250564,
+      "content": "And it's fine I'm not on the border",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432525237982,
+      "content": "Sry the sucked ass part was Jo Kim in my dorm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432524439861,
+      "content": "Are you on the border between grades or did this not really affect you this much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432524410660,
+      "content": "Whatever it's only 10%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432524380445,
+      "content": "Me too I sucked ass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432524343133,
+      "content": "But seriously dude I'm sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432524328141,
+      "content": "She might then look past this if we're on the border between letter grades that way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432524278247,
+      "content": "She won't change our grade, but that way she won't think we didn't just screw up because we didn't prepare",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432524242292,
+      "content": "Ok I'm going to bed but I think it might be good for us to explain to her that we didn't mess up because we didn't know what to do, but a miscommunication between us caused a little mistake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432524006544,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523910533,
+      "content": "He and Hrasky hack each other all the time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523899622,
+      "content": "Dude it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523886125,
+      "content": "You bailed us out on the math",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523885360,
+      "content": "Yeah I tried to take my phone back but when Wilcox doesn't want u to have something u can't get it back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523876054,
+      "content": "If anything, it was my fault",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523869174,
+      "content": "But seriously I definitely am not blaming you at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523851426,
+      "content": "Lol Landon I know when it's Wilcox",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523837592,
+      "content": "That was Wilcox",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523832351,
+      "content": "Ok that wasn't me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523830501,
+      "content": "Idk why you think that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523824020,
+      "content": "And I'm not a fucking asshole btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523813332,
+      "content": "I didn't mean it like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523809220,
+      "content": "Ok I realize now how you misread my message",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523785681,
+      "content": "I'm blatantly not blaming it on him...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523769195,
+      "content": "So shut the fuck up and go to bed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523758221,
+      "content": "He's taking the grade like a man. While you're being a pussy blaming it on an innocent third former who actually has more power at this school than you do.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523712036,
+      "content": "No he's not. But I am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523688578,
+      "content": "Is Landon upset?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523674088,
+      "content": "I'm 100% serious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523665934,
+      "content": "Alright, I'm gonna ask Landon tomorrow and if he says you didn't. I will find you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523632362,
+      "content": "So yeah if Landon took it that way then yes I need to apologize to him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523629781,
+      "content": "Nigga take responsibility for your actions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523608605,
+      "content": "Because he definitely didn't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523603212,
+      "content": "I didn't mean to infer that he fucked up the lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523589663,
+      "content": "So yeah, it's my fault too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523584108,
+      "content": "And I should have been watching",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523578307,
+      "content": "But I could just have easily done that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523567088,
+      "content": "Well he was the person who actually put the wrong one in the burette",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523560123,
+      "content": "You don't want to know what happens",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523552077,
+      "content": "If you don't....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523547000,
+      "content": "When you see him tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523538558,
+      "content": "Apologize to Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523533113,
+      "content": "You blamed the mixing up of the chemicals on him even though it was your fault",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523513015,
+      "content": "Yea you fucking are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523490728,
+      "content": "You realize that right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523482471,
+      "content": "I'm not blaming it on Landon...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523471457,
+      "content": "You blame shit on other people that is your fucking fault",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523445743,
+      "content": "How",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523440509,
+      "content": "Being a fucking asshole",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523430404,
+      "content": "I'm actually wondering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523425611,
+      "content": "What have I done that has made you not like me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523396395,
+      "content": "You piece of shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523389225,
+      "content": "I'm not fucking joking with you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523380740,
+      "content": "I'm serious dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523362875,
+      "content": "Lol how do you always take everyone's phone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523334805,
+      "content": "You're an inbred yokel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523257600,
+      "content": "Yeah you're probably right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523220277,
+      "content": "I don't think she would change anything tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523210595,
+      "content": "Idk its up to u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523190431,
+      "content": "Idk what we would say or what she could do but I'm just throwing that out there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523173890,
+      "content": "Do you want to talk to Ms. Ryder?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523135276,
+      "content": "Sry who knows what that savage is going to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523105617,
+      "content": "He's done that before so no worries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432523087932,
+      "content": "Haha no it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523080316,
+      "content": "Wilcox just took my phone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523074467,
+      "content": "Oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523065192,
+      "content": "No one likes you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523061160,
+      "content": "Fuck you Sam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523055223,
+      "content": "You're a dumb nigga",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432523037930,
+      "content": "I'm pissed off because you fucking asked dumb fucking questions and lost retarded points you retard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432522961093,
+      "content": "U didn't fucking prepare and fucked Landon over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432522949219,
+      "content": "Nigga you a joke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432522924338,
+      "content": "Is this Wilcox or Hrasky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432522919169,
+      "content": "Lol what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432522912189,
+      "content": "You fucked up the lab with your fucking lips",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432522896449,
+      "content": "Nigga who the fuck do u think you are u irrelevant piece of shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432522879356,
+      "content": "Next you harass a fucking kid in my dorm, you're getting fucked up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432522861705,
+      "content": "Wilcox",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432522859144,
+      "content": "Yo Sam its wilco",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432522343054,
+      "content": "Yeah I'm just kind of disappointed because we knew what to do. Like if we had caught the fact earlier that you had put the same solution in both burettes, we could have done really well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432522214032,
+      "content": "yeah same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432522086687,
+      "content": "u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1432522081131,
+      "content": "74",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1432521282696,
+      "content": "hey jw what did you get on the lab report?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431466283150,
+      "content": "Alright cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431465820554,
+      "content": "I check with santi and he says that's pretty good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431465803212,
+      "content": "Like 0.875",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431459393295,
+      "content": "Oh and what did you get for the final number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431458138103,
+      "content": "You sure you got the calculations right? Like did you use NaOH for M1V1?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431446845867,
+      "content": "no it's fine we were able to pull through",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431446653427,
+      "content": "Hey sorry I got a little testy at the end. I got really nervous that we weren't going to finish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431391916476,
+      "content": "Yeah I'll be in the basement in a second",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431391735811,
+      "content": "Hey are you at the lib? I'm your partner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431136004262,
+      "content": "yeah np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431135945275,
+      "content": "that's awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431135941295,
+      "content": "thanks dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431135780529,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431135528404,
+      "content": "Do we have any hw for tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1425058582932,
+      "content": "k thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1425058570047,
+      "content": "U add them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1425058527082,
+      "content": "can you just add the two together or do you have to recalculate the individual enthalpies of the elements",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1425058447595,
+      "content": "I don't think I got it right actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1425057651438,
+      "content": "How'd you get the change in enthalpy on #3?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1425057562193,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/SamVaughn_bb3b791223/photos/11026538_335910719940275_801222396_n_335910719940275.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1425057554703,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/SamVaughn_bb3b791223/photos/1624364_335910713273609_1129056067_n_335910713273609.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1425057544590,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/SamVaughn_bb3b791223/photos/961534_335910649940282_385588278_n_335910649940282.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1425056938974,
+      "content": "Hey do you have the Hess law sheet",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sam Vaughn",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SamVaughn_bb3b791223"
+}

@@ -1,0 +1,333 @@
+{
+  "participants": [
+    {
+      "name": "Lorna Brittan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525440895559,
+      "content": "Ok i will Love you too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525440889242,
+      "content": "Thanks im excited",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1525434003500,
+      "content": "If you need to reach us you should call dad since my phone is off and I will be driving to NYC today. Love you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1525431424732,
+      "content": "My cell phone isn't charing anymore--ack! So I can't see if you sent me a text. Hope your trip went well and good luck today at the lab! I can't wait to hear about it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510959889653,
+      "content": "definitely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1510959863536,
+      "content": "So true! That must be how sps feels...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510959794533,
+      "content": "You sent a link.",
+      "share": {
+        "link": "http://satirev.org/harvard/could-we-have-rivalry-too-please"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1510792792573,
+      "content": "Lorna sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/9gag/videos/10155578431756840/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510542473804,
+      "content": "maybe even someone whos been the president of his schools mock trial team",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510542454952,
+      "content": "sounds like they need someone w experience in criminal justice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1510536263629,
+      "content": "Lorna sent a link.",
+      "share": {
+        "link": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11916035/Harvard-university-debate-team-loses-to-New-York-prison-inmates.html"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1501040806160,
+      "content": "Haha not quite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1501040254143,
+      "content": "I read it as \"Dad is the truth\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1501040227075,
+      "content": "I will have to tell him you said that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1501040208392,
+      "content": "Although she is good at truth...she just likes to be a good host",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1501040199964,
+      "content": "Dads is the truth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1501040195073,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1501040181799,
+      "content": "You mean make gluten free? By going her own way I meant not listening to truth necessarily...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1501040128166,
+      "content": "And i think she will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1501040049587,
+      "content": "She has been known to go her own way...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1501040017866,
+      "content": "she better listen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1501039565589,
+      "content": "Well you don't have to cook for her... we will see what Mormor bakes up this Christmas. Dad definitely spoke truth to power last week!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1501039497286,
+      "content": "more power over us like the guy said",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1501039489205,
+      "content": "hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1501039481418,
+      "content": "I thought it was pretty funny. But if leyla feels better, more power to her.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1501039423555,
+      "content": "sounds just like leyla",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1501038991085,
+      "content": "Lorna sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/awakenwithjp/videos/1294328557249670/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1496687855745,
+      "content": "One of my (obnoxious) college classmates posted this. I'm guessing harvardnwill be putting extra emphasis on \"nice\" next year.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495113071483,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1495113064866,
+      "content": "Oh no!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495113057871,
+      "content": "her moms conference got pushed late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495113049536,
+      "content": "no she's coming a day later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1495113041528,
+      "content": "Will she she be in philly?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495113011409,
+      "content": "actually nvm lets go back the day before that isabelle isn't gonna be able to tour upenn then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1495076735914,
+      "content": "So then we'd go back the 24th as early as possible?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495076694646,
+      "content": "not 100% sure yet (i will be tomorrow), but i think we should stay there the night after the swarthmore tour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1495076335707,
+      "content": "Hi to her! I need to get our June flight tomorrow. Less than a month away! What day do you want to leave (bearing in mind that you are flying out June 25 and we will need to do laundry and re pack)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495076271698,
+      "content": "isabelle says hi btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495076260600,
+      "content": "thanks mom!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1495076239321,
+      "content": "I can try.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495076096305,
+      "content": "would it be potentially possible for you to make a couple of these and send w dad to sps next weekend?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495076050580,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/buzzfeedtasty/videos/1918506471735326/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484090761135,
+      "content": "true thats better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1484090724793,
+      "content": "Although then you wouldn't have March to go to SF. So there's that...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484090667244,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1484090404277,
+      "content": "Me too. Wish you could come with D and me in Feb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484090369321,
+      "content": "makes me want to go back to mt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1484089311094,
+      "content": "Thought you might enjoy this little commercial! A good place to be from",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1484089252797,
+      "content": "Lorna sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/visitlivingstonmt/videos/1222175704531374/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Lorna Brittan",
+      "timestamp_ms": 1445290126412,
+      "type": "Generic"
+    }
+  ],
+  "title": "Lorna Brittan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LornaBrittan_a985f44352"
+}

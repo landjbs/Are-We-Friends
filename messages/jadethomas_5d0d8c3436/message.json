@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Jade Thomas"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jade Thomas",
+      "timestamp_ms": 1445442351365,
+      "content": "no worries, thanks.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445440678991,
+      "content": "Sry I have linc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jade Thomas",
+      "timestamp_ms": 1445440160368,
+      "content": "can you give a D block tour tomorrow? plllleeeeaaassseee",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jade Thomas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JadeThomas_5d0d8c3436"
+}

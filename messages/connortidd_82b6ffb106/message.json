@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Connor Tidd"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Connor Tidd",
+      "timestamp_ms": 1505915953650,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Connor Tidd",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ConnorTidd_82b6ffb106"
+}

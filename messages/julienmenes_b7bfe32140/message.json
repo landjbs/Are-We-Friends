@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Julien M\u00c3\u00a9n\u00c3\u00a8s"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527716553374,
+      "content": "how did you figure out how to use that mic? and can i borrow it to help someone tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julien M\u00c3\u00a9n\u00c3\u00a8s",
+      "timestamp_ms": 1505699375673,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Julien M\u00c3\u00a9n\u00c3\u00a8s",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JulienMenes_b7bfe32140"
+}

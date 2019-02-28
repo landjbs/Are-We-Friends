@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Victoria Bennington"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528467917543,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Victoria Bennington",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "VictoriaBennington_9e2d27d038"
+}

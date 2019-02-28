@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jada Ryan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509637122392,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jada Ryan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JadaRyan_0a756c5dc1"
+}

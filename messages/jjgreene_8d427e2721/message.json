@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "JJ Greene"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1448063268663,
+      "content": "nah it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JJ Greene",
+      "timestamp_ms": 1448062494890,
+      "content": "Sorry a little late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JJ Greene",
+      "timestamp_ms": 1448062490385,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1448049407183,
+      "content": "do we have practice today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1428603631166,
+      "content": "damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JJ Greene",
+      "timestamp_ms": 1428602564402,
+      "content": "Ya twice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1428601614230,
+      "content": "did u get bagged for skipping crew?",
+      "type": "Generic"
+    }
+  ],
+  "title": "JJ Greene",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JJGreene_8d427e2721"
+}

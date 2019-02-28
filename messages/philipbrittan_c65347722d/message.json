@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Philip Brittan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Philip Brittan",
+      "timestamp_ms": 1521558974298,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Philip Brittan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "PhilipBrittan_c65347722d"
+}

@@ -1,0 +1,445 @@
+{
+  "participants": [
+    {
+      "name": "Mary Eliot Stone"
+    },
+    {
+      "name": "Sis Gibson"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455472299736,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455472278812,
+      "content": "You don't need to, I did it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455472263150,
+      "content": "I'm not on campus rn but I'll submit them when I get back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455471941857,
+      "content": "correct",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455471796605,
+      "content": "Great job, guys!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455471762283,
+      "content": "And we don't all have to submit it correct?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455471718920,
+      "content": "We're good. I submitted it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455471693621,
+      "content": "Thanks so much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455471688100,
+      "content": "Otherwise, I think they both look great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455471679448,
+      "content": "I made the font bigger in the GoogleDoc so Mrs. C will be able to see it clearly.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455471659746,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455471635836,
+      "content": "Maybe re paste them? If not, I think it's ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455471604479,
+      "content": "I am almost done but do you know how to hyperlink things? Some links were hyperlinking, others were not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455471081244,
+      "content": "Sound good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455471033547,
+      "content": "I will message you when I finish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455471025431,
+      "content": "Great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470994028,
+      "content": "Ok! I can upload it once you put them in the slideshow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470988024,
+      "content": "I may two slides for them because there are so many",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470975513,
+      "content": "Good idea, i can do that quickly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470969327,
+      "content": "I think that it would be better to be safe rather than sorry!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470951088,
+      "content": "I think let's just put them in the slideshow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470929394,
+      "content": "Oh ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470923018,
+      "content": "I'm just confused about whether or not the citations should be together in slideshow or seperate or?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470919739,
+      "content": "I was just uploading a page of citations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470873732,
+      "content": "And then make the slideshow a PDF as well?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470856800,
+      "content": "I'm not sure? I was just going to upload it as a pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470820697,
+      "content": "Can GoogleDocs be uploaded on canvas?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470801028,
+      "content": "I was going to upload them on canvas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470788922,
+      "content": "And then are you planning to copy and paste them into the slide show?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470786817,
+      "content": "reasdy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470783763,
+      "content": "Let me know when it's reay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470773652,
+      "content": "That way we won't have any repeats!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470768162,
+      "content": "Ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470759436,
+      "content": "I already did some of the citations earlier today that  you did, so why don't I delete those from your list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470745150,
+      "content": "Shall I submit it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470685930,
+      "content": "I think it's finished?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470279974,
+      "content": "Me too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470261264,
+      "content": "I hope we can get a 16/16 on this!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470243439,
+      "content": "Great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470227933,
+      "content": "Yes! Thanks for catching that! Ill fix it now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470202673,
+      "content": "Because I believe you have to cite them in a different form",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470186517,
+      "content": "Ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470184040,
+      "content": "I think so?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470164592,
+      "content": "Those look great, did you sight the images as well?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470114993,
+      "content": "I think she wants the citations to be in the slideshow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470099806,
+      "content": "did you get the doc?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470092844,
+      "content": "I think I cited his?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470085087,
+      "content": "And Landon did you finish yours?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470066243,
+      "content": "Are you able to copy and paste them into the slideshow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455470036088,
+      "content": "I haven't uploaded the slide of mt citations yet, but i have them. Ill creat a doc to share with yall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455470017776,
+      "content": "It may help to have another set of eyes look over it quickly before we submit finally",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455469999704,
+      "content": "Let me check quickly!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455469979409,
+      "content": "Ok. so i think they're all done being cited. Shall I put them on a doc and submit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455467115532,
+      "content": "I'll do it when I get back to my room!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455465931449,
+      "content": "k good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455465892496,
+      "content": "I made a new page for the citations on the PowerPoint because it looks as if they will take up a lot of room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455465880076,
+      "content": "not yet but I'll do them soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455465858497,
+      "content": "I did the citations for my links, have you all done yours yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455465854201,
+      "content": "has anyone done any of the citations yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455157421422,
+      "content": "Yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455157392354,
+      "content": "Landon- can you do slides 3, 4, and 5?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455157035214,
+      "content": "They are due on Monday I believe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455155887480,
+      "content": "but when are they due?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455155875854,
+      "content": "we still need to do citations as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455154015941,
+      "content": "and 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455153994347,
+      "content": "I can do 2 and 8 for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455153705442,
+      "content": "I can do the first three",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455149548889,
+      "content": "I can present on natural selection and genetic variation and the pics that go with those two!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455149499227,
+      "content": "What slides would y'all like?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1455149491608,
+      "content": "Good. I'm working on a calc problem set right now, but then I'll work on the PowerPoint. I'm going to make notecards for the slides I'm presenting.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sis Gibson",
+      "timestamp_ms": 1455149318833,
+      "content": "I am just finishing up one of the last slides, but how are you all with the rest of the PowerPoint ?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mary Eliot and Sis",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "MaryEliotandSis_8ddb16090c"
+}

@@ -1,0 +1,159 @@
+{
+  "participants": [
+    {
+      "name": "Maxwell Abram"
+    },
+    {
+      "name": "Noah Ruttenberg"
+    },
+    {
+      "name": "Webster Thompson"
+    },
+    {
+      "name": "Ethan Ruttenberg"
+    },
+    {
+      "name": "Harrison Abram"
+    },
+    {
+      "name": "Paul Kigawa"
+    },
+    {
+      "name": "Eric Greenstein"
+    },
+    {
+      "name": "Justin Li"
+    },
+    {
+      "name": "Rhys Foulke"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Li",
+      "timestamp_ms": 1413669652594,
+      "content": "Rhode Island",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eric Greenstein",
+      "timestamp_ms": 1413669582576,
+      "content": "I'm 1 min away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Webster Thompson",
+      "timestamp_ms": 1413669469944,
+      "content": "Where is everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Webster Thompson",
+      "timestamp_ms": 1413669329398,
+      "content": "Webster: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Kigawa",
+      "timestamp_ms": 1413668655489,
+      "content": "That's fine. Also someone make sure to get chachas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1413668267581,
+      "content": "I can't make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Kigawa",
+      "timestamp_ms": 1413668247604,
+      "content": "Alright guys, reminder that were meeting at 6. Wear your St. B's gear if ya got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ethan Ruttenberg",
+      "timestamp_ms": 1413640700783,
+      "content": "yeah im coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harrison Abram",
+      "timestamp_ms": 1413562446127,
+      "content": "^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maxwell Abram",
+      "timestamp_ms": 1413560410044,
+      "content": "Sure I'm down. Good call on hermanos. Second only to el paso",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rhys Foulke",
+      "timestamp_ms": 1413557861617,
+      "content": "yeah im good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eric Greenstein",
+      "timestamp_ms": 1413557022278,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Webster Thompson",
+      "timestamp_ms": 1413554706395,
+      "content": "Webster: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Kigawa",
+      "timestamp_ms": 1413554694924,
+      "content": "all good you guys, can everyone else make it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Noah Ruttenberg",
+      "timestamp_ms": 1413553391456,
+      "content": "Yeah I'm taking a weekend sorry paul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Li",
+      "timestamp_ms": 1413553366523,
+      "content": "Sorry can't make it because I have an away game at St George's Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Kigawa",
+      "timestamp_ms": 1413553196106,
+      "content": "Paul Kigawa added Rhys Foulke.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Rhys Foulke"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Kigawa",
+      "timestamp_ms": 1413553081059,
+      "content": "St. Bernard's dinner this saturday night! lets meet up in the upper common room at 6. I think the general consensus is mexican (Hermanos?) but I'm up for anything. can you guys also forward this to anyone i missed (rhys?)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Maxwell, Noah, Webster and 6 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "MaxwellNoahWebsterand6others_0510b65b1b"
+}

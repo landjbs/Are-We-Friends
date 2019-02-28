@@ -1,0 +1,171 @@
+{
+  "participants": [
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Aidan Spencer"
+    },
+    {
+      "name": "Willa King"
+    },
+    {
+      "name": "Spencer Rowley"
+    },
+    {
+      "name": "Maddox Angerhofer"
+    },
+    {
+      "name": "Cate Von Dohlen"
+    },
+    {
+      "name": "Maddy Buffett"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430689633308,
+      "content": "Change of plans we are now going to dos, I think they'll be able to fit us so see you guys at the dance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430689313986,
+      "content": "We're waiting for a cab now and we'll try hermanos first but thanks spencer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Spencer Rowley",
+      "timestamp_ms": 1430689269836,
+      "content": "We can fit at least 4 more, if you can't fit where your going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Spencer Rowley",
+      "timestamp_ms": 1430689232778,
+      "content": "We have a ton of room at the end of the table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Spencer Rowley",
+      "timestamp_ms": 1430689196600,
+      "content": "Spencer sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/AidanWillaSpencerand3others_17ad7d0fb4/photos/11171714_1609367432610985_433680160_o_1609367432610985.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430688291049,
+      "content": "Ok we are in the back of Kitt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Spencer",
+      "timestamp_ms": 1430687837648,
+      "content": "alright fine im coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Spencer Rowley",
+      "timestamp_ms": 1430687799632,
+      "content": "Meet at kit now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Spencer",
+      "timestamp_ms": 1430687703577,
+      "content": "More time to change might be nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Spencer",
+      "timestamp_ms": 1430687696048,
+      "content": "Are we meeting at the AFC?i",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430687624325,
+      "content": "5 35 cab good? We can take pics or whatever until then. See you guys in a few",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddox Angerhofer",
+      "timestamp_ms": 1430687347291,
+      "content": "I'll be in the hall whenever you guys are ready",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430687249527,
+      "content": "I'm ready when everyone else is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430687231890,
+      "content": "Maddy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Spencer",
+      "timestamp_ms": 1430687178755,
+      "content": "is it coat and tie?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1430687163880,
+      "content": "That sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddox Angerhofer",
+      "timestamp_ms": 1430687144250,
+      "content": "Ok, so 5:15 it is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Spencer",
+      "timestamp_ms": 1430687112640,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddox Angerhofer",
+      "timestamp_ms": 1430687104854,
+      "content": "I don't know, why would we need to be there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Spencer Rowley",
+      "timestamp_ms": 1430687093187,
+      "content": "Meet at kit 3 at 515",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Spencer",
+      "timestamp_ms": 1430687039159,
+      "content": "Wait if we are going to Hermanos do we need to be there at 5:15?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddox Angerhofer",
+      "timestamp_ms": 1430686630482,
+      "content": "Who is up for Hermanos? (meet at Kitt at 6)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aidan, Willa, Spencer and 3 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "AidanWillaSpencerand3others_17ad7d0fb4"
+}

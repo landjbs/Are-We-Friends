@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Ethan Ruttenberg"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Justin Wilcox"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Ruttenberg",
+      "timestamp_ms": 1424400931108,
+      "content": "We should have a plan so we don't waste time tmrw",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ethan and Justin",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "EthanandJustin_27e381a871"
+}

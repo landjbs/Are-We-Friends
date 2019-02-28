@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Enzo Madrid"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526762067711,
+      "content": "are you harvard 22?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526762065451,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Enzo Madrid",
+      "timestamp_ms": 1526749472885,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526521699265,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Enzo Madrid",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "EnzoMadrid_758996986c"
+}

@@ -1,0 +1,160 @@
+{
+  "participants": [
+    {
+      "name": "Patrick Murray"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1463344895207,
+      "content": "do we have Spanish hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1463190703419,
+      "content": "Yo what's the reading called that were supposed to know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1461713132720,
+      "content": "my room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1461713023011,
+      "content": "Where u at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1461291534171,
+      "content": "landoooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1461291384353,
+      "content": "Yo how do you do the calculator part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1454988857141,
+      "content": "aight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1454988850119,
+      "content": "yeah I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1454988760716,
+      "content": "he emailed it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1454988564410,
+      "content": "we have a prueba on all the verbs and we have to read the thing he sent us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1454988481883,
+      "content": "is it on canvas?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1454988473259,
+      "content": "yo whats this spansh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1454684996266,
+      "content": "Aight I'll look for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1454684981971,
+      "content": "idk I couldn't find it on canvas so I didn't do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1454684917839,
+      "content": "Hoja*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1454684909662,
+      "content": "What's the spanish hola?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1453476489641,
+      "content": "I can usually just bullshit the essays",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1453476382724,
+      "content": "Whatever it's probably easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1453476371986,
+      "content": "Me Neitger",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1453476348565,
+      "content": "I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1453476268586,
+      "content": "What's the composition",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1453476246908,
+      "content": "we have a quiz on trigger words for the subjunctive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1453475461369,
+      "content": "Yo what's our spanish hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Murray",
+      "timestamp_ms": 1450184692722,
+      "content": "Do we have a test?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Patrick Murray",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "PatrickMurray_f0702fcfbe"
+}

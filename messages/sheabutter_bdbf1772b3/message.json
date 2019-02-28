@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Shea Butter"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shea Butter",
+      "timestamp_ms": 1536951832982,
+      "content": "okay!! let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1536951105748,
+      "content": "haha sounds good! prob leaving around 1030/11 so definitely come through if you can but no worries if youre still at lax",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shea Butter",
+      "timestamp_ms": 1536946195741,
+      "content": "Thanks!!! That\u00e2\u0080\u0099s awesome we would love to come! I think we have a lax initiation today but after it ends we will try and rally and let you know! But if we didn\u00e2\u0080\u0099t have that we would 100 be at your pregame haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1536941072501,
+      "content": "if you and char are interested you\u00e2\u0080\u0099re definitely welcome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1536941041230,
+      "content": "so i\u00e2\u0080\u0099m gonna be having a little pre in my dorm tonight and then we\u00e2\u0080\u0099re going to a frat party at mit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shea Butter",
+      "timestamp_ms": 1536330482089,
+      "content": "thank you!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1536293250156,
+      "content": "this class is a gem and a half if you\u00e2\u0080\u0099re still interested",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1536293236526,
+      "content": "https://portal.my.harvard.edu/psp/hrvihprd/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22IS_SCL_SUBJ_CAT%22%2C%22IS_SCL_SUBJ_CAT%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Afalse%2C%22TopN%22%3A%22%22%2C%22SearchText%22%3A%22(%20Anthro1010%20)%20(ACAD_CAREER%3A%5C%22FAS%5C%22)%22%2C%22DeepLink%22%3Afalse%7D",
+      "share": {
+        "link": "https://www.pin1.harvard.edu/cas/login?service=https%3A%2F%2Fportal.my.harvard.edu%2Fpsp%2Fhrvihprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DHU_CLASS_SEARCH%26SearchReqJSON%3D%257B%2522PageNumber%2522%253A1%252C%2522PageSize%2522%253A%2522%2522%252C%2522SortOrder%2522%253A%255B%2522IS_SCL_SUBJ_CAT%2522%252C%2522IS_SCL_SUBJ_CAT%2522%255D%252C%2522Facets%2522%253A%255B%255D%252C%2522Category%2522%253A%2522HU_SCL_SCHEDULED_BRACKETED_COURSES%2522%252C%2522SearchPropertiesInResults%2522%253Atrue%252C%2522FacetsInResults%2522%253Atrue%252C%2522SaveRecent%2522%253Afalse%252C%2522TopN%2522%253A%2522%2522%252C%2522SearchText%2522%253A%2522%28%2520Anthro1010%2520%29%2520%28ACAD_CAREER%253A%255C%2522FAS%255C%2522%29%2522%252C%2522DeepLink%2522%253Afalse%257D"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Shea Butter",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SheaButter_bdbf1772b3"
+}

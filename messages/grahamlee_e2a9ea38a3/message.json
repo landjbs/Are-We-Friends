@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Graham Lee"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509678271072,
+      "content": "could you send me what you did for 7c?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Graham Lee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "GrahamLee_e2a9ea38a3"
+}

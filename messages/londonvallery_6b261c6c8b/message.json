@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "London Vallery"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523810865675,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "London Vallery",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LondonVallery_6b261c6c8b"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Wayne Thimas"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528483244241,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Wayne Thimas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "WayneThimas_99924279a3"
+}

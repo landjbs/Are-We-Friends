@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Agatha La Voie"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Agatha La Voie",
+      "timestamp_ms": 1517969741131,
+      "content": "The video chat ended.",
+      "call_duration": 40,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Agatha La Voie",
+      "timestamp_ms": 1486211276693,
+      "content": "You missed a call from Agatha.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Agatha La Voie",
+      "timestamp_ms": 1486210669436,
+      "content": "where are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agatha La Voie",
+      "timestamp_ms": 1486210656425,
+      "content": "You missed a call from Agatha.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    }
+  ],
+  "title": "Agatha La Voie",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AgathaLaVoie_27c9b470dc"
+}

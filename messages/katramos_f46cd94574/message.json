@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Kat Ramos"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1487392801815,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kat Ramos",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "KatRamos_f46cd94574"
+}

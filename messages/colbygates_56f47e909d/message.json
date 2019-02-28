@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Colby Gates"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Colby Gates",
+      "timestamp_ms": 1412646715286,
+      "content": "Are you gonna eat your wings",
+      "type": "Generic"
+    }
+  ],
+  "title": "Colby Gates",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ColbyGates_56f47e909d"
+}

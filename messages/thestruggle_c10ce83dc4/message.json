@@ -1,0 +1,405 @@
+{
+  "participants": [
+    {
+      "name": "States Langham"
+    },
+    {
+      "name": "Brandon Ruiz"
+    },
+    {
+      "name": "Doug Robbins"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447899143826,
+      "content": "good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447899115854,
+      "content": "Doubt it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447899099074,
+      "content": "do we have to hand this packet in tommorow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447722950986,
+      "content": "Fight me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447720947728,
+      "content": "u wanna go Ruiz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447719575433,
+      "content": "Na you just dumb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447719557728,
+      "content": "it was hard as fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447718919069,
+      "content": "it wasnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447718540841,
+      "content": "I didn't think the test was that bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447718511814,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447717306727,
+      "content": "is this review packet due tommorow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447634191899,
+      "content": "Oh Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447634183178,
+      "content": "oh hold up I have a chem lab report and I'm meeting my partner in like 10 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447633918391,
+      "content": "Doug isn't either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Doug Robbins",
+      "timestamp_ms": 1447633916564,
+      "content": "I have tutoring till 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447633915489,
+      "content": "Doug?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447633903618,
+      "content": "Just lando",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447633901436,
+      "content": "apparently not Ruiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447633889400,
+      "content": "Who's coming?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447622779034,
+      "content": "yes.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447622773269,
+      "content": "lib at 730?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447622727116,
+      "content": "does anybody want to study tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447622715620,
+      "content": "States named the group the struggle.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447366799034,
+      "content": "I am so fucking happy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447366789222,
+      "content": "Fuck yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447366780249,
+      "content": "No fucking way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447366760051,
+      "content": "mah boi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447366752401,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/thestruggle_c10ce83dc4/photos/12243665_420778901453456_322241048_n_420778901453456.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447288692173,
+      "content": "Downstairs ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447288684617,
+      "content": "Where we at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447288526751,
+      "content": "K",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447288320764,
+      "content": "same place as last time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447287627477,
+      "content": "I might as well just go then too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447287507994,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447287447677,
+      "content": "Lando are you gonna be there at 7:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447286893616,
+      "content": "IM realready n the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1447286887665,
+      "content": "I might",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447286451388,
+      "content": "does everyone else want to meet at like 730 in the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Doug Robbins",
+      "timestamp_ms": 1447278517939,
+      "content": "I'll send you guys a pic of the first page tho I did it already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Doug Robbins",
+      "timestamp_ms": 1447278495152,
+      "content": "Can't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1447278145538,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447278126365,
+      "content": "does anyone want to do hw at like 8 tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446684092327,
+      "content": "We're on the Second floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446684071904,
+      "content": "Where you at states",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446683807510,
+      "content": "Landon come to the third floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446683762327,
+      "content": "On my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446683744498,
+      "content": "Where are you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446683591519,
+      "content": "yeah 2 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446683574089,
+      "content": "Before you leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446683565428,
+      "content": "Lando get me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446683477881,
+      "content": "Upstairs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446683430303,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446683412496,
+      "content": "Lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446683410789,
+      "content": "U are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446683401209,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446683389575,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446683253558,
+      "content": "Are u closed to visitors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1446683229085,
+      "content": "yeah armour study pod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446683152896,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446683122736,
+      "content": "So 7 30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446680876126,
+      "content": "Word",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1446680827625,
+      "content": "I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1446680695544,
+      "content": "Any chance yall wanna do this hw at 7 30?",
+      "type": "Generic"
+    }
+  ],
+  "title": "the struggle",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "thestruggle_c10ce83dc4"
+}

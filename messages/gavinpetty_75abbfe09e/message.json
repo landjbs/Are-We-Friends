@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Gavin Petty"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449549202050,
+      "content": "are the chem test corrections due tomorrow",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gavin Petty",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "GavinPetty_75abbfe09e"
+}

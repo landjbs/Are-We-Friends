@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Alistair Gluck"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alistair Gluck",
+      "timestamp_ms": 1520458856870,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alistair Gluck",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AlistairGluck_98f893e13b"
+}

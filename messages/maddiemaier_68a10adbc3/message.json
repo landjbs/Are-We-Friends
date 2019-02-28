@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Maddie Maier"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maddie Maier",
+      "timestamp_ms": 1527944119123,
+      "content": "Maddie Maier just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1513223573589,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Maddie Maier",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MaddieMaier_68a10adbc3"
+}

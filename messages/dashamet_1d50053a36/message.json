@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Dasha Met"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522886514124,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dasha Met",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "DashaMet_1d50053a36"
+}

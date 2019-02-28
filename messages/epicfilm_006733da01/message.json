@@ -1,0 +1,175 @@
+{
+  "participants": [
+    {
+      "name": "Nursultan Kapparov"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "David Ruiz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1508285846336,
+      "content": "2-3 minutes long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1508285837140,
+      "content": "Wanna star in the next movie?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1508285829355,
+      "content": "Yo bois",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507661407226,
+      "content": "there is a new project next week if you interested",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507661391556,
+      "content": "ok Kilfara said no need to reshoot, just edit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507652536321,
+      "content": "maybe more angles of the fist bump",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507652528016,
+      "content": "lol idk yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507652521502,
+      "content": "your scene",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1507652478204,
+      "content": "Not my scene please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1507652460880,
+      "content": "What scene",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507652460225,
+      "content": "the movie now is 1:40",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507652454978,
+      "content": "I just need 20 more seconds",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1507652354178,
+      "content": "Oh sheet lnao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507649000087,
+      "content": "the movie is a bit short",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507648994822,
+      "content": "are ya'll available tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507515368117,
+      "content": "it's shared",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1507510775558,
+      "content": "Then share it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1507510772278,
+      "content": "Upload it to drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507510763381,
+      "content": "tryna send it by email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1507510751681,
+      "content": "What do you mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507510740018,
+      "content": "shit the movie does not attach",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1507403585005,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1507401774219,
+      "content": "Yeah sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507401752216,
+      "content": "For like 20-30 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507401743466,
+      "content": "6-6:30 tomorrow ok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1507401730942,
+      "content": "Nursultan named the group Epic Film.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Epic Film",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "EpicFilm_006733da01"
+}

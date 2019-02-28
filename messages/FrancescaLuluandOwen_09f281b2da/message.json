@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Francesca Walton"
+    },
+    {
+      "name": "Lulu Lipman"
+    },
+    {
+      "name": "Owen MacIntyre"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1494946714444,
+      "content": "We will all b in touch \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1494946704947,
+      "content": "Owen, does this make sense for the news article",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1494946680244,
+      "content": "Here are our charts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1494946668385,
+      "content": "Francesca sent 2 photos.",
+      "photos": [
+        {
+          "uri": "messages/FrancescaLuluandOwen_09f281b2da/photos/18596272_795347380627396_1143650687_o_795347380627396.jpg"
+        },
+        {
+          "uri": "messages/FrancescaLuluandOwen_09f281b2da/photos/18516617_795347383960729_1451590628_o_795347383960729.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1494946644100,
+      "content": "Thought I would start a group message",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1494946638715,
+      "content": "* don't think Alex has a FB",
+      "type": "Generic"
+    }
+  ],
+  "title": "Francesca, Lulu and Owen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "FrancescaLuluandOwen_09f281b2da"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Delaney Hurley"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522871345377,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Delaney Hurley",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "DelaneyHurley_51ea7a8f4a"
+}

@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Francesca Walton"
+    },
+    {
+      "name": "Lulu Lipman"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1495077519836,
+      "content": "We can touch base on it all tom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1495077508197,
+      "content": "Oh doc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1495077505598,
+      "content": "Haha yeah ah gosh. We r good.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495071920259,
+      "content": "don't think so but that email was weird",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1495064666609,
+      "content": "Hey guys we don't have to turn in anything more for eco, right. Just a little scared by his email lol",
+      "type": "Generic"
+    }
+  ],
+  "title": "Francesca and Lulu",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "FrancescaandLulu_2676ab6936"
+}

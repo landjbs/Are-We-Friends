@@ -1,0 +1,701 @@
+{
+  "participants": [
+    {
+      "name": "Tereshchenko Victoria"
+    },
+    {
+      "name": "Sanjna Chetan"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Samuel Henderson"
+    },
+    {
+      "name": "Daniel Cho"
+    },
+    {
+      "name": "Annie Xiong"
+    },
+    {
+      "name": "Agatha La Voie"
+    },
+    {
+      "name": "Jackie Shen-Yi"
+    },
+    {
+      "name": "Alison Liu"
+    },
+    {
+      "name": "Andrew Kapadia"
+    },
+    {
+      "name": "Faith Onyechere"
+    },
+    {
+      "name": "Khuan-Yu Hall"
+    },
+    {
+      "name": "Paige Adams"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1518318029844,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agatha La Voie",
+      "timestamp_ms": 1518317662737,
+      "content": "Good job everyone!\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Cho",
+      "timestamp_ms": 1518317659996,
+      "content": "Thanks :)))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518317650020,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1518317647082,
+      "content": "Samuel: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1518317642168,
+      "content": "Thank you Victoria, Sanjanna, Landon, and Jackie for organizing the club and competition",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Tereshchenko Victoria"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khuan-Yu Hall"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1518317622496,
+      "content": "We\u00e2\u0080\u0099ll get them next year :)))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518317583857,
+      "content": "But really great job today everyone and we seniors feel our legacy will be well preserved in you all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518317556809,
+      "content": "Yeah sorry guys but we didnt make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518317529004,
+      "content": "Any results yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518314971862,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1518314958254,
+      "content": "Has anyone gotten a reply yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1518299679335,
+      "content": "dw!! thanks for letting us know!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1518298961345,
+      "content": "That\u00e2\u0080\u0099s ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alison Liu",
+      "timestamp_ms": 1518297929280,
+      "content": "hey guys I'm so sorry but since we got back early I made it time to go to our bball game. it's away at 5:30 so I don't think I'll make it to the dinner :((",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518294636901,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518294631434,
+      "content": "5:30 sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518294600634,
+      "content": "What time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518294485161,
+      "content": "guys quick mandatory team dinner in the lowest tonight during which we\u00e2\u0080\u0099ll discuss plans for tomorrow (if we get invited back), recap todays trials, and talk about next year. Shouldnt take too long so just get some food and join us then. Great job today everyone!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1518279975144,
+      "content": "We are in court room 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1518268190023,
+      "content": "Guys hurry up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518267863069,
+      "content": "we\u00e2\u0080\u0099re in the line for the metal detector downstairs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1518267514903,
+      "content": "Victoria sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/MockTrial_3e86db9099/photos/27950520_1403829249729486_1600110168_o_1403829249729486.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1518266939689,
+      "content": "We are here, going inside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518264639010,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518264615200,
+      "content": "Everyone sign out on reach rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1518264143140,
+      "content": "The printer in wing isn\u00e2\u0080\u0099t working",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1518263987670,
+      "content": "Paige will go with us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1518263383664,
+      "content": "Be there in 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1518262833245,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1518262827147,
+      "content": "If anyone is there yet, grab us a table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518262826615,
+      "content": "I'll be there in 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518262818623,
+      "content": "Be there in 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1518262798753,
+      "content": "Hey - running a little late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1518232448892,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1518232435120,
+      "content": "No problem, but It would be very helpful if you could print out your own evidence",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518232419281,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1518232409887,
+      "content": "Yes- mainly because everything was strewn about at the end of practice and we couldnt locste a number of things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1518232349649,
+      "content": "Should we print out evidence that was already printed at today's practice? Like the stuff that was in the folders we used?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518231656844,
+      "content": "Khuan-Yu: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518231498264,
+      "content": "Guys thanks for coming to the meeting tonight. We\u00e2\u0080\u0099ll be meeting in the upper at 6:40 sharp tomorrow morning. DO NOT BE LATE! Lawyers, tonight print out your questions (even if you have them memorized), your openings and closings, and ANY EVIDENCE THAT YOU MAY WANT TO SUBMIT. Guys, wear khakis, an nice tie, a belt, and a jacket/blazer. Girls, no specific dress code but a nice dress/other seated meal attire is good. Tomorrow we\u00e2\u0080\u0099ll be having lunch at chipotle, five guys, or chickfila (we can vote in the morning) so bring around $10 if you can in case the school won\u00e2\u0080\u0099t pay for us. Ik it was long today, but good job at practice and we\u00e2\u0080\u0099re really looking forward to going to the competition with you all tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alison Liu",
+      "timestamp_ms": 1518216559936,
+      "content": "We are going to the reading room cause that's where the pizza is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Cho",
+      "timestamp_ms": 1518216192306,
+      "content": "how about marco",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518216182181,
+      "content": "Joe is getting it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Cho",
+      "timestamp_ms": 1518216170501,
+      "content": "Khuan did u get the dorm milk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1518216167067,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518216157869,
+      "content": "No pizza yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1518216153214,
+      "content": "I just finished practice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1518216141165,
+      "content": "Can someone save two slices of pizza for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518214040715,
+      "content": "Khuan-Yu: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1518214016645,
+      "content": "Take your time in getting there and prepare for a couple hours of hard work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1518213998579,
+      "content": "So the pizza is coming at 5:30, but we won't formally start until 6 because people have sports",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1518213742630,
+      "content": "5:30-9:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khuan-Yu Hall",
+      "timestamp_ms": 1518213731743,
+      "content": "530 I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1518213715279,
+      "content": "When is the meeting today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1518213702006,
+      "content": "are we meeting at 5:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alison Liu",
+      "timestamp_ms": 1518109890667,
+      "content": "jackie and I got out of class late so we might be a couple minutes late to the lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518105025071,
+      "content": "everyone remember that we'll be meeting today in the lower during lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1518049709462,
+      "content": "Hello! We are downstairs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1518035685914,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1518035537791,
+      "content": "Still 7:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1518035390076,
+      "content": "Since the library is closing early today we\u00e2\u0080\u0099re gonna meet in hargate commons tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1517620540719,
+      "content": "Haha we figured it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1517541235419,
+      "content": "is this okay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1517541230941,
+      "content": "Annie sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/MockTrial_3e86db9099/photos/27653164_565423883792187_1251358606_o_565423883792187.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1517539944802,
+      "content": "Thank you for your attention :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1517539938885,
+      "content": "You have all already \u00e2\u0080\u009csigned\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1517539917831,
+      "content": "And send it to whoever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1517539916937,
+      "content": "New plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Cho",
+      "timestamp_ms": 1517539891791,
+      "content": "I didn't get the link",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1517539870961,
+      "content": "Why doesn\u00e2\u0080\u0099t someone print it out, then we can all sign it before or after chapel tomorrow, and someone can scan it in the library",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1517539728070,
+      "content": "But I still don\u00e2\u0080\u0099t know how to sign this thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1517539719099,
+      "content": "I just shared it w you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1517539100673,
+      "content": "*someone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1517539091483,
+      "content": "Can somone post the link on the group chat, I don\u00e2\u0080\u0099t have it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517520326815,
+      "content": "Lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517520324436,
+      "content": "If none of you can figure it out or it doesn't work, I can bring it with me to dinner tonight and you can sign it then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517520293636,
+      "content": "(I did the latter)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517520286713,
+      "content": "Um, you can insert a text box, or save it as a odd and write on it digitally",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1517520136726,
+      "content": "How do you sign it???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517518186349,
+      "content": "Let me know if you didn't get it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517518162294,
+      "content": "Please do so as soon as you see it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517518153171,
+      "content": "Hey guys! You should have just received a link to a Google doc. It's the code of conduct and MUST BE SIGNED BY TONIGHT if we want to compete",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Faith Onyechere",
+      "timestamp_ms": 1517441794783,
+      "content": "IM ON MY WAY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Faith Onyechere",
+      "timestamp_ms": 1517441791113,
+      "content": "IM NOT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Faith Onyechere",
+      "timestamp_ms": 1517441789280,
+      "content": "NO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Faith Onyechere",
+      "timestamp_ms": 1517441786987,
+      "content": "IM HERE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517441676794,
+      "content": "Sanjna sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/18405827_827164840783878_8021380101394399232_n_827164834117212.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517441673385,
+      "content": "Sanjna sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851593_657500010999923_808460951_n_657500007666590.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1517441662559,
+      "content": "HURRY UP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517439652809,
+      "content": "if everyone shows up on time and we dont get distracted we can def get the meeting finished by then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1517439602839,
+      "content": "We want to go!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1517439596523,
+      "content": "Samsiesss!!! and Faith!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1517428393363,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1517428376581,
+      "content": "Yeah I\u00e2\u0080\u0099m going there too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1517427826853,
+      "content": "Could I/others who are going to the joint YRs and YDs Meeting leave around 8?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1517421295172,
+      "content": "6.30 to 8.30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alison Liu",
+      "timestamp_ms": 1517421195843,
+      "content": "when's the meeting tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1516412097610,
+      "content": "Annie Xiong added Samuel Henderson.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Samuel Henderson"
+        }
+      ]
+    },
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1516304346667,
+      "content": "Hey guys! i just made this group with all our new members on the team:)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jackie Shen-Yi"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Annie Xiong",
+      "timestamp_ms": 1516304262440,
+      "content": "Annie named the group Mock Trial.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mock Trial",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "MockTrial_3e86db9099"
+}

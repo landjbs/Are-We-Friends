@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Lulu Lipman"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Martha Mills"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1496098665497,
+      "content": "are we supposed to go to science night and stand by the poster?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495730780723,
+      "content": "imma be a couple min late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lulu Lipman",
+      "timestamp_ms": 1495730628145,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Martha Mills",
+      "timestamp_ms": 1495730480493,
+      "content": "Do we go to class today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495670158208,
+      "content": "and then one snake, four killdeer (plus one baby and an egg), and idk about bees",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495670104615,
+      "content": "8 mice out of 12 traps not including babies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Martha Mills",
+      "timestamp_ms": 1495669731797,
+      "content": "How many of each did y'all see/catch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495667401679,
+      "content": "idk about plants tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495667395763,
+      "content": "animal species are killdeer, white footed mouse, garter snake, and ground bees",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Martha Mills",
+      "timestamp_ms": 1495653980762,
+      "content": "Hey I'm working on the poster right now, could y'all send me some info to include? Data, conclusions, list of species, etc? Right now I'm just changing the color scheme a little and putting in some of your photos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lulu Lipman",
+      "timestamp_ms": 1495641903305,
+      "content": "science night is monday! tomorrow we need to work on our poster!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lulu and Martha",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "LuluandMartha_874c13f725"
+}

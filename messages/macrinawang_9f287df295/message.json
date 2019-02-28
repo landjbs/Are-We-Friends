@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Macrina Wang"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517359852021,
+      "content": "ik sorry i had another meeting but im almost there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Macrina Wang",
+      "timestamp_ms": 1517359756063,
+      "content": "landon, you are on duty tonight for peer tutoring!!!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Macrina Wang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MacrinaWang_9f287df295"
+}

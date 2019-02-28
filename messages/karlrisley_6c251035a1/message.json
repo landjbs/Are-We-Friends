@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Karl Risley"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1468679234355,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Karl Risley",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "KarlRisley_6c251035a1"
+}

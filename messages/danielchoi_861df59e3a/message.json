@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Choi"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509145461815,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Daniel Choi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "DanielChoi_861df59e3a"
+}

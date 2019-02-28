@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Hallie Purcell"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1418355234806,
+      "content": "Np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hallie Purcell",
+      "timestamp_ms": 1418354291269,
+      "content": "YEAH SORRY LANDON",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1418354271394,
+      "content": "Can u email it to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hallie Purcell",
+      "timestamp_ms": 1418347857388,
+      "content": "gracias",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1418347852568,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hallie Purcell",
+      "timestamp_ms": 1418347852295,
+      "content": "bc I ain't going all the way over to kitt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hallie Purcell",
+      "timestamp_ms": 1418347839799,
+      "content": "Landon can I email you my essay",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hallie Purcell",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "HalliePurcell_1499ba5534"
+}

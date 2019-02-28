@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Sydney Penny"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522508816702,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sydney Penny",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SydneyPenny_b360a07eba"
+}

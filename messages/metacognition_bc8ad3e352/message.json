@@ -1,0 +1,240 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Stewart"
+    },
+    {
+      "name": "Lilly Hines"
+    },
+    {
+      "name": "Snow Guilfoyle"
+    },
+    {
+      "name": "Charlotte Berry"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "John McKean"
+    },
+    {
+      "name": "Jess Arbuckle"
+    },
+    {
+      "name": "Maddy Gibbons"
+    },
+    {
+      "name": "Carson Bednar"
+    },
+    {
+      "name": "Eda Keni"
+    },
+    {
+      "name": "Kendra Heredia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1510975965559,
+      "content": "Me too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Stewart",
+      "timestamp_ms": 1510975538254,
+      "content": "i\u00e2\u0080\u0099m doing a prezi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1510975416354,
+      "content": "Maddy Buffett left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Maddy Buffett"
+        }
+      ]
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1510975355092,
+      "content": "is anyone doing a normal presentation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509411578008,
+      "content": "good plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509411078826,
+      "content": "Someone has to speak up about it in class and then the rest of us can join in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Carson Bednar",
+      "timestamp_ms": 1509410929522,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509410926721,
+      "content": "at least combine groups to be 4 per group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509410923526,
+      "content": "that is so true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509410908855,
+      "content": "Because we also cannot do it as a two man play",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509410899077,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Carson Bednar",
+      "timestamp_ms": 1509410894057,
+      "content": "yea i was thinking wbout tht too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509410889686,
+      "content": "yeah i agree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509410877342,
+      "content": "Landon and I just met tonight and I don't think they realize how much work this project requires. And I think it would be more genuine in class, but ya lets try not to attack them about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Carson Bednar",
+      "timestamp_ms": 1509410871365,
+      "content": "yea like make groups bigger at least or somethin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Gibbons",
+      "timestamp_ms": 1509410852136,
+      "content": "Lets at least change smting though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509410850614,
+      "content": "in class is good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Carson Bednar",
+      "timestamp_ms": 1509410831640,
+      "content": "in class is better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1509410818254,
+      "content": "I feel like emailing is too much like only one person's asking but at the same time I don't want to ambush them in class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509410812443,
+      "content": "i think asking in class is better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1509410794810,
+      "content": "should we email or ask them in class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509410731421,
+      "content": "im nervous to ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Snow Guilfoyle",
+      "timestamp_ms": 1509410676512,
+      "content": "yeeess that would be good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509410676238,
+      "content": "collaboration!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509410661596,
+      "content": "which is such a good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509410658776,
+      "content": "I think maddy and landon were saying we should ask to do whole class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Carson Bednar",
+      "timestamp_ms": 1509410647407,
+      "content": "yessssss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Snow Guilfoyle",
+      "timestamp_ms": 1509410641699,
+      "content": "lets at least try to make the groups bigger/the deadline later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Snow Guilfoyle",
+      "timestamp_ms": 1509410628989,
+      "content": "PLEASE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509410604948,
+      "content": "hey guys! lets try to get this assignment changed:)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Eda Keni"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lilly Hines",
+      "timestamp_ms": 1509410584810,
+      "content": "Lilly named the group Metacognition.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Metacognition ",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "Metacognition_bc8ad3e352"
+}

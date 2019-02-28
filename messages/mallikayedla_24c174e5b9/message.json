@@ -1,0 +1,289 @@
+{
+  "participants": [
+    {
+      "name": "Mallika Yedla"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415538473994,
+      "content": "Yeah sry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415537605365,
+      "content": "Hey r u on ur way?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415534377474,
+      "content": "Hey don't forget to bring paper so we can write our rebuttals and cross ex questions on the bus!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415415017136,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415414605569,
+      "content": "I just sent u an important email abt the structure of our debate (I talked to Amanda and Nicholas)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415403066729,
+      "content": "I'm going to be there in a few minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415402815118,
+      "content": "Couple minutes away from reading rm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415394709222,
+      "content": "Mallika: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415394704810,
+      "content": "Ok great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415394637285,
+      "content": "I'm heading over now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415394605943,
+      "content": "I am sitting at a table in the room with the computers that is next to where we sat last time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415394583234,
+      "content": "Where r u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415394179977,
+      "content": "On my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415392391926,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415392127205,
+      "content": "Lib at 4:00?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415387398125,
+      "content": "Great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415387006575,
+      "content": "Ok in that case I am going to go to the gym but I should be done showering and everything by 3:30 or so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415386480483,
+      "content": "After 3:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415386149018,
+      "content": "Hey what time r u free to work on our case?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415318055499,
+      "content": "Same. I'm on my way now :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415310138759,
+      "content": "I had a little time to think about it but no actual time to work. I'll try to get there as early as possible. We'll be ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415309161782,
+      "content": "Hey did u have any time to think abt a rationale and plan today? Idk what we r going to do tonight!! Let's try to get to the reading room asap after seated to write something out. Oh gosh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415230296078,
+      "content": "I'm on my way too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415230182411,
+      "content": "Hi I'm on my way from the upper so I'll b there in like 5-8 mins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415220688314,
+      "content": "Great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415220685162,
+      "content": "Ok now I am on the first floor on the couch closest to the window near the pond.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415220675100,
+      "content": "I'm going to be there in a few minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415220276324,
+      "content": "On my way to the lib wbu?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415212553273,
+      "content": "Ok good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415212502108,
+      "content": "I don't thinks so but maybe tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415212449128,
+      "content": "Ok so then we have a lot of work to do! Do u think u will have any time after 5 or between dinner and the meeting or after the meeting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415212380656,
+      "content": "Neg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415211640029,
+      "content": "Hey Landon apparently we have been switched to aff again. Have u been researching aff or neg?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415157718337,
+      "content": "Great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415157707068,
+      "content": "Yes see u there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415157684179,
+      "content": "So let's meet on the first floor of the lib at 3:40 tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415157642068,
+      "content": "Great! Then ur right near the lib!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415157605510,
+      "content": "I'm in kitt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415157588309,
+      "content": "What dorm do u live in? I'm in Kehaya but we can just meet at the library or something if that's easier cuz kehaya is kinda far away from everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415157231591,
+      "content": "Great! I'll see you tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415157188784,
+      "content": "Perfect! Let me know if u have any other free time so we can squeeze in some more research but I think that will b great! I will start neg research tonight!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415157119336,
+      "content": "I should've be free until 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415157075276,
+      "content": "Awesome that works for me too. Do u think u will b free for a couple hours?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415157021074,
+      "content": "Tomorrow afternoon would be great. I'm free at around 3:30.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1415156959027,
+      "content": "Hi Landon! I have just heard that we r partners now. Do u have any athletic commitments tomorrow? Until now I have been researching for aff so I have nothing for a neg case and I think we should probs meet asap. If possible, I would like to meet to put together a rough case tomorrow afternoon so we r prepared for the practice rounds tomorrow night.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mallika Yedla",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MallikaYedla_24c174e5b9"
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Kate Kelly"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kate Kelly",
+      "timestamp_ms": 1518392355449,
+      "content": "https://quizlet.com/268101252/upper-respiratory-anatomy-diagram/",
+      "share": {
+        "link": "https://quizlet.com/268101252/upper-respiratory-anatomy-diagram/"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Kate Kelly",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "KateKelly_4f29b00697"
+}

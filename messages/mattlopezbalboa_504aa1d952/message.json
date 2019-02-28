@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Matt L\u00c3\u00b3pez-Balboa"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matt L\u00c3\u00b3pez-Balboa",
+      "timestamp_ms": 1521315010975,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Matt L\u00c3\u00b3pez-Balboa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MattLopezBalboa_504aa1d952"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Nadine Lee"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522473077115,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nadine Lee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "NadineLee_cb23e87b5b"
+}

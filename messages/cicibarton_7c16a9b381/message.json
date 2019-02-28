@@ -1,0 +1,172 @@
+{
+  "participants": [
+    {
+      "name": "Cici Barton"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466280003371,
+      "content": "That's awesome and yeah I'd love to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466279975735,
+      "content": "I just got a new pair of studio speakers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466279956803,
+      "content": "if you want I can show you how sometime",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466279597795,
+      "content": "I really want to do more remixing stuff like what you're doing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466279534558,
+      "content": "It's actually pretty spread out it just sounds like a lot.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466279388237,
+      "content": "yeah that sounds busy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466279355961,
+      "content": "I'm summer is all over the place I'm usually pretty organized",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466279335888,
+      "content": "I'm going to Nantucket then I might stay w a friend in Glouster Ma then Jackson hole to get Tommy and then I'm going to the st Lawrence river and preseason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466279260209,
+      "content": "fiction",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466279253897,
+      "content": "That sounds fun what kind of writing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466279253743,
+      "content": "what about you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466279235111,
+      "content": "Oh nice!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466279206274,
+      "content": "im at a writing program in iowa rn and then I'm taking engineering classes at dartmouth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466278983227,
+      "content": "*summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466278977147,
+      "content": "What are you doing this summe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466278972148,
+      "content": "That's cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466278950736,
+      "content": "yeah but only for 2 years",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466278910778,
+      "content": "Yeah it looks super cool you went right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466278893767,
+      "content": "he's going to have a great time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466278882955,
+      "content": "oh cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466278848268,
+      "content": "I just sent Tommy off to Wyoming w Derek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466278832941,
+      "content": "It's been good I got out yesterday but I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466278808598,
+      "content": "hows your summer so far?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1466278790965,
+      "content": "that's really good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466272619115,
+      "content": "The song is called Alaska by Maggie Rogers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cici Barton",
+      "timestamp_ms": 1466272589559,
+      "content": "This is a new take on remixing.... Hope you're having a good summer!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Cici Barton",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "CiciBarton_7c16a9b381"
+}

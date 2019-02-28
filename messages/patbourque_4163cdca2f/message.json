@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Pat Bourque"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pat Bourque",
+      "timestamp_ms": 1414938123413,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1414938111617,
+      "content": "I'm not on campus sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pat Bourque",
+      "timestamp_ms": 1414937852552,
+      "content": "Hey man can u sign me and clay out on the board",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pat Bourque",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "PatBourque_4163cdca2f"
+}

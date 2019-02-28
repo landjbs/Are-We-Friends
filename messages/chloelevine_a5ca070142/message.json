@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Chloe Levine"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522879053125,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chloe Levine",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ChloeLevine_a5ca070142"
+}

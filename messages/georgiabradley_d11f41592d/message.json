@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Georgia Bradley"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522483439200,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Georgia Bradley",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "GeorgiaBradley_d11f41592d"
+}

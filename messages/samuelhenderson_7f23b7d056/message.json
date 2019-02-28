@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "Samuel Henderson"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1517191682140,
+      "content": "I can go to mock trial on Wednesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517183271171,
+      "content": "perfect thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1517182773941,
+      "content": "I also included a question about whether they would be able to make it to the Wednesday meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1517182730980,
+      "content": "I just sent out the vote",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1516550739050,
+      "content": "Ok thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516550460079,
+      "content": "no the practice competition is next sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1516549883570,
+      "content": "Is there a mock trial meeting today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1516413154760,
+      "content": "I left my wallet inside, but someone let me in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516412769533,
+      "content": "Samuel missed a call from you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1516412316096,
+      "content": "You missed a call from Samuel.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1515805620205,
+      "content": "hey can you come to the mock trial meeting in the lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1512590098569,
+      "content": "great thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1512583682553,
+      "content": "By the way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1512583671615,
+      "content": "Your seated meal table is L6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1512583654856,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1512451604183,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1512443067308,
+      "content": "Hey, can you add me to the WSPS email list?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509939801723,
+      "content": "but we did decide that we\u00e2\u0080\u0099re gonna try and send 2 teams to the invitational and if you go to that you\u00e2\u0080\u0099ll have a chance at the state competition no matter what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1509939762414,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509939740522,
+      "content": "nothings final yet so idk but we\u00e2\u0080\u0099ll release everything on wednesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509939711181,
+      "content": "You accepted Samuel's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1509939659320,
+      "content": "Did I make the cut?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Samuel Henderson",
+      "timestamp_ms": 1509939644779,
+      "content": "Samuel added you on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Samuel Henderson",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SamuelHenderson_7f23b7d056"
+}

@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Tereshchenko Victoria"
+    },
+    {
+      "name": "Sanjna Chetan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523392152864,
+      "content": "i talked w andrew and he wants to be head btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523392141392,
+      "content": "thats looks really good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1523373808705,
+      "content": "lmk what I should change",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1523373795380,
+      "content": "Hey all!\n\n\n\nSorry we haven't been communicating with you guys recently, we've just been super busy and kept forgetting to send this email.\n\n\n\nHowever - we have the heads decided for next year! Congratulations to Faith and Andrew, who will be joining Jackie next year as the heads. \n\n\n\nWe put a lot of thought into this decision and felt that this would be best for the team. If you have any issues with this, or wish to speak to any of us, please reach out! \n\n\n\nAs always, the Mock Trial Heads will be stepping down as our season is over, and Jackie, Faith, and Andrew will be taking over almost immediately. If any of you are interested in scheduling practices or meeting as a team to discuss a strategy for next year, please do so (hopefully we can stop by from time to time to see how you all are).\n\n\n\nIf we don't meet as a team before the year is over, we wish you all the best in the future, and know that this team will do wonderfully in the years to come.\n\n\n\nPlease email us at any time if you have any questions, or if you just want to talk!\n\n\n\nBest,\nThe Mock Trial Heads",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1523373793782,
+      "content": "so here's the drafted email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1523373787222,
+      "content": "hey guys",
+      "type": "Generic"
+    }
+  ],
+  "title": "Victoria and Sanjna",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "VictoriaandSanjna_603d03b92b"
+}

@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "York Hatter"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "York Hatter",
+      "timestamp_ms": 1526179881835,
+      "content": "York: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526138388065,
+      "content": "not too much im mostly invested in my bio research rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "York Hatter",
+      "timestamp_ms": 1526137775397,
+      "content": "I'm doing OK. Do you still do programming?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526137639489,
+      "content": "thanks! everythings going really well. what about you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "York Hatter",
+      "timestamp_ms": 1526120488308,
+      "content": "Happy birthday Landon! How're you doing?",
+      "type": "Generic"
+    }
+  ],
+  "title": "York Hatter",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "YorkHatter_a26eac5639"
+}

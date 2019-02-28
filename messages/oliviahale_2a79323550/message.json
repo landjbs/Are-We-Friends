@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Olivia Hale"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523815933984,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Olivia Hale",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "OliviaHale_2a79323550"
+}

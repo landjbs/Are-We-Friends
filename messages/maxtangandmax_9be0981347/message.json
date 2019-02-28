@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Max Drinon"
+    },
+    {
+      "name": "Tang Tantivirun"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Max Baron"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anvesh Jain",
+      "timestamp_ms": 1484174011904,
+      "content": "Anvesh Jain left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Anvesh Jain"
+        }
+      ]
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484171574422,
+      "content": "Steven Wang left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Steven Wang"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jordi Freeman",
+      "timestamp_ms": 1479173012615,
+      "content": "Jordi Freeman left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jordi Freeman"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anvesh Jain",
+      "timestamp_ms": 1479171950421,
+      "content": "Alejandro Maldonado and Matthew Van Aelst",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anvesh Jain",
+      "timestamp_ms": 1479171938452,
+      "content": "Try the prefects",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wayne Thimas",
+      "timestamp_ms": 1479171907341,
+      "content": "Wayne Thimas left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Wayne Thimas"
+        }
+      ]
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1479171304388,
+      "content": "JR Ereyi left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "JR Ereyi"
+        }
+      ]
+    },
+    {
+      "sender_name": "Brandon Keefe",
+      "timestamp_ms": 1479159107481,
+      "content": "Brandon Keefe left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Brandon Keefe"
+        }
+      ]
+    },
+    {
+      "sender_name": "Tang Tantivirun",
+      "timestamp_ms": 1479154553563,
+      "content": "did you guys take a group picture during the dorm trip?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tang Tantivirun",
+      "timestamp_ms": 1479144908639,
+      "content": "hey im doing the yearbook page for Drury and I was wondering if you guys had any photos? If you have some please try to send them to me ASAP.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Max, Tang and Max",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "MaxTangandMax_9be0981347"
+}

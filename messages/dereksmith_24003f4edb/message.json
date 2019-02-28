@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Derek Smith"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Derek Smith",
+      "timestamp_ms": 1531346904115,
+      "content": "Derek sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/11891346_832506723526133_983727216_n_832506720192800.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Smith",
+      "timestamp_ms": 1531346897327,
+      "content": "Teeey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Smith",
+      "timestamp_ms": 1531346897313,
+      "content": "Yeeet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Smith",
+      "timestamp_ms": 1531346897293,
+      "content": "Hellooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Smith",
+      "timestamp_ms": 1531346897285,
+      "content": "He\u00e2\u0080\u0099ll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Smith",
+      "timestamp_ms": 1531346896732,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Smith",
+      "timestamp_ms": 1531346828020,
+      "content": "Derek is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Derek Smith",
+      "timestamp_ms": 1522195460684,
+      "content": "Derek Smith is on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522189990372,
+      "content": "not bad tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522189976704,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/GamologyAsia.KeliNetwork/videos/1621759684575499/"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Derek Smith",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "DerekSmith_24003f4edb"
+}

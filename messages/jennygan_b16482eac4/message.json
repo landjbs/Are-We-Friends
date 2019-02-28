@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jenny Gan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522509171670,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jenny Gan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JennyGan_b16482eac4"
+}

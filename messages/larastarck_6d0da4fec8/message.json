@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Lara Starck"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lara Starck",
+      "timestamp_ms": 1415487626955,
+      "content": "Hey where r u?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lara Starck",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LaraStarck_6d0da4fec8"
+}

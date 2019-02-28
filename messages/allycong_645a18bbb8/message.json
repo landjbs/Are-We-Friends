@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Ally Cong"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447638149925,
+      "content": "in the room on the left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Cong",
+      "timestamp_ms": 1447638118526,
+      "content": "kk where exactly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447638113075,
+      "content": "upstairs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Cong",
+      "timestamp_ms": 1447638105257,
+      "content": "where r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Cong",
+      "timestamp_ms": 1447638092070,
+      "content": "im here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Cong",
+      "timestamp_ms": 1447638088502,
+      "content": "landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447622756426,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Cong",
+      "timestamp_ms": 1447622434596,
+      "content": "at lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Cong",
+      "timestamp_ms": 1447622430207,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447622164963,
+      "content": "is 840 good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Cong",
+      "timestamp_ms": 1447620569461,
+      "content": "just name a time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Cong",
+      "timestamp_ms": 1447620564799,
+      "content": "idc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447620278339,
+      "content": "when do u want to do that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447620186658,
+      "content": "I think we're partners for the hum thing",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ally Cong",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AllyCong_645a18bbb8"
+}

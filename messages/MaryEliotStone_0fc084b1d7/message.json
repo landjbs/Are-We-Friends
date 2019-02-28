@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Mary Eliot Stone"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1447733466247,
+      "content": "What was our hypothesis exactly?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447733233404,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1447733204483,
+      "content": "Mary Eliot sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/MaryEliotStone_0fc084b1d7/photos/12250562_10153434350304006_1130464125_o_10153434350304006.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Eliot Stone",
+      "timestamp_ms": 1447733198050,
+      "content": "Oh my gosh! So sorry! Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447733162372,
+      "content": "could you send me the lab data",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mary Eliot Stone",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MaryEliotStone_0fc084b1d7"
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Rasika Iyer"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rasika Iyer",
+      "timestamp_ms": 1488564157452,
+      "content": "Ok thx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488564152146,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rasika Iyer",
+      "timestamp_ms": 1488564141736,
+      "content": "Also she's supposed to be in ford not our classroom right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488564113863,
+      "content": "np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rasika Iyer",
+      "timestamp_ms": 1488564092119,
+      "content": "Ok thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488564080857,
+      "content": "yeah until 3:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rasika Iyer",
+      "timestamp_ms": 1488564000536,
+      "content": "Ms poole has extra help right now right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1486159198581,
+      "content": "First, the plaintiff must prove that the defendant owed him/her a duty of care. Second, the plaintiff must prove that the defendant breached that duty of care. Third the plaintiff must prove that he/she suffered injury or harm. Fourth the plaintiff must prove that the defendant breach of duty was a cause of the plaintiff\u00e2\u0080\u0099s injury or harm.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rasika Iyer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RasikaIyer_98e9fbc564"
+}

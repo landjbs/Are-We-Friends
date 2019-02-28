@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Vincent Wang"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445912210460,
+      "content": "thx man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vincent Wang",
+      "timestamp_ms": 1445912101874,
+      "content": "actually though its fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vincent Wang",
+      "timestamp_ms": 1445912090241,
+      "content": "suuuuuuuure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445912043197,
+      "content": "it's fire",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445912030894,
+      "content": "fuck u vincent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vincent Wang",
+      "timestamp_ms": 1445911991719,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445911975255,
+      "content": "I don't hear any problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vincent Wang",
+      "timestamp_ms": 1445911928383,
+      "content": "or 9:10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vincent Wang",
+      "timestamp_ms": 1445911904464,
+      "content": "what happened at 9:30",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vincent Wang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "VincentWang_cc1701d117"
+}

@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Chris Kaneb"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chris Kaneb",
+      "timestamp_ms": 1507502817325,
+      "content": "when do u wanna work on the lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Kaneb",
+      "timestamp_ms": 1507426873610,
+      "content": "Chris Kaneb is on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506775812230,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/ChrisKaneb_7de648538f/photos/22139915_699631943568149_1274438313_o_699631943568149.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506523260699,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chris Kaneb",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ChrisKaneb_7de648538f"
+}

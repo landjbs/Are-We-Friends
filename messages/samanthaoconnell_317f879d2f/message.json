@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Samantha O'Connell"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522975342821,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Samantha O'Connell",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SamanthaOConnell_317f879d2f"
+}

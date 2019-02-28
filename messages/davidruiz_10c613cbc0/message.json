@@ -1,0 +1,306 @@
+{
+  "participants": [
+    {
+      "name": "David Ruiz"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488633718592,
+      "content": "can you tell them that i'll bring it over on the next shuttle with all the edges filed and everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488633693789,
+      "content": "oh no yeah i do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488633604077,
+      "content": "Or something like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488633598646,
+      "content": "Hey some guys here want to know if you have a gearbox",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488574250769,
+      "content": "OK just making sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488574240813,
+      "content": "yeah ik i'll be there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488574215683,
+      "content": "You missed a call from David.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488574198063,
+      "content": "You're on the bus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488574188043,
+      "content": "10 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488574183955,
+      "content": "You gotta get here bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488574179854,
+      "content": "Bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488574176333,
+      "content": "From mittleman: you gotta get here at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488573389699,
+      "content": "oh lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488573223000,
+      "content": "i dont think i got one either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488573134618,
+      "content": "the one with the times and locations i never got one so idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488573118918,
+      "content": "which one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1488573046063,
+      "content": "hey, can you forward me the robotics email from wardrop?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1479272860619,
+      "content": "yea sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1479271389012,
+      "content": "When you're done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1479271386003,
+      "content": "Just put in the pod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478820616548,
+      "content": "np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1478820462886,
+      "content": "Oh alright thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478820438870,
+      "content": "*good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478820435290,
+      "content": "i just left w the milk its food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1478820363512,
+      "content": "You in upper",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478816363440,
+      "content": "yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1478816349441,
+      "content": "make sure to bring the carton thingy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1478816322580,
+      "content": "alright so be there at around like 620",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478816296496,
+      "content": "nah i can help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1478816169373,
+      "content": "I have advisee dinner so I'll bring it if you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1478816153173,
+      "content": "Probably",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478816122444,
+      "content": "we have milk today right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1477604593141,
+      "content": "I'll wait in common",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1477602610498,
+      "content": "haha ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1477602606457,
+      "content": "Ok sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1477602597767,
+      "content": "Yeah I want to eat lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1477602596209,
+      "content": "like 540",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1477602591172,
+      "content": "you sure?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1477602574056,
+      "content": "What time are you heading over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1477602560733,
+      "content": "Nah let's go together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1477602552479,
+      "content": "i can bring the bottles over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1477602529953,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1477602506141,
+      "content": "Hey are you eating at upper today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1475786158822,
+      "content": "*np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1475786154640,
+      "content": "n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1475785465873,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1475785429746,
+      "content": "idk my group doesnt have one but usually 615",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Ruiz",
+      "timestamp_ms": 1475785252854,
+      "content": "Hey, at what time is advisee dinner?",
+      "type": "Generic"
+    }
+  ],
+  "title": "David Ruiz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "DavidRuiz_10c613cbc0"
+}

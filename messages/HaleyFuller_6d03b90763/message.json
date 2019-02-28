@@ -1,0 +1,432 @@
+{
+  "participants": [
+    {
+      "name": "Haley Fuller"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517713177108,
+      "content": "thanks! looks good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1517708892520,
+      "content": "sorry was gone all day, just sent it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517697277385,
+      "content": "i really need your article",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517672034595,
+      "content": "hey did you ever send the article? i dont see it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517459936284,
+      "content": "yeah thats ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1517453825980,
+      "content": "I couldn't interview hirschfeld until today and then I had an away game so I couldn't really do anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1517453776984,
+      "content": "hey so Im really sorry but is there any chance I could turn my article in to you tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517067575868,
+      "content": "haha dw abt it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517067572804,
+      "content": "great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1517065131148,
+      "content": "oh lordy idk why that sent three times sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1517065111265,
+      "content": "hey so boffa said willa and I can switch articles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1517065071864,
+      "content": "hey so boffa said willa and I could switch articles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1517065062174,
+      "content": "hey so boffa said willa and I could switch articles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1512355439743,
+      "content": "yeah that should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1512355175157,
+      "content": "Tuesday before chapel at the absolute latest but I\u00e2\u0080\u0099m not planning on it coming down to that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1512355151256,
+      "content": "Maybe like tomorrow midnight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1512355074113,
+      "content": "sure when do you want the extension to?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1512354211720,
+      "content": "Hey Landon, is there any chance I could get an extension on my pelican article?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1468273395972,
+      "content": "Haha thanks!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1467808554545,
+      "content": "i just sent it to your school email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1467808483033,
+      "content": "haha yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1467755618971,
+      "content": "Hey! Hope your summer's been good! Is there any chance you could try to send me the song?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465340230613,
+      "content": "Yay that's awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465336505322,
+      "content": "he rounded me up a letter grade for the year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465336485393,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465297569480,
+      "content": "I love that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465297563820,
+      "content": "That edit is so cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465268573661,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/HaleyFuller_6d03b90763/videos/video1465268573_490587767805902.mp4",
+          "thumbnail": {
+            "uri": "messages/HaleyFuller_6d03b90763/videos/thumbnails/12496916_490587774472568_1901346378_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465268486801,
+      "content": "I thought so too Just finished editing them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465268253724,
+      "content": "Hey, tonight was a lot of fun, thanks for letting me do the vocals",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465259411041,
+      "content": "It won't work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465257461086,
+      "content": "unfortunately i don't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465253781338,
+      "content": "nothing unless you have a mic of some sort",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465253685455,
+      "content": "do i need to bring like a computer or book or anything?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465252869618,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465252848006,
+      "content": "if it doesn't work when i get there i'll message you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465252837173,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465252830402,
+      "content": "I do the think that's true and I can let you in if u need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465252790481,
+      "content": "can i get into armour? i know someone said that only armour cards work to get in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465252759186,
+      "content": "sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465252709741,
+      "content": "my room 830?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465251284976,
+      "content": "when/where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1465251277413,
+      "content": "oh right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465243607479,
+      "content": "it'll take just a few minute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1465243599019,
+      "content": "if want a bunch of extra credit with Spanish you can help me record the vocals for the song I wrote",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464829591264,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464827665069,
+      "content": "I might have crew but I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464827404757,
+      "content": "What about tomorrow after classes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464827382716,
+      "content": "Shoot I have choir and extra help tomorrow night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464826814885,
+      "content": "would tomorrow night be better for you bc shea just realized she has extra help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464826720242,
+      "content": "Yo I might be a few minutes late sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464820907033,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464820728528,
+      "content": "is 840 good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464820507981,
+      "content": "Okay I think I'm busy until 8/8:30 but I'll be free after that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464820398139,
+      "content": "in my room probably Pretty much whatever time works for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464820255654,
+      "content": "What time/where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464819777606,
+      "content": "shea and I are writing the vocals tonight do you want to help?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464404183755,
+      "content": "I swear all this chapter does is contradict itself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464404170373,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464403605473,
+      "content": "same half the tenses seem like they're for the exact same thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464403571480,
+      "content": "you me and Shea just have to meet up sometime and write and record the vocals",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464402865203,
+      "content": "Also this test is going to eat me alive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464402828329,
+      "content": "So when do we do this?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464402014092,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464401117145,
+      "content": "I need a shit ton of extra credit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Haley Fuller",
+      "timestamp_ms": 1464401105651,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464399556609,
+      "content": "you would get a shit ton of extra credit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464399463149,
+      "content": "would you like to feature on the spanish song? bernal says I need two singers",
+      "type": "Generic"
+    }
+  ],
+  "title": "Haley Fuller",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "HaleyFuller_6d03b90763"
+}

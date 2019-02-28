@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Oliver Morton"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Oliver Morton",
+      "timestamp_ms": 1528203236760,
+      "content": "For sure bro. Keep the faith",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528178166254,
+      "content": "it\u00e2\u0080\u0099s been a great 4 years and i\u00e2\u0080\u0099ll see you around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528178129500,
+      "content": "im back in my room thanks for looking out bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484274701627,
+      "content": "k thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484274699005,
+      "content": "tgod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Oliver Morton",
+      "timestamp_ms": 1484274669495,
+      "content": "Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484274654207,
+      "content": "yo is the spanish test tomorrow or saturday?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Oliver Morton",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "OliverMorton_66af8e4069"
+}

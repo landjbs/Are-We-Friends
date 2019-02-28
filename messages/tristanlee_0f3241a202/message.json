@@ -1,0 +1,166 @@
+{
+  "participants": [
+    {
+      "name": "Tristan Lee"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1462851977867,
+      "content": "okay thx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1462851965539,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1462851837949,
+      "content": "hey landon we are allowed to use the intro from our proposal right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460420982415,
+      "content": "where r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460420959550,
+      "content": "I'm in the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460417363863,
+      "content": "yeah sure that's good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1460414825754,
+      "content": "hey Landon so the lab shouldnt actually take that long so i think if you get to the library at like 8:30 and we work until check I think that would be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455597045749,
+      "content": "k thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1455597024643,
+      "content": "canvas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455596953250,
+      "content": "did u send it to her or do it on canvas?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1455596935988,
+      "content": "i just did it in a word doc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455596927634,
+      "content": "how are we supposed to submit the thing about our presentation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455498854619,
+      "content": "we're probably just going to review it right before we do the quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1455498783403,
+      "content": "whaattttt how can we study for the group that is presenting tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1455498749702,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1455498707844,
+      "content": "like everything on all of the prezis + everything from the presentations?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1455498697406,
+      "content": "what is on the quiz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449454322949,
+      "content": "i think they're just floating in the cell but I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449454303295,
+      "content": "yeah I'm doing it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1449453857049,
+      "content": "if you watched the prezi yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1449453853705,
+      "content": "where do the extra bases come from?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1449453844546,
+      "content": "hey landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1444418545384,
+      "content": "Ok thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444418247201,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tristan Lee",
+      "timestamp_ms": 1444409311378,
+      "content": "hey did you respond to the survey?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tristan Lee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "TristanLee_0f3241a202"
+}

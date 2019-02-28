@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "James Upton IV"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Clara Kim"
+    },
+    {
+      "name": "Carson Bednar"
+    },
+    {
+      "name": "Maddox Angerhofer"
+    },
+    {
+      "name": "Natalie Boston"
+    },
+    {
+      "name": "Michela Savignano"
+    },
+    {
+      "name": "Josh Hrasky"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Josh Hrasky",
+      "timestamp_ms": 1424027534158,
+      "content": "We all need to meet at kit at 530",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Carson Bednar",
+      "timestamp_ms": 1424014153750,
+      "content": "We r goiing to common man at 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddox Angerhofer",
+      "timestamp_ms": 1424009732754,
+      "content": "So, plans for tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Natalie Boston",
+      "timestamp_ms": 1423953595142,
+      "content": "That was by accident",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Natalie Boston",
+      "timestamp_ms": 1423953585874,
+      "content": "Natalie: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1423953563707,
+      "content": "You named the group Winter Formal.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Winter Formal",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "WinterFormal_5070343d3a"
+}

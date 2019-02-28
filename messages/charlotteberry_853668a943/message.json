@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Charlotte Berry"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524351564294,
+      "content": "thanks! lmk how it is if you go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1524351117627,
+      "content": "No problem, have fun!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524350591679,
+      "content": "yeah sorry i dont think im gonna be able to make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1524350323173,
+      "content": "I might be doing that or something else but tickets are $15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1524350219891,
+      "content": "8-11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524350185207,
+      "content": "id love to go but ive got plans later in the night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524350173279,
+      "content": "do you know when it ends?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1524350082568,
+      "content": "Apparently it's really popular with the actual students",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1524350065757,
+      "content": "Ticket pickup is at 7:20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524350043352,
+      "content": "what time is it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524350036827,
+      "content": "dont think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1524349956314,
+      "content": "Hey are you by any chance going to eleganza tonight?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Charlotte Berry",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "CharlotteBerry_853668a943"
+}

@@ -1,0 +1,160 @@
+{
+  "participants": [
+    {
+      "name": "Francesca Walton"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1496098878962,
+      "content": "do you know of we're supposed to go to science night for eco?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1493342563736,
+      "content": "haha ok thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1493336852636,
+      "content": "I think it is just to have sure that we have our flow chart down \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc ah gosh we knows. We should b good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1493328364522,
+      "content": "hey whats our eco hw for tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1492481377049,
+      "content": "Hey Chapin have u finished the eco project yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1491791402136,
+      "content": "Ha yeah he has given them back in waves lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1491576530280,
+      "content": "i dont think i ever got my economics project back actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1491576144489,
+      "content": "Hey this is so random, but I was wondering if u might Happen to have my economics project rubric (maybe at the bottom of yours).",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1485571357833,
+      "content": "dont think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1485570988808,
+      "content": "Hey we don't have any eco hw do we thanks.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484833771880,
+      "content": "i think we are but im p sure we meet in the classroom either way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1484800646049,
+      "content": "Hey u don't know if we r going on that field trip tomorrow do you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1481516286435,
+      "content": "yeah idk what we're supposed to do for the presentation im worried",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1481495893924,
+      "content": "Wow found the worksheet so long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1481495662785,
+      "content": "Also, U didn't find that worksheet we are supposed to do for tom did u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1481495384065,
+      "content": "Hey u haven't found the rubric for the presentation have you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1478139091282,
+      "content": "Solid solid we r good thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478138981077,
+      "content": "idk i did the biomes worksheet like a week ago by accident so im good either way but thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1478138842804,
+      "content": "Apparently we don't actually. From Owen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478138758351,
+      "content": "yeah i think youre right thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1478138637937,
+      "content": "All good. I think it might be the biomes worksheet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478138560646,
+      "content": "lmk if you find out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1478138555021,
+      "content": "not sure sry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francesca Walton",
+      "timestamp_ms": 1478138377030,
+      "content": "Hey do you know what our eco homework is for tom",
+      "type": "Generic"
+    }
+  ],
+  "title": "Francesca Walton",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "FrancescaWalton_d8a5f70ab0"
+}

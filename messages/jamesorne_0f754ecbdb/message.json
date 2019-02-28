@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "James Orne"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523132631545,
+      "content": "already got the first one its gonna be hype",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "James Orne",
+      "timestamp_ms": 1523114218112,
+      "content": "I have two great song suggestions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "James Orne",
+      "timestamp_ms": 1523114202860,
+      "content": "James sent an attachment.",
+      "share": {
+        "link": "https://soundcloud.com/myfriend-miked/yodeling-walmart-kid-hip-hoptrap-remix"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "James Orne",
+      "timestamp_ms": 1523114188907,
+      "content": "James sent an attachment.",
+      "share": {
+        "link": "https://soundcloud.com/user-674370749/yodeling-walmart-kid-edm-remix-official-audio"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "James Orne",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JamesOrne_0f754ecbdb"
+}

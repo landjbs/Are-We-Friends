@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Clara Kim"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1424029229379,
+      "content": "Hey maddy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Clara Kim",
+      "timestamp_ms": 1424029209087,
+      "content": "THAT WAS MADDY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Clara Kim",
+      "timestamp_ms": 1424029155035,
+      "content": "cant wait for tonight ::)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Clara Kim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ClaraKim_e81c03c326"
+}

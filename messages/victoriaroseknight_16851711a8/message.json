@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Victoria Rose Knight"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510110601451,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Victoria Rose Knight",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "VictoriaRoseKnight_16851711a8"
+}

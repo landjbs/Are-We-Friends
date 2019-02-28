@@ -1,0 +1,199 @@
+{
+  "participants": [
+    {
+      "name": "Christopher Chachas"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528854381241,
+      "content": "you'll definitely regret it if you don't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528854373536,
+      "content": "you won't regret it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528854369281,
+      "content": "check out \"The psychology of the flood\" for a couple minutes or bret weinstein jordan peterson joe rogan for a few minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528854327283,
+      "content": "check out his biblical lectures",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528832086791,
+      "content": "he\u00e2\u0080\u0099s really interesting and well spoken",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528489524719,
+      "content": "For gods sakes please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528489517560,
+      "content": "Watch this Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528489511066,
+      "content": "https://m.youtube.com/watch?v=qqi0jHn_7-I",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=qqi0jHn_7-I&app=desktop"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528489460186,
+      "content": "No I have no idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528485098013,
+      "content": "you know if there are any parties in the city tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528056728766,
+      "content": "bruh i gotta go wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528056710679,
+      "content": "Christopher missed a call from you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528056664909,
+      "content": "Christopher missed a call from you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528056607056,
+      "content": "Christopher missed a call from you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528056451699,
+      "content": "we\u00e2\u0080\u0099ve gotta leave really soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528055687405,
+      "content": "im in the parking lot closest to the entrance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528055445227,
+      "content": "do you have a place to stay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528055440506,
+      "content": "bet lets do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528054805069,
+      "content": "Lets gi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528054802101,
+      "content": "Yea im comin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528054794574,
+      "content": "are you coming?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528054789872,
+      "content": "prob near the entrance at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1528054758518,
+      "content": "Yo where\u00e2\u0080\u0099s the car pick up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527817759280,
+      "content": "any updates?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527801960642,
+      "content": "do you know how youre gonna get there? im tryna figure out transportation rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1527794622792,
+      "content": "That\u00e2\u0080\u0099s what I think I\u00e2\u0080\u0099ll do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527780351839,
+      "content": "right after grad?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christopher Chachas",
+      "timestamp_ms": 1527780242121,
+      "content": "Yea definitely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527780226819,
+      "content": "are you going to montreal?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Christopher Chachas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ChristopherChachas_d78e4de781"
+}

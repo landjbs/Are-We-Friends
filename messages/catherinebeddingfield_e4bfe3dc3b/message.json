@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Catherine Beddingfield"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523547261252,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Catherine Beddingfield",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "CatherineBeddingfield_e4bfe3dc3b"
+}

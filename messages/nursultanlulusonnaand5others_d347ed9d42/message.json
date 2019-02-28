@@ -1,0 +1,205 @@
+{
+  "participants": [
+    {
+      "name": "Nursultan Kapparov"
+    },
+    {
+      "name": "Lulu Lipman"
+    },
+    {
+      "name": "Sonna Obiorah"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Wayne Thimas"
+    },
+    {
+      "name": "Carson Bednar"
+    },
+    {
+      "name": "Eda Keni"
+    },
+    {
+      "name": "Graham Lee"
+    },
+    {
+      "name": "Kendra Heredia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lulu Lipman",
+      "timestamp_ms": 1527607482337,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wayne Thimas",
+      "timestamp_ms": 1527607473542,
+      "content": "Are we meeting in the quad?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wayne Thimas",
+      "timestamp_ms": 1527519041192,
+      "content": "I\u00e2\u0080\u0099m just making cookies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1527519040777,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Graham Lee",
+      "timestamp_ms": 1527519021124,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sonna Obiorah",
+      "timestamp_ms": 1527519012034,
+      "content": "Has anyone gotten anything?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527471686661,
+      "content": "i am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1527471671571,
+      "content": "anyone want to make pizza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1527471667443,
+      "content": "sue me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Graham Lee",
+      "timestamp_ms": 1527471643730,
+      "content": "I\u00e2\u0080\u0099m doing tha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1527471490583,
+      "content": "anyone want to make flatbread with meeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sonna Obiorah",
+      "timestamp_ms": 1527447409328,
+      "content": "All u nursultan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1527442564276,
+      "content": "Anyone wanna make a salad?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sonna Obiorah",
+      "timestamp_ms": 1527433937310,
+      "content": "Well some one just needs to get tomato sauce and cheese and then everyone else can do diff things",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Eda Keni"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lulu Lipman",
+      "timestamp_ms": 1527433920058,
+      "content": "im doing pancakes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Graham Lee",
+      "timestamp_ms": 1527433840328,
+      "content": "It doesn\u00e2\u0080\u0099t matter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lulu Lipman",
+      "timestamp_ms": 1527433810826,
+      "content": "its boring to all do flatbread",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lulu Lipman",
+      "timestamp_ms": 1527433804913,
+      "content": "lets all make dif things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Graham Lee",
+      "timestamp_ms": 1527433789542,
+      "content": "Just get ingredients to do the flatbread",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lulu Lipman",
+      "timestamp_ms": 1527433754143,
+      "content": "i think its easier if we do stuff seperately on our own time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1527433719542,
+      "content": "so we\u00e2\u0080\u0099re not making something all together?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nursultan Kapparov",
+      "timestamp_ms": 1527347168645,
+      "content": "It seems like a lot of people for a pizza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527347006001,
+      "content": "he told me how to do it and it seems easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527346997843,
+      "content": "we should make pizza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1527346749685,
+      "content": "can we pleeease all work together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lulu Lipman",
+      "timestamp_ms": 1527346716726,
+      "content": "Wait so are we all doing one for our project or are we all on our own?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lulu Lipman",
+      "timestamp_ms": 1527346716021,
+      "content": "Lulu created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nursultan, Lulu, Sonna and 5 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "NursultanLuluSonnaand5others_d347ed9d42"
+}

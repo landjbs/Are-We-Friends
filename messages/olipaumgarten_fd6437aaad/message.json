@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Oli Paumgarten"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1496632526458,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Oli Paumgarten",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "OliPaumgarten_fd6437aaad"
+}

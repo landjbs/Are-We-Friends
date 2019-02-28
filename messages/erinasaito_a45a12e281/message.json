@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Erina Saito"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422828101,
+      "content": "np :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422827028,
+      "content": "(y) (y) (y)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1423422825049,
+      "content": "Thank you so much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422812273,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422811571,
+      "content": "google.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422810201,
+      "content": "https://www.youtube.com/watch?v=bhE7cHE4wF0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1423422805880,
+      "content": "How?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422805503,
+      "content": "it's by the smart history khan academy thing!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422796923,
+      "content": "i found the youtube video!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422793361,
+      "content": "wait landon!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422484861,
+      "content": "Ok! Wait I'll try searching for the head of Augustus thing y)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1423422456658,
+      "content": "But he did email us with the power point that he gave in class so maybe we can get stuff from that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423422413725,
+      "content": "Oh dear D:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1423422397560,
+      "content": "I can't find it either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423421376745,
+      "content": "and i can't find info on the head of augustus :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423421359757,
+      "content": "every time i go to that website i redirects me to another",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423421348411,
+      "content": "did you find the website that talks about the head of augustus?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erina Saito",
+      "timestamp_ms": 1423421332640,
+      "content": "hey landon!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Erina Saito",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ErinaSaito_a45a12e281"
+}

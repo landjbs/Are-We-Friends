@@ -1,0 +1,247 @@
+{
+  "participants": [
+    {
+      "name": "Andrew Kapadia"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1526411576136,
+      "content": "We\u00e2\u0080\u0099ll see you then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1526411573130,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526398166880,
+      "content": "ok do you wanna meet at 7 in the studio?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1526357553668,
+      "content": "Anytime from 5:30-7:30 should work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526355964111,
+      "content": "what time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526355958328,
+      "content": "it should but ive gotta check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1526351630035,
+      "content": "Hey does Friday work for radio training?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525219078887,
+      "content": "dw about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1525218955486,
+      "content": "Sorry for being so hard to schedule",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1525218946778,
+      "content": "Awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525218813028,
+      "content": "sounds good i\u00e2\u0080\u0099ll be there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1525218719656,
+      "content": "I think 730 Sunday works for both of us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525218558258,
+      "content": "yeah just find a time that works for both of you and lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1525218227752,
+      "content": "Maybe a Saturday or Sunday night?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1525218208650,
+      "content": "Unfortunately he said he can\u00e2\u0080\u0099t make it tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525217108046,
+      "content": "Great thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1525217054931,
+      "content": "At orchestra right now, but I asked Jonathon Scanlon if he could go. I\u00e2\u0080\u0099ll let you know ASAP when he responds",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525216932364,
+      "content": "come to the studio at 730 if you wanna get certified",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524920727084,
+      "content": "how does tuesday at 730 work for training?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1524620511205,
+      "content": "Ok awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524620466375,
+      "content": "ok i\u00e2\u0080\u0099ll try to find another time and let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524620458388,
+      "content": "yeah khuan does too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1524620400308,
+      "content": "Any other day/time work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1524620389457,
+      "content": "I actually have debate at 7 tmrw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1524620350775,
+      "content": "Mr. Phillips",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1524620346143,
+      "content": "I\u00e2\u0080\u0099ll ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524620125143,
+      "content": "Also who\u00e2\u0080\u0099s your hum teacher again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524620115107,
+      "content": "Any chance you could push it back to 730?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1524617070795,
+      "content": "Tmrw 6:30 works for both of us. See you then!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1518625849972,
+      "content": "Are we still on for WSPS training at around 12:45?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1512942986758,
+      "content": "Ok got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1512942901701,
+      "content": "we have you as crossing major and directing james but just come w what you have prepared and we\u00e2\u0080\u0099ll figure it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1512941383556,
+      "content": "Hey, just wanted to double check that I'll be crossing Major and directing Bates tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1512176211822,
+      "content": "Andrew called you.",
+      "call_duration": 49,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1512176152853,
+      "content": "You missed a call from Andrew.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1512004577233,
+      "content": "Yeah dw about it we\u00e2\u0080\u0099re at the room at the back of the basement hallway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1512004487757,
+      "content": "I couldn't find you in the basement, got out of a practice round for debate a bit late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Kapadia",
+      "timestamp_ms": 1512004470955,
+      "content": "Hey are you guys still in the library?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Andrew Kapadia",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AndrewKapadia_67daeccce1"
+}

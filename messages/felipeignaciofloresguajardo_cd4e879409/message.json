@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Felipe Ignacio Flores Guajardo"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535325956187,
+      "content": "thanks for all your advice!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535325951043,
+      "content": "sounds like a tough but great course for me i\u00e2\u0080\u0099ll definitely shop it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1535325925785,
+      "content": "totally alright i just got back from fop haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felipe Ignacio Flores Guajardo",
+      "timestamp_ms": 1534799005125,
+      "content": "but if you're more biologically inclined but you like quantitative science, data analysis, programming then it can be super rewarding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felipe Ignacio Flores Guajardo",
+      "timestamp_ms": 1534798961025,
+      "content": "I'd say if you're more math/physics-oriented then it's probably not going to be satisfying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felipe Ignacio Flores Guajardo",
+      "timestamp_ms": 1534798918160,
+      "content": "but it should be a lot more mature now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felipe Ignacio Flores Guajardo",
+      "timestamp_ms": 1534798900505,
+      "content": "I was also part of the first class so they were literally putting the course together as we went",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felipe Ignacio Flores Guajardo",
+      "timestamp_ms": 1534798817822,
+      "content": "LS50 was a super cool but demanding experience",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felipe Ignacio Flores Guajardo",
+      "timestamp_ms": 1534798802553,
+      "content": "Hey Landon, my b I was a tad busy last week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1534798361264,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Felipe Ignacio Flores Guajardo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "FelipeIgnacioFloresGuajardo_cd4e879409"
+}

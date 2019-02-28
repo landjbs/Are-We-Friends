@@ -1,0 +1,142 @@
+{
+  "participants": [
+    {
+      "name": "Marina Hostrop"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415073010042,
+      "content": "see you at debate tomorrow :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415072933442,
+      "content": "in addition your research will help you better understand the otherside :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415072916520,
+      "content": "also id be willing to help with anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415072897898,
+      "content": "i know mallika has quite a lot of research done so I think you will be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415072858356,
+      "content": "Thats fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415072841954,
+      "content": "also sorry about switching cases",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415072832616,
+      "content": "i think this will work out better in the end for everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415072817571,
+      "content": "No problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415072806263,
+      "content": "thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415072699074,
+      "content": "Ok that's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415072234390,
+      "content": "I asked the captains and they said they are fine either way, but they need to know the partners asap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415072019119,
+      "content": "if you don't want to you can say no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415072010671,
+      "content": "just because Brian and I have similar debate styles and we think we would do better as a team and you and Mallika would do better as a team",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415071971090,
+      "content": "I know its a little last minute but I was wondering if you were willing to be partners with Mallika",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415071899841,
+      "content": "ok i was wondering if you would be willing to switch to aff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415071898069,
+      "content": "But I've done a bit of research",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415071881703,
+      "content": "I haven't done any actual work on the case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415071826602,
+      "content": "its ok if you havent done anything yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415071765157,
+      "content": "how much work have you done on the case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1415071738640,
+      "content": "Neg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marina Hostrop",
+      "timestamp_ms": 1415071714317,
+      "content": "heyy would you rather be neg or aff for debate?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Marina Hostrop",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MarinaHostrop_e8afb852ba"
+}

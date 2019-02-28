@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Robert West Wipfler"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Robert West Wipfler",
+      "timestamp_ms": 1520608259940,
+      "content": "Pines Cabin, 2011?  What a job they have assigned ole Mr. Wiff -- to track down everyone's contact details.  We are doing a mass postal mailing of the latest issue of the \"Kingswood For Life\" alumni newsletter.  Please verify your current postal mailing address so that we can mail you a copy. It is packed full of baloney from the good old days and you will be thoroughly amused.  How about your email, too, while you are at it?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Robert West Wipfler",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "RobertWestWipfler_e4ae873d64"
+}

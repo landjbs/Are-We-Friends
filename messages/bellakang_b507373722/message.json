@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Bella Kang"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bella Kang",
+      "timestamp_ms": 1447647983795,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447647724795,
+      "content": "im not sure i just did what he put on the board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bella Kang",
+      "timestamp_ms": 1447647658618,
+      "content": "How'd you get the confidence variable",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bella Kang",
+      "timestamp_ms": 1447647650292,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447518583371,
+      "content": "I'm in class so I can measure it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447518574167,
+      "content": "mr Tuttle said u had the data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bella Kang",
+      "timestamp_ms": 1447518571881,
+      "content": "Oh wait nvrmind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bella Kang",
+      "timestamp_ms": 1447518562879,
+      "content": "She thought you were going to be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bella Kang",
+      "timestamp_ms": 1447518557762,
+      "content": "And Olivia isn't in class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447518552482,
+      "content": "oh shit my bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bella Kang",
+      "timestamp_ms": 1447518531862,
+      "content": "Um im not in your group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bella Kang",
+      "timestamp_ms": 1447518522244,
+      "content": "Bella Kang accepted your request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447518475187,
+      "content": "hey when u have time could u send me the results we got in the lab",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bella Kang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "BellaKang_b507373722"
+}

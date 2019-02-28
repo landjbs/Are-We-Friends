@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Edgar Escobar"
+    },
+    {
+      "name": "Leyla Brittan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1536971657888,
+      "content": "Also quick shameless plug lol i do a lot of djing including playing a bunch of fraternity and sorority parties at dartmouth this summer so if you ever want a dj for a party hmu!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1536971604972,
+      "content": "Thanks for all the advice! Ultimately decided not to rush this year since i kinda want some more time to explore things/make friends myself but the ks sounds like a great experience and i\u00e2\u0080\u0099ll definitely consider rushing next year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edgar Escobar",
+      "timestamp_ms": 1536941522760,
+      "content": "First rush event is tonight.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edgar Escobar",
+      "timestamp_ms": 1536941479847,
+      "content": "Great group of people. I joined when it was a frat and had a ton of fun with the usual frat things, drinking and such, but the best parts was getting to know everyone. Pledging was my best experience with the group. It\u00e2\u0080\u0099s still an amazing group now that it\u00e2\u0080\u0099s coed too, we\u00e2\u0080\u0099re getting to an even split with girls and guys. Never a boring weekend and there\u00e2\u0080\u0099s always something going on.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Leyla Brittan",
+      "timestamp_ms": 1536881500709,
+      "content": "Hey guys! Landon, this is Eddy, my blockmate who is in the KS. Eddy, Landon is thinking about rushing and might like to hear about your experience \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Leyla Brittan",
+      "timestamp_ms": 1536881500340,
+      "content": "Leyla created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Edgar and Leyla",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "EdgarandLeyla_c143548119"
+}

@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Olivia Lin"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447635501674,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Olivia Lin",
+      "timestamp_ms": 1447635452359,
+      "content": "Library basement",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447628043334,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Olivia Lin",
+      "timestamp_ms": 1447627890567,
+      "content": "I don't have the data for our lab so how about we just meet then talk about how you did it and we can check all the work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447618737846,
+      "content": "yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Olivia Lin",
+      "timestamp_ms": 1447618530550,
+      "content": "Yeah wanna meet at the library at like 8? I'm still at hockey rn so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447618355136,
+      "content": "I did most of the lab report sheet for tomorrow but do u want to just check it over sometime today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Olivia Lin",
+      "timestamp_ms": 1447545795468,
+      "content": "Ok good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447544216208,
+      "content": "we got really accurate results",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447544208626,
+      "content": "I was in class and I got our data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447544198160,
+      "content": "You accepted Olivia's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Olivia Lin",
+      "timestamp_ms": 1447522991074,
+      "content": "Were you not in class today",
+      "type": "Generic"
+    }
+  ],
+  "title": "Olivia Lin",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "OliviaLin_4f7d3e5f60"
+}

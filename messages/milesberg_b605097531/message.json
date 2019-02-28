@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Miles Berg"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Miles Berg",
+      "timestamp_ms": 1477166128881,
+      "content": "Nvm needed back doorp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1477166060684,
+      "content": "yea why?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Miles Berg",
+      "timestamp_ms": 1477165993280,
+      "content": "R u in dorm?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Miles Berg",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MilesBerg_b605097531"
+}

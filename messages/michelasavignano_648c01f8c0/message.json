@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Michela Savignano"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michela Savignano",
+      "timestamp_ms": 1431138564826,
+      "content": "Haha okay thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431138509475,
+      "content": "So please get him then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431138492475,
+      "content": "I think he always practices in the music building Saturday evening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431138463928,
+      "content": "He's annoying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michela Savignano",
+      "timestamp_ms": 1431138425363,
+      "content": "Ya but I don't know how to merge him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431138384349,
+      "content": "ur merge is joe Kim right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michela Savignano",
+      "timestamp_ms": 1424039094592,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1424039085721,
+      "content": "Billy and I will be there in a couple minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michela Savignano",
+      "timestamp_ms": 1424038926526,
+      "content": "Ya sure just so u know Natalie is here too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1424038894160,
+      "content": "Hey Michela Billy's going to pick u up from Brewster in like 5-8 minutes is that ok?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michela Savignano",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MichelaSavignano_648c01f8c0"
+}

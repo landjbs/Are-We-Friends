@@ -1,0 +1,946 @@
+{
+  "participants": [
+    {
+      "name": "Jennifer Kim"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449193923685,
+      "content": "nah it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1449193899632,
+      "content": "sorry about olan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449193745160,
+      "content": "straight scheming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449193738067,
+      "content": "putting in the work olan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1449193710020,
+      "content": "nah im at tuck with her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1449193699566,
+      "content": "Jennifer sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JenniferKim_3c7d0c5d20/photos/12334567_927678933947811_1521657382_o_927678933947811.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1449193688218,
+      "content": "i sent her a phising site",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449193675979,
+      "content": "how did u get her facebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449193663455,
+      "content": "holy shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1449193641673,
+      "content": "pls dont thatd be bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1449193614609,
+      "content": "fuck jennifer if you want her back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1449193604298,
+      "content": "dont fuck me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449193577650,
+      "content": "fuck u olan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1449193534695,
+      "content": "-olan was here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1449193524984,
+      "content": "we' re done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447072872527,
+      "content": "all we need is the circle and our data point labeled right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447072857217,
+      "content": "aite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447072819967,
+      "content": "make sure u bring the graphs and have them labeled for class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447072450005,
+      "content": "I'm still fixing stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447072312480,
+      "content": "did u print?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447072012888,
+      "content": "yeah ik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071989126,
+      "content": "kill me now how will i survive the day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071960445,
+      "content": "is it really 7:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071952555,
+      "content": "aite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071947026,
+      "content": "Jennifer sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734346_746324715439961_1455874677_n_746324712106628.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447071935136,
+      "content": "yeah thats ok I'm changing it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071921311,
+      "content": "my brain is not functioning anymore at this point",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071906836,
+      "content": "if you don't feel comfortable with that then ask olan what he wrote",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447071814227,
+      "content": "olan said that it wasn't possible to judge the accuracy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071749746,
+      "content": "and i think you actually covered a lot of part c in what u wrote",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071696397,
+      "content": "just integrated into the analysis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071686224,
+      "content": "it's all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447071683123,
+      "content": "they're not supposed to be like separate parts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447071669904,
+      "content": "u still need parts c and d for the last one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447071656162,
+      "content": "u didn't finish it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447064720844,
+      "content": "my dorm printer isnt working",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447064714916,
+      "content": "can u print it b4 class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447064710678,
+      "content": "i finished everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447059077851,
+      "content": "yeah I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447059041377,
+      "content": "so 1 and 3 are generic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447058979343,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JenniferKim_3c7d0c5d20/photos/12226667_419860814878598_193119343_n_419860814878598.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447058925245,
+      "content": "I emailed it to u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447058875906,
+      "content": "i think i wrote that down on ur notebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447058868594,
+      "content": "hey i don't remember which of the volumes were for which experiment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447058538981,
+      "content": "all u have to do is the data, fill in the calculations, label the graphs, and do parts d and c of the analysis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447058481029,
+      "content": "ok I've done my part so I'm going to bed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447057483005,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447057462588,
+      "content": "i'll do the calculations and then see if it matches up with the data he sent us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447057440569,
+      "content": "but idk if u should add the water",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447057431659,
+      "content": "oh yeah true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447057428719,
+      "content": "and then add the mass of teh water",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447057422814,
+      "content": "so wouldn't the mass of our thing be 2.177",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447057386203,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447057373107,
+      "content": "which was 1.82",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447057363929,
+      "content": "didn't he say to subtract the mass of the measuring plate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447056963618,
+      "content": "bc in class he said our actual value was around 1.6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447056940226,
+      "content": "r u sure tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447056925183,
+      "content": "so 399.7-1.82g plus 250g of water",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447056924807,
+      "content": "yeah I guess ur right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447056905376,
+      "content": "not just the na2s2o3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447056899249,
+      "content": "bc for the guidelines he gave us it said to give the moles of na2s2o352o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447056882400,
+      "content": "wait i think we have to account for the water",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447056723298,
+      "content": "but it's what I would guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447056706691,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447056684231,
+      "content": "are you sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447056661115,
+      "content": "i don't think we have to account for water",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447056633319,
+      "content": "so is 3.997-1.82 our mass or do we also have to account for the water",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447056632304,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447056606721,
+      "content": "he said to subtract 1.82",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447056578238,
+      "content": "I know that we started with 3.997g and i think he said to subtract something like 1.64",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447056181723,
+      "content": "whats the mass of the sodium thiosulfate pentahydrate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447054231768,
+      "content": "for our error did we overtitrate or undertitrate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447053489986,
+      "content": "things like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447053487926,
+      "content": "and like when u added starch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447053475580,
+      "content": "just the color of the solutions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447053224235,
+      "content": "do u have any ideas for observations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447052756660,
+      "content": "I don't think it should be a constant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447052676289,
+      "content": "wait nvrmind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052613552,
+      "content": "but where exactly is the 37.0ml coming from",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052603282,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447052600369,
+      "content": "like we made the 250 ml solution of it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447052568546,
+      "content": "It's what we we titrated with",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052528605,
+      "content": "can u ask him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447052501742,
+      "content": "Olan did it tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447052497462,
+      "content": "I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052434192,
+      "content": "what is that for",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052420194,
+      "content": "like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052414245,
+      "content": "whats the volume of sodium thiosulfate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052312343,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447052233397,
+      "content": "yeah I do could u check that I have all the constants",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052217380,
+      "content": "shouldn't you have wifi for the computers in your study pod?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052122183,
+      "content": "don't you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447052120647,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447052087690,
+      "content": "do u have Internet to work on the Google doc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447051249827,
+      "content": "great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447051157513,
+      "content": "those look good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447051138047,
+      "content": "Jennifer sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JenniferKim_3c7d0c5d20/photos/12226589_918007088248329_778060875_n_918007088248329.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447051118871,
+      "content": "Jennifer sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JenniferKim_3c7d0c5d20/photos/12212448_918007058248332_1361720583_n_918007058248332.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447051083730,
+      "content": "yeah it's 0.12 and 0.13",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447051041490,
+      "content": "did u find the standard deviation for the data of all 11 groups",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447049999941,
+      "content": "we're both going to make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447049997949,
+      "content": "Jennifer sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JenniferKim_3c7d0c5d20/photos/12231380_918003851581986_622792691_n_918003851581986.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447049943075,
+      "content": "because the graph has everyone's data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447049929857,
+      "content": "for all the classes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447049920472,
+      "content": "which should we do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447049914066,
+      "content": "olan did the standard deviations for all the data for both classes I just did it for ours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447049582808,
+      "content": "Jennifer sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10541018_746324788773287_1416663872_n_746324785439954.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447049569414,
+      "content": "ok i need to go find a compass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447049481889,
+      "content": "could u send me a pic of the graph when ur done bc I need it for all my stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447049418691,
+      "content": "got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447049304502,
+      "content": "well I put the standard deviations at the top of the second page so the radius is 0.39 for both of them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447049197325,
+      "content": "well yeah i know that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447049094795,
+      "content": "k the radius is three time the standard deviation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447048873838,
+      "content": "ill be back in a sec im at war with the fruit flies in my room rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447048868375,
+      "content": "keep working on ur part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447048860854,
+      "content": "cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447048742385,
+      "content": "yeah I've got the radius",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447048652565,
+      "content": "just work on the other things for now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447048509149,
+      "content": "u know what just tell me the radius and i'll draw it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447048366727,
+      "content": "or post it on the Google doc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447048356389,
+      "content": "could u send it to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447048312323,
+      "content": "i have it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447047901673,
+      "content": "\u00eb\u0084\u0088 \u00eb\u008f\u0084\u00ec\u009b\u0080\u00ec\u009d\u00b4 \u00eb\u00a7\u008e\u00ec\u009d\u00b4 \u00ed\u0095\u0084\u00ec\u009a\u0094\u00ed\u0095\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447047821676,
+      "content": "do u have it tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447047685873,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447047651281,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447047649166,
+      "content": "don't you have a copy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447047390039,
+      "content": "do u have the graphs of the data?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447044491887,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447044418973,
+      "content": "Jennifer sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JenniferKim_3c7d0c5d20/photos/12226366_917983118250726_927094530_n_917983118250726.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447044395940,
+      "content": "could u send me a pic of the lab structure sheet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447039461713,
+      "content": "im pretty sure i wrote it down somewhere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447039456973,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447037483768,
+      "content": "we used 3.997g and i think he said to subtract something like 1.64 but I'm not sure the exact number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447037384181,
+      "content": "can u send me the amount of sodium thiosulfate  we used and also how much mr tuttle said to subtract",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447032615338,
+      "content": "where are you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447032570518,
+      "content": "im here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447032546077,
+      "content": "I'm on the top floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447032515535,
+      "content": "tell me when u get here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447031912669,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447031894424,
+      "content": "ill meet u in the lib at 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447031663971,
+      "content": "aite ill ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447031652302,
+      "content": "u can probably uncheck in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447031627012,
+      "content": "crap i just checked in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447030726117,
+      "content": "yeah do u want to meet in the lib in like 15 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447030090320,
+      "content": "do you want to start a google doc or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447030083282,
+      "content": "hey are you there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jennifer Kim",
+      "timestamp_ms": 1447020727565,
+      "content": "hey i have to go to the LiNK dinner tonight but i have time after that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1447019416473,
+      "content": "hey when did u want to work on the lab report tonight?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jennifer Kim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JenniferKim_3c7d0c5d20"
+}

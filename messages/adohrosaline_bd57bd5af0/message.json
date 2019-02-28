@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Adoh Rosaline"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adoh Rosaline",
+      "timestamp_ms": 1536687458150,
+      "content": "Helko",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adoh Rosaline",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "AdohRosaline_bd57bd5af0"
+}

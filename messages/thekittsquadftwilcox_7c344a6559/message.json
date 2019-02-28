@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "James Upton IV"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Justin Wilcox"
+    },
+    {
+      "name": "Josh Hrasky"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1421958070172,
+      "content": "So let's meet in the dorm a 6:05 (to clarify)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1421957945281,
+      "content": "You named the group The Kitt Squad ft. Wilcox.",
+      "type": "Generic"
+    }
+  ],
+  "title": "The Kitt Squad ft. Wilcox",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "TheKittSquadftWilcox_7c344a6559"
+}

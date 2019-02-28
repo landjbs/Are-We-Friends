@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Rick Lee"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rick Lee",
+      "timestamp_ms": 1520458855211,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rick Lee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RickLee_1c582ded06"
+}

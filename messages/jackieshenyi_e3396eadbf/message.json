@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jackie Shen-Yi"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jackie Shen-Yi",
+      "timestamp_ms": 1501167315756,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jackie Shen-Yi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JackieShenYi_e3396eadbf"
+}

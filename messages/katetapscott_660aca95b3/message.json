@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Kate Tapscott"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kate Tapscott",
+      "timestamp_ms": 1443205844008,
+      "content": "yeah that works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443192654653,
+      "content": "is 8 good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kate Tapscott",
+      "timestamp_ms": 1443192587448,
+      "content": "should we figure out what time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kate Tapscott",
+      "timestamp_ms": 1443192576191,
+      "content": "yeah ok sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1443192380486,
+      "content": "yeah sure lets meet in the lib sometime tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kate Tapscott",
+      "timestamp_ms": 1443192172241,
+      "content": "hey landon, we should probably figure out what we're doing for that news presentation we're supposed to give in humanities tomorrow",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kate Tapscott",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "KateTapscott_660aca95b3"
+}

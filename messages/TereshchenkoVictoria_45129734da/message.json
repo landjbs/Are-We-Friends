@@ -1,0 +1,699 @@
+{
+  "participants": [
+    {
+      "name": "Tereshchenko Victoria"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1530828373966,
+      "content": "yeah honestly same none of the harvard dorms are nearly as nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1530828351335,
+      "content": "haha i\u00e2\u0080\u0099m guessing they\u00e2\u0080\u0099re all pretentious but we\u00e2\u0080\u0099ll see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1530670501459,
+      "content": "We were really lucky with the rooms and living conditions overall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1530670478320,
+      "content": "Yeah I got my dorm but tbh in comparison to St. Paul\u00e2\u0080\u0099s none of them will probably be that great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1530670404265,
+      "content": "Ivy yard hm that doesn\u00e2\u0080\u0099t sound pretentious at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1530502374867,
+      "content": "you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1530502372914,
+      "content": "not yet but i just found out i\u00e2\u0080\u0099m gonna be in ivy yard so that narrows it down to like 5 dorms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1530351377392,
+      "content": "Have you got your housing assignment yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1530351346851,
+      "content": "I just got back home actually but it was great \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529904868155,
+      "content": "how is it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1529647574031,
+      "content": "And yeah, I feel that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1529647567738,
+      "content": "All over tbh, but I\u00e2\u0080\u0099m in France now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529606506465,
+      "content": "not so ready to get back on the grind but definitely excited",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529606491973,
+      "content": "damn where in europe?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1529564625195,
+      "content": "Feel ready for college?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1529564618576,
+      "content": "Pretty awesome too, I\u00e2\u0080\u0099m in Europe!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529549054126,
+      "content": "you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1529549049862,
+      "content": "great! after mtl i\u00e2\u0080\u0099ve been in nyc for a while seeing friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1529520255187,
+      "content": "Hey, how\u00e2\u0080\u0099s your summer going? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528212122910,
+      "content": "yeah i leave in 40 min \u00f0\u009f\u0098\u009e i think what im gonna miss most is the drinking age",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528212081709,
+      "content": "definitely down for all of those things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528211848053,
+      "content": "it\u00e2\u0080\u0099s been absolutely crazy but so fun im really happy i went",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528210348431,
+      "content": "R u still in Montreal?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528210337518,
+      "content": "Paris is pretty wonderful though. Really charming, vibrant... lots of good wine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528210265599,
+      "content": "I wish I went kinda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528210258913,
+      "content": "Sounds like so much fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528210237405,
+      "content": "Haha the \u00e2\u0080\u009ctryna to remember\u00e2\u0080\u009d part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528148213327,
+      "content": "hows paris?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528148205773,
+      "content": "well ik a lot of people hooked up w people you wouldn\u00e2\u0080\u0099t expect im honestly tryna remember everything myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528142626999,
+      "content": "I can imagine!! Anything happened in particular??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528126319490,
+      "content": "you should\u00e2\u0080\u0099ve come to montreal!! its been crazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528030900485,
+      "content": "haha it does you\u00e2\u0080\u0099re good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528030870742,
+      "content": "I mean it fits nicely \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528030811155,
+      "content": "i was just about to ask how you were inspired",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528030791513,
+      "content": "Couldn\u00e2\u0080\u0099t\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528030785649,
+      "content": "Btw, sorry for the caption but I could help myself...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528030704050,
+      "content": "See you at baccalaureate!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528030693571,
+      "content": "Ok, perfect \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528030341973,
+      "content": "not at all its a great pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528029932185,
+      "content": "Victoria sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/34307694_1510155352430208_4056379788237996032_n_1510155335763543.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1528029928204,
+      "content": "Mind if I post this?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527779961493,
+      "content": "Certainly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527779861535,
+      "content": "we\u00e2\u0080\u0099ve just got that ivy league vibe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527779703586,
+      "content": "I still look cocky but maybe it\u00e2\u0080\u0099s just my personality shining through",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527779676018,
+      "content": "Yeah this one is good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527779666360,
+      "content": "i might just post this one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527779662607,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/33985705_818513621679980_2593802445943472128_n_818513578346651.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527779656564,
+      "content": "scrumptious af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527779557565,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527779554812,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527779548445,
+      "content": "We look scrumptious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527779542374,
+      "content": "and in the other one im literally looking at scott",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527779525960,
+      "content": "haha we honestly look so cocky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527779406382,
+      "content": "This def has a \u00e2\u0080\u009cwe\u00e2\u0080\u0099re better than you\u00e2\u0080\u009d vibe to it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527779327675,
+      "content": "Victoria sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/33994025_1507449986034078_8479390886944309248_n_1507449952700748.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527779324267,
+      "content": "Maybe we shouldn\u00e2\u0080\u0099t have done  straight face \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527649207440,
+      "content": "but i like them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527649194870,
+      "content": "lol true im not gonna post any of those i dont think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527649004039,
+      "content": "Yeah me too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527648998710,
+      "content": "We have our eyes closed on like 80% of them \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527648993254,
+      "content": "still waiting for professional ones thougb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527648983681,
+      "content": "those are great thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527648911230,
+      "content": "Victoria sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/33869735_1506081302837613_4839382270810783744_n_1506081282837615.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527648867763,
+      "content": "Victoria sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/33994771_1506080922837651_4525154680954683392_n_1506080892837654.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527648862243,
+      "content": "Victoria sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/33964162_1506080866170990_2275581584474112000_n_1506080856170991.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527648853740,
+      "content": "Victoria sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/33864850_1506080816170995_1894912181988753408_n_1506080799504330.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527648838229,
+      "content": "can you send any pics you have?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527627600312,
+      "content": "Let\u00e2\u0080\u0099s just meet there :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527626113004,
+      "content": "do you want me to come by your dorm tonight or meet at chapel?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527202980477,
+      "content": "great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1527202582958,
+      "content": "Hey, that would be awesome! And white? My dress is baby blue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527202258577,
+      "content": "and if so, what color would match with your dress?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527202248665,
+      "content": "i'd love to get you a corsage for prom if you're interested",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526615629940,
+      "content": "its not even like he\u00e2\u0080\u0099s going hard he\u00e2\u0080\u0099s just more organized than i\u00e2\u0080\u0099ll ever be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526615250716,
+      "content": "And yeah, jr is just on a different level",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526615211644,
+      "content": "Oh I would absolutely do this again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526615054728,
+      "content": "i am jealous that jr turned it in at 930 though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526615035938,
+      "content": "me too but on the other hand id def procrastinate again if i had another chance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526614721447,
+      "content": "Same, I really question my life choices rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526613870231,
+      "content": "haha im gonna go into c block tomorrow praying i can write 4 pg in 50 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526613585173,
+      "content": "Victoria sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/32737090_1495263520586058_1054406791766474752_n_1495263480586062.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526613581470,
+      "content": "I skipped step #1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526613571035,
+      "content": "And I think I know what my issue is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526613552584,
+      "content": "I just googled \u00e2\u0080\u009chow to write an Exegesis\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526613522682,
+      "content": "Haha I relate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526613381625,
+      "content": "so im kinda screwed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526613375605,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/32838120_812358255628850_5606534318311604224_n_812358235628852.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526057429740,
+      "content": "mood tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526053047688,
+      "content": "Victoria sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/32239638_1489446827834394_8910945644613468160_n_1489446817834395.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526052559460,
+      "content": "its hard to imagine anyone being more done than me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526052268291,
+      "content": "Which is saying a LOT...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526052201734,
+      "content": "she honestly might be the most done out of all of us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526051302281,
+      "content": "She is done with this bs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526051265744,
+      "content": "joy looks so angry in the second one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526051259346,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/32214951_809304252600917_5105388828315615232_n_809304219267587.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526051252782,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/32207532_809304195934256_1557694469715787776_n_809304142600928.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526051251743,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/TereshchenkoVictoria_45129734da/photos/32281397_809304192600923_4078343593859743744_n_809304135934262.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1526050607924,
+      "content": "Would you be so generous as to send me the picture?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1525972260084,
+      "content": "Lol I\u00e2\u0080\u0099ll tell the teacher",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525972243162,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525972241058,
+      "content": "yikes im in the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1525972179921,
+      "content": "Schoolhouse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525972166971,
+      "content": "do you know where we\u00e2\u0080\u0099re meeting?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tereshchenko Victoria",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "TereshchenkoVictoria_45129734da"
+}

@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Eda Keni"
+    },
+    {
+      "name": "Natalie Boston"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natalie Boston",
+      "timestamp_ms": 1424469583917,
+      "content": "Door we always come in when skiing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1424469567608,
+      "content": "near what door??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Natalie Boston",
+      "timestamp_ms": 1424469566326,
+      "content": "Hbu?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Natalie Boston",
+      "timestamp_ms": 1424469556909,
+      "content": "Downstairs main lodge near the door",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1424469544650,
+      "content": "where r u??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Natalie Boston",
+      "timestamp_ms": 1424469527771,
+      "content": "Where are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Natalie Boston",
+      "timestamp_ms": 1424469524016,
+      "content": "Just got back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1424469465492,
+      "content": "Eda sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851583_654447184570362_1118183948_n_654447181237029.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1424468744193,
+      "content": "uptown fuck u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1424468666785,
+      "content": "plZ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1424468662510,
+      "content": "r u giez back??",
+      "type": "Generic"
+    }
+  ],
+  "title": "Eda and Natalie",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "EdaandNatalie_ca416d8972"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Dash Wasserstein"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522875925463,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dash Wasserstein",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "DashWasserstein_479354a1ea"
+}

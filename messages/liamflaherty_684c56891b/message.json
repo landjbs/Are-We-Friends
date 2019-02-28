@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Liam Flaherty"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Liam Flaherty",
+      "timestamp_ms": 1433052003469,
+      "content": "I wasn't i was dead serious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1433051975424,
+      "content": "yeah we thought u were fucking with us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Liam Flaherty",
+      "timestamp_ms": 1433051276069,
+      "content": "They just said they arnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1433051261450,
+      "content": "r they actually coming?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Liam Flaherty",
+      "timestamp_ms": 1433051106590,
+      "content": "Let them in when they come",
+      "type": "Generic"
+    }
+  ],
+  "title": "Liam Flaherty",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LiamFlaherty_684c56891b"
+}

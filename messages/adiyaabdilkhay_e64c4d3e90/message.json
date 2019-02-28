@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Adiya Abdilkhay"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522608900200,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adiya Abdilkhay",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AdiyaAbdilkhay_e64c4d3e90"
+}

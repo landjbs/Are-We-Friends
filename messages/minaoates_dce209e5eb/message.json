@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Mina Oates"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mina Oates",
+      "timestamp_ms": 1510020873670,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mina Oates",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MinaOates_dce209e5eb"
+}

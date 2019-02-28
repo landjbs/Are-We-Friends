@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Alexander Fisher"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexander Fisher",
+      "timestamp_ms": 1517883626739,
+      "content": "Landon B-)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alexander Fisher",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AlexanderFisher_93f0dbf19d"
+}

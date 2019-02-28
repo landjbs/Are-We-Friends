@@ -1,0 +1,217 @@
+{
+  "participants": [
+    {
+      "name": "JR Ereyi"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528073983720,
+      "content": "this is late but thanks i was just figuring out if i should fly or drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1527913813511,
+      "content": "I\u00e2\u0080\u0099m taking a car with Morty, Reid, Rymes, Sal, and some other people. I forget who else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527911780576,
+      "content": "how are you getting up there? im tryna figure out transportation rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527911768946,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1527911759406,
+      "content": "You?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1527911751936,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527911739046,
+      "content": "are you going to montreal?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523662807458,
+      "content": "can you let me in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522414794160,
+      "content": "thanks i\u00e2\u0080\u0099ll just try and bs 200 words in calc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1522406872466,
+      "content": "The website is back up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1520757348446,
+      "content": "thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1520712197848,
+      "content": "This is sick! Mad Props \u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bf\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1520712171815,
+      "content": "JR sent a link.",
+      "share": {
+        "link": "https://www.sps.edu/page/news-detail?pk=994585&fromId=224140"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519492140127,
+      "content": "i dont but you could prob find one in the music building",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1519490673970,
+      "content": "If you do, it\u00e2\u0080\u0099d be much appreciated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1519490663378,
+      "content": "Hey Landon is there any way you have a mic I could use for a project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492651739540,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492651735863,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1492651718545,
+      "content": "idk he could do the same thing they do to evaluate teachers like sitting in the class and taking notes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492646435637,
+      "content": "How would you suggest furthering the way my adviser evaluates me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492137925260,
+      "content": "Alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1492137914326,
+      "content": "dont do it by block just do 4 days a week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492137845515,
+      "content": "And for the week schedule how do I write one if I don't know which block I'm going to get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492137728879,
+      "content": "Alright thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492137694355,
+      "content": "Alright okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1492137686991,
+      "content": "better if its separate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1492137681947,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492137665378,
+      "content": "Or is it separate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492137653835,
+      "content": "Does my timeline have to be part of my essay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492137644141,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1492137621479,
+      "content": "only notes would be to make the timeline much more specific and to make it more clear how your advisor is gonna evaluate you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1492137575461,
+      "content": "its really good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JR Ereyi",
+      "timestamp_ms": 1492137164705,
+      "content": "I sent it",
+      "type": "Generic"
+    }
+  ],
+  "title": "JR Ereyi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JREreyi_20435fecfd"
+}

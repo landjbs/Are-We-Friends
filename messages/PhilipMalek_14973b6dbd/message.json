@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Philip Malek"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1452214781482,
+      "content": "yeah I just gave one today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Philip Malek",
+      "timestamp_ms": 1452214757236,
+      "content": "you sure?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1452214725516,
+      "content": "nah sry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Philip Malek",
+      "timestamp_ms": 1452212819040,
+      "content": "Will you give a tour tommorow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1423539854410,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/PhilipMalek_14973b6dbd/photos/10961794_329629683901712_1420672460_n_329629683901712.jpg"
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Philip Malek",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "PhilipMalek_14973b6dbd"
+}

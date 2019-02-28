@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Owen Parker"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518387791801,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Owen Parker",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "OwenParker_a0d4f24bc4"
+}

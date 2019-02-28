@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Justin Tseng"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Tseng",
+      "timestamp_ms": 1527220974631,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin Tseng",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JustinTseng_5464e1294e"
+}

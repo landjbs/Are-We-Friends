@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Mitch Mackenzie"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mitch Mackenzie",
+      "timestamp_ms": 1522775125249,
+      "content": "Mitch Mackenzie is on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mitch Mackenzie",
+      "timestamp_ms": 1519850985458,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mitch Mackenzie",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MitchMackenzie_fc700bb378"
+}

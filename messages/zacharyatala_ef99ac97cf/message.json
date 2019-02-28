@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Zachary Atala"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517670263061,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Zachary Atala",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ZacharyAtala_ef99ac97cf"
+}

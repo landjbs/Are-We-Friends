@@ -1,0 +1,415 @@
+{
+  "participants": [
+    {
+      "name": "Alexa Greene"
+    },
+    {
+      "name": "Charlie Work"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518416437585,
+      "content": "ok i came to a compromise w them after hella long talking and im gonna let them take a slot but stay on stage and we get the beginning and the end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518386578301,
+      "content": "nah they dont",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518386575525,
+      "content": "ik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1518385054309,
+      "content": "wait but do they even know how to set up the equipment with the speakers and stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1518384999464,
+      "content": "so essentially they want to go up there and play one of their pre-made mixes so they can DJ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1518384895673,
+      "content": "thats really lame",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518383059561,
+      "content": "so imma talk w them and chance to figure this out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518383049373,
+      "content": "kinda bs though bc they just wanna play a pre-made mix",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518383037134,
+      "content": "apparently ethan and sean just talked w chance and they want a 15-30 min set for mish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1518150588753,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518150584179,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518150581500,
+      "content": "/dont even know how",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1518150580873,
+      "content": "So is it us three",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518150571818,
+      "content": "wont/cant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1518150566982,
+      "content": "im almost confident that they wont unless i let them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1518150539790,
+      "content": "Yo Landon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1518133123811,
+      "content": "What\u00e2\u0080\u0099s going on with this?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1518133117256,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517459929371,
+      "content": "i can try to find out tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517456279102,
+      "content": "did anyone ask?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517369693781,
+      "content": "Can someone please find out? I feel weird asking since I\u00e2\u0080\u0099m not a senior",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1517369655162,
+      "content": "Yeah it's weird I've had a couple people ask me if Sean lee was DJing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517352323501,
+      "content": "Can u ask?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517347799983,
+      "content": "no way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517343986571,
+      "content": "Is this true?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517343983209,
+      "content": "Rhyse Foulke just told me Ethan Ruttenberg and sean Lee are doing mish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517089824856,
+      "content": "The group call ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1517089696439,
+      "content": "Alexa joined the group call.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517089680910,
+      "content": "Charlie joined the group call.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517089680832,
+      "content": "Charlie started a group call.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517089571284,
+      "content": "Can one of you guys let me in the rectory side door",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517087350514,
+      "content": "k sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517087280434,
+      "content": "Hopefully I can be there by 4:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517087266606,
+      "content": "I\u00e2\u0080\u0099m getting out of the locker room in like 30 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1517085538504,
+      "content": "Yeah that's fine w me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517079970833,
+      "content": "great does 4 work for everyone?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517067715437,
+      "content": "I have a game at 2 so anytime after 3:30 works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517067632522,
+      "content": "i was thinking we could hook the equipment up to the speakers in the rock band room do some practice and download some more music",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517067597842,
+      "content": "yeah what time do you want to meet today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1516916494535,
+      "content": "Can we actually do it Saturday? Precalc H test on Saturday so Friday night isn\u00e2\u0080\u0099t great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516916442894,
+      "content": "sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1516912347073,
+      "content": "im crazy slammed with work tonight but tomorrow would be good if thats fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516912241600,
+      "content": "you wanna meet tonight in the rock band room under mem hall?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1516909774457,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516909730309,
+      "content": "ik it isnt mish yet but do you all wanna meet some time so we can start getting ready?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516849069349,
+      "content": "still havent heard when it is though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516849062089,
+      "content": "definitely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1516847343064,
+      "content": "Are you guys both experiencing the constant bombardment of questions about mish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516390705941,
+      "content": "not yet but snl said they'd tell me like 5 days before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1516386683881,
+      "content": "any news?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1516324006082,
+      "content": "I haven't heard anything but they'll probs tell us soon if it's next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1516323859169,
+      "content": "So?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516208507196,
+      "content": "idk i\u00e2\u0080\u0099ll text mrs ellenwood",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1516206477130,
+      "content": "When are they gonna tell us when mish is so we can get ready?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1515186519680,
+      "content": "i asked ruthie and shes on snl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1515176778415,
+      "content": "how do u kno for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1515167537032,
+      "content": "update its definitely cancelled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1515167427159,
+      "content": "i wonder if they cancelled it or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1515167411070,
+      "content": "it doesnt say anything about a dance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alexa Greene",
+      "timestamp_ms": 1515167404010,
+      "content": "wait guys check the email from ms ellinwood for the weekend events",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1515165321953,
+      "content": "Lemme kno when u kno more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1515165308321,
+      "content": "Ight sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1515165043308,
+      "content": "i asked olivia to send me more info abt it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1515165010239,
+      "content": "i think we all should",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1515163193397,
+      "content": "Who\u00e2\u0080\u0099s doing the dance on Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1515163193153,
+      "content": "Charlie created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alexa and Charlie",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "AlexaandCharlie_2f03e69ae2"
+}

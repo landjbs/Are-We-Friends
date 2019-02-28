@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Max Serrano-Wu"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1524612922396,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Max Serrano-Wu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MaxSerranoWu_873996e002"
+}

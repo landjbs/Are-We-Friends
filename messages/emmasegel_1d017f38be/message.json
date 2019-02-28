@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Emma Segel"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522800372095,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Emma Segel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "EmmaSegel_1d017f38be"
+}

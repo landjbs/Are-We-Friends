@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Fredericka Lucas"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1513199513663,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fredericka Lucas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "FrederickaLucas_24aa3c21bd"
+}

@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Maddox Angerhofer"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431561683836,
+      "content": "can u print this from ur laptop its easier that way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431561621985,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/MaddoxAngerhofer_7d0bd7a04e/files/SPSIIIFORMHumICESpring_362506853947328.docx"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddox Angerhofer",
+      "timestamp_ms": 1431560848494,
+      "content": "Sure, you can just come use or computer if you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431558989017,
+      "content": "the printer in my dorm isn't working can u print something for me from ur printer",
+      "type": "Generic"
+    }
+  ],
+  "title": "Maddox Angerhofer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MaddoxAngerhofer_7d0bd7a04e"
+}

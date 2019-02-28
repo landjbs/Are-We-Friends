@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Alex Rosenthal"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522300351818,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alex Rosenthal",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AlexRosenthal_2fd1ad281c"
+}

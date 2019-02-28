@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Ruthie Covo"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527890478295,
+      "content": "oh nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruthie Covo",
+      "timestamp_ms": 1527880121467,
+      "content": "No we are flying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527873830959,
+      "content": "is that still happening?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1527873825059,
+      "content": "i heard you were renting a bus to get up to mtl this weekend",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ruthie Covo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RuthieCovo_1313ef815f"
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Jia Jia Zhang"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460168551109,
+      "content": "I'm really good but yeah high school is a lot of work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jia Jia Zhang",
+      "timestamp_ms": 1460067853622,
+      "content": "Hahaha high school kinda sucks but I'm alright. How about you? XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460001356539,
+      "content": "how r you doing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460001348351,
+      "content": "holy shit! yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460001328836,
+      "content": "You accepted Jia Jia's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jia Jia Zhang",
+      "timestamp_ms": 1459981866743,
+      "content": "IS THIS DDI LANDON?? \u00f3\u00be\u008d\u0081\u00f3\u00be\u008d\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jia Jia Zhang",
+      "timestamp_ms": 1459981856434,
+      "content": "LANDON!! \u00f3\u00be\u008d\u0081\u00f3\u00be\u008d\u0081\u00f3\u00be\u008d\u0081",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jia Jia Zhang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JiaJiaZhang_139cd1bc41"
+}

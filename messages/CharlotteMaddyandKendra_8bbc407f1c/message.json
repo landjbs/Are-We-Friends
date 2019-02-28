@@ -1,0 +1,533 @@
+{
+  "participants": [
+    {
+      "name": "Charlotte Berry"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Maddy Buffett"
+    },
+    {
+      "name": "Kendra Heredia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509711969242,
+      "content": "yeah i\u00e2\u0080\u0099ll keep it like it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509711623502,
+      "content": "I really like the trailer as is. Let's not mess with it too much, esp the timing of the action sequence",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509711551617,
+      "content": "i can put it back in based on what people think though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509711497053,
+      "content": "no i love that scene but it kinda came out of nowhere very loudly and you were in the dark almost the entire time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509679883041,
+      "content": "Wait did me screaming end up in the video?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509677000424,
+      "content": "thanks! same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509676505021,
+      "content": "I'm super excited for the class to see it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509676496683,
+      "content": "Amazing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509676233476,
+      "content": "the video finally uploaded so check it out on google drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509674075508,
+      "content": "And Landon let us know if there's anything left we can do to help finish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509672272914,
+      "content": "Thank you! Proud of us!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509672261932,
+      "content": "yeah i\u00e2\u0080\u0099ll do that as soon as i get to the dorm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509672244522,
+      "content": "ok i thought so too just wanted to check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509672235299,
+      "content": "Just add the quote slide",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509672232893,
+      "content": "I think it\u00e2\u0080\u0099s fine the way it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509672220965,
+      "content": "I agree it's good already that would slow it down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509672203084,
+      "content": "That would be unecessary",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509672182438,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509672176717,
+      "content": "wait do we need the drone footage?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509672139467,
+      "content": "definitely i\u00e2\u0080\u0099ll just add the quote and cite the book first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509672101816,
+      "content": "Landon can you share with us when it's done?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509669096356,
+      "content": "i\u00e2\u0080\u0099ll be there in a few minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509669074078,
+      "content": "I\u00e2\u0080\u0099m in the big room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509668978905,
+      "content": "Okay so we're meeting in the lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509649277693,
+      "content": "Also we have to remember it's a trailer so it shouldn't tell the complete story",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509649258151,
+      "content": "I'll write some expert quotes about how highly regarded this is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509645718786,
+      "content": "Had to pick up the sweatshirt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509645712395,
+      "content": "On my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509645325391,
+      "content": "remember to bring the jacket/sweatshirt you were wearing yesterday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509645308060,
+      "content": "perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509645298368,
+      "content": "Maddy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509645207079,
+      "content": "Let's meet in the lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509638589808,
+      "content": "Me too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509637150651,
+      "content": "Okay I also have a lunch meeting sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509635656196,
+      "content": "yeah and someone to film",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509633388055,
+      "content": "I have a lunch meeting but you just need may right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509629086783,
+      "content": "just realized the uppers closed tonight so can we film that scene at lunch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509575193699,
+      "content": "I have proctor duty until 9 but I can try to leave early",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509569642588,
+      "content": "Awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509569621839,
+      "content": "ive already compiled the footage we got this morning so lets just meet at 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509568979323,
+      "content": "I can also meet at 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509568969112,
+      "content": "Landon/Charlotte can you guys start piecing together what we have? I can also meet 830 again tonight to film",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509568765556,
+      "content": "Is there anything I'm not in/ can I do something else besides filming?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509568762582,
+      "content": "I'd rather finish filming as much as possible tonight. I'm not free tomorrow night. I'll text you when I get back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509568738887,
+      "content": "LinC day ends pretty early",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509568732575,
+      "content": "It's okay we have 2-3:30 free tomorrow afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509568724740,
+      "content": "I don't think I'll be out until 5:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509568713147,
+      "content": "I'm still in rehearsal for theater",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509566984622,
+      "content": "im in the lib when people are ready",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509566466760,
+      "content": "Kendra when are you free?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509564354907,
+      "content": "perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509564100101,
+      "content": "I'm almost done with cross country but I'll be ready for four?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509563174242,
+      "content": "also that pic is 100% true kendra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509563151141,
+      "content": "so what time are we filming today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509553617206,
+      "content": "yeah ive got it on my computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509553494327,
+      "content": "Can someone start compiling what we have so we know exactly what we still need?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509552246576,
+      "content": "Those are the questions in the back, Charlotte",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509552235395,
+      "content": "Kendra sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/CharlotteMaddyandKendra_8bbc407f1c/photos/23158151_509383582756317_763732156_o_509383582756317.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509552230594,
+      "content": "When life comes at you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509552220481,
+      "content": "Kendra sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/CharlotteMaddyandKendra_8bbc407f1c/photos/23158207_509383489422993_1284656802_o_509383489422993.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509552212825,
+      "content": "I also got come shots of Sheldon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509549217328,
+      "content": "Sps campus shot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509549215560,
+      "content": "https://m.youtube.com/watch?v=XH0sqyqNdzY",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=XH0sqyqNdzY"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509549047298,
+      "content": "https://m.youtube.com/watch?v=UTMf4Wm2RWM\n\nCampus shot of Exeter",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=UTMf4Wm2RWM"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509548813448,
+      "content": "So guys: you are going to try to finish filming day scenes today and I'll text tonight when I'm back so we can finish phemie. I'll find link to sps drone video and an Exeter campus shot so we can set the scene. Then we compile on someone's computer and put into iMovie trailer format and just have to edit. Am I missing anything?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509502991752,
+      "content": "Omg yes. Aren't they the big red too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509502952879,
+      "content": "just an idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509502951238,
+      "content": "and it can be about how Exeter and SPS could be similar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509502930108,
+      "content": "Or about the Big Red thing, May at some point has a quote that says something along the lines of \"aren't they humans too?\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509501632381,
+      "content": "thats great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509500324375,
+      "content": "Guys: HUGE POINT WE HAVE TO WORK IN: EXETER IS ALSO BIG RED\nFor sports\n\nMaybe we have a quote or something that there can only be one big red",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509500273971,
+      "content": "I have a game in the afternoon, so I'll come prepared to get most of my scenes out of the way so you guys aren't stalled by me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509500239838,
+      "content": "Ok well hopefully we actually get that and can get a good start",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509500226581,
+      "content": "yeah i did he said like half probably",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509500225997,
+      "content": "Also, title ideas?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509500211941,
+      "content": "You say we need it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509500207192,
+      "content": "But we get some? Can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509500194430,
+      "content": "mr smith just told me we aren't going to get all of class tomorrow to film",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Berry",
+      "timestamp_ms": 1509496802623,
+      "content": "I'm walking in now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509496616256,
+      "content": "I've got a table in the big room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509496598844,
+      "content": "Hey, are you guys in the lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendra Heredia",
+      "timestamp_ms": 1509496592877,
+      "content": "Kendra created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Charlotte, Maddy and Kendra",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "CharlotteMaddyandKendra_8bbc407f1c"
+}

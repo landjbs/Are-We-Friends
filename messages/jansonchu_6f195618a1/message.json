@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Janson Chu"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1484014262524,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Janson Chu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JansonChu_6f195618a1"
+}

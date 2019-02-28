@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jack Westergaard"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jack Westergaard",
+      "timestamp_ms": 1502040145945,
+      "content": "Landon,You video? 62004 -_-",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jack Westergaard",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JackWestergaard_576b9fff98"
+}

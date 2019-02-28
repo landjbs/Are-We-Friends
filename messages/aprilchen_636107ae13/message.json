@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "April Chen"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1533947856012,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "April Chen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AprilChen_636107ae13"
+}

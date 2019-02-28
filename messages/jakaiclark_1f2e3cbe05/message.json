@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jakai Clark"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1523497046019,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jakai Clark",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JakaiClark_1f2e3cbe05"
+}

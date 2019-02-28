@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Tram Nguyen"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522464138608,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tram Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "TramNguyen_7bf4f7df7a"
+}

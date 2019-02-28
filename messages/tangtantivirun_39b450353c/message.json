@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Tang Tantivirun"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1495233064821,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tang Tantivirun",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "TangTantivirun_39b450353c"
+}

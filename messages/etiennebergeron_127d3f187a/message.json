@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u0089tienne Bergeron"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1431561353873,
+      "content": "come to my room Maddox messaged back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1430444093076,
+      "content": "10 over all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00c3\u0089tienne Bergeron",
+      "timestamp_ms": 1430442191997,
+      "content": "How many test tube we had for the lab? 5 or 8??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00c3\u0089tienne Bergeron",
+      "timestamp_ms": 1430442181544,
+      "content": "Landon!",
+      "type": "Generic"
+    }
+  ],
+  "title": "\u00c3\u0089tienne Bergeron",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "EtienneBergeron_127d3f187a"
+}

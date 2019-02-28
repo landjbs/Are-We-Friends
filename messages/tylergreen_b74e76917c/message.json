@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Tyler Green"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tyler Green",
+      "timestamp_ms": 1505791468510,
+      "content": "Okay awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1505791454994,
+      "content": "yeah this saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tyler Green",
+      "timestamp_ms": 1505791442631,
+      "content": "So is it this weekend?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1505791429983,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tyler Green",
+      "timestamp_ms": 1505791380954,
+      "content": "You know for sure when it is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1505791351937,
+      "content": "nah youre right it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tyler Green",
+      "timestamp_ms": 1505791212076,
+      "content": "Are you sure that Nash bash isn't this weekend?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tyler Green",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "TylerGreen_b74e76917c"
+}

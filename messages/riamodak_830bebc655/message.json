@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Ria Modak"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1513199487938,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ria Modak",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RiaModak_830bebc655"
+}

@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Tereshchenko Victoria"
+    },
+    {
+      "name": "Sanjna Chetan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1515544974445,
+      "content": "That sounds reasonable",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1515544966444,
+      "content": "Ok great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1515544561434,
+      "content": "Victoria: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1515544543327,
+      "content": "\u00e2\u0080\u009cnow that we\u00e2\u0080\u0099ve submitted to all colleges we\u00e2\u0080\u0099ve gotten less competitive and able to see the big picture that our role as heads is really abt helping others. we wanna give younger students a chance to learn how great mock trial is\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tereshchenko Victoria",
+      "timestamp_ms": 1515544481724,
+      "content": "That\u00e2\u0080\u0099s what I though we would do yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1515544436794,
+      "content": "I'm not exactly sure how we r going to do that, but we should let her know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1515544417020,
+      "content": "Hey guys just fyi we should probably tell Jackie that we don't want to participate tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjna Chetan",
+      "timestamp_ms": 1515544416093,
+      "content": "Sanjna created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Victoria and Sanjna",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "VictoriaandSanjna_d1a6f7472c"
+}

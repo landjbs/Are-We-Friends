@@ -1,0 +1,309 @@
+{
+  "participants": [
+    {
+      "name": "Jingyi Zhang"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1464561152161,
+      "content": "i think so...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464560644243,
+      "content": "so we're probably good right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1464555244106,
+      "content": "tut's wat the email said",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1464554889114,
+      "content": "we need to have all the calculations prepared so that can just  plug in our mass of product",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1464551240916,
+      "content": "do we have to do anything on the lab for class tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460689046689,
+      "content": "good job!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460689029011,
+      "content": "thanks! see you tomorrow!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460689022728,
+      "content": "hopefully...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460689019680,
+      "content": "ok i think we are good.....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460688737604,
+      "content": "it's the number of things in the data set minus 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460688707817,
+      "content": "did you use calculator function of derivation?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460688675536,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460688674907,
+      "content": "wait why did you divide by 3-1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460688460482,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JingyiZhang_2e575ed9da/photos/13010130_472616026269743_746350010_o_472616026269743.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460688444678,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JingyiZhang_2e575ed9da/photos/12992025_472616006269745_661653916_o_472616006269745.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460688302400,
+      "content": "yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460688245110,
+      "content": "sorry.....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460688243177,
+      "content": "can you like send me a pic of your work on the calculator...?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460688233496,
+      "content": "wait i keep on getting diff st deviations...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460688059174,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460688049265,
+      "content": "but the st deviation is correct?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460688044622,
+      "content": "oh lol ok....ill change the intervals",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460688026351,
+      "content": "It just goes from smallest to largest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460688011139,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460687963909,
+      "content": "does it matter the order?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460687960077,
+      "content": "ok i did the intervals again and i got 3.07, 3.06",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460687905920,
+      "content": "I'm really bad at that one tho so I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460687885361,
+      "content": "I got the standard deviation that you wrote on the sheet but I got 3.06-3.07 for the confidence interval",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460687773335,
+      "content": "i also got 0.00469 for st deviation so like idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460687657323,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460687651382,
+      "content": "can u check if the st deviation and intervals are correct...casue idk bout those",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460687640166,
+      "content": "Jingyi: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460687538248,
+      "content": "and our values are really similar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460687512522,
+      "content": "yeah that looks right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460687257691,
+      "content": "Can you just check it over?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460687247749,
+      "content": "Jingyi sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JingyiZhang_2e575ed9da/photos/13016615_809146852552751_1941141382_o_809146852552751.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460687229016,
+      "content": "Jingyi sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/JingyiZhang_2e575ed9da/photos/13000535_809146765886093_783108675_o_809146765886093.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460685051007,
+      "content": "standard deviation is this \nhttps://www.mathsisfun.com/data/standard-deviation-formulas.html",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460684944735,
+      "content": "do you know how to do the standard deviation or 95% confidence interval?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460684834848,
+      "content": "good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460684738158,
+      "content": "im gonna ask joy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460684735095,
+      "content": "but i don't remember seeing one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460684727581,
+      "content": "ok cause the sheet asks for an unknown solution #",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1460684710723,
+      "content": "I don't think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jingyi Zhang",
+      "timestamp_ms": 1460684638928,
+      "content": "hey did our solution have a number?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jingyi Zhang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JingyiZhang_2e575ed9da"
+}

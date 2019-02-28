@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jess Jang"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jess Jang",
+      "timestamp_ms": 1443384162586,
+      "content": "hey I'm on the first floor to the right",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jess Jang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JessJang_2bb0a949ee"
+}

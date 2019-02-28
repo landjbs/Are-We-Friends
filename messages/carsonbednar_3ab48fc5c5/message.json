@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Carson Bednar"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1429905764310,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Carson Bednar",
+      "timestamp_ms": 1429903926608,
+      "content": "Did stellato go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Carson Bednar",
+      "timestamp_ms": 1428631812741,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1428631801956,
+      "content": "hraskey wants to know if u have his hat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1427224834080,
+      "content": "what do we have to do for crew?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Carson Bednar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "CarsonBednar_3ab48fc5c5"
+}

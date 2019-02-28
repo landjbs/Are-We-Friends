@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Laura Tsai"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522279197274,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Laura Tsai",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LauraTsai_1089ceb052"
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Hughes Clues"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hughes Clues",
+      "timestamp_ms": 1525555015014,
+      "content": "You missed a call from Hughes.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    }
+  ],
+  "title": "Hughes Clues",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "HughesClues_e154c7cd31"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Chandler Vogel"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506479823666,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chandler Vogel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ChandlerVogel_209182a40d"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Tiffany Liu"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiffany Liu",
+      "timestamp_ms": 1515447673654,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tiffany Liu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "TiffanyLiu_b1cbbf30dc"
+}

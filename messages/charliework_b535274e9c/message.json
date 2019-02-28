@@ -1,0 +1,343 @@
+{
+  "participants": [
+    {
+      "name": "Charlie Work"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1517089997483,
+      "content": "https://soundcloud.com/user-572047475/sets/nash-bash-2017",
+      "share": {
+        "link": "https://soundcloud.com/user-572047475/sets/nash-bash-2017"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509159324684,
+      "content": "ight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509159281476,
+      "content": "you can show up then or later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509159269232,
+      "content": "yeah imma get there around 5 prob",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509159256604,
+      "content": "we gonna do like a soundcheck or somethin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509159221337,
+      "content": "ok so what time should I show up to hargate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509159189774,
+      "content": "sorry ive got a college interview tomorrow so i dont have much time but that looks good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509159112159,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509158789708,
+      "content": "this is the more edm/remix style stuff I'd like to play",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509158776683,
+      "content": "https://soundcloud.com/user-572047475/sets/nash-bash-2017",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509158298293,
+      "content": "this is a playlist i made for the dance of more mainstream stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509158281793,
+      "content": "https://open.spotify.com/user/charliew38711/playlist/3xmiKe5Rw9db8MfS68LUhg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509156905208,
+      "content": "just hang out on stage and i\u00e2\u0080\u0099ll show you how to do stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509156734698,
+      "content": "Like I just wanna be clear on what my role is here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509156696651,
+      "content": "Ok what about at the actual dance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509156664019,
+      "content": "just send a list of stuff you want played",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509156633260,
+      "content": "Bro so what should I have ready specifically",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509156589989,
+      "content": "tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509147633938,
+      "content": "Sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1509147631335,
+      "content": "Yo wait is the dance tomorrow or synday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1508978365164,
+      "content": "Ok yea just let me know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508978331511,
+      "content": "but otherwise i can kinda show you how to do it during the dance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508978318853,
+      "content": "ok i can try to find time to meet before sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1508969710381,
+      "content": "My forte is production but I just need w quick intro to the hardware were gonna use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508879920719,
+      "content": "you know how to dj right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508879911532,
+      "content": "sorry i don't have time maybe thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1508856774513,
+      "content": "Yo can we meet to talk about the dance tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1508459712331,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508459699940,
+      "content": "its kinda too much work getting all that stuff out and setting it up but we could just use my personal one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1508457876718,
+      "content": "Ok for sure. Could you also bring the mixers we would use when we meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508457710249,
+      "content": "just start getting together a list of what youd wanna play",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508457686615,
+      "content": "its gonna be next saturday night so lets me some time next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508457625168,
+      "content": "oh yeah for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1508456579217,
+      "content": "Yo so is there a time we can talk about the halloween dance?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506297582522,
+      "content": "i have my own pioneer ddj-sr and then i use the schools djm-900nxs mixer and their two cdjs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1506297063291,
+      "content": "hardware that works with it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506296880346,
+      "content": "serato",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1506295169465,
+      "content": "What kind of software do u use for live stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506206848758,
+      "content": "dw about it man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1506205681263,
+      "content": "Hey sorry, I was free before now not so much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506203151975,
+      "content": "yo we're setting up nash bash rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1506195585752,
+      "content": "Ight lemme know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506195426673,
+      "content": "maybe later when they unlock the van w my stuff in it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506195415989,
+      "content": "not rn but thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1506195409792,
+      "content": "I can give ya a hand if you wnat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1506195376542,
+      "content": "You need help setting up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1506122370887,
+      "content": "Ok sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506122298187,
+      "content": "i talked it over w everyone and we decided you can feature at the halloween dance and others going forward and nash bash is all yours next year if you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506122251212,
+      "content": "oh sorry man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1506120035641,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1505605795161,
+      "content": "Ok lemme know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1505601496591,
+      "content": "yea ima need to talk to ms ellinwood and the other dj but possibly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1505601406722,
+      "content": "Is that possible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlie Work",
+      "timestamp_ms": 1505601396400,
+      "content": "Yo I'm low key tryna feature at Nash bash",
+      "type": "Generic"
+    }
+  ],
+  "title": "Charlie Work",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "CharlieWork_b535274e9c"
+}

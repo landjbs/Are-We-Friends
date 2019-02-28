@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Diego Farrell"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517593011879,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Diego Farrell",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "DiegoFarrell_fec13a7d59"
+}

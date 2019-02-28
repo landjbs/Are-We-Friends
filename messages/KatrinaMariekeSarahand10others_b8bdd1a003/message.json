@@ -1,0 +1,567 @@
+{
+  "participants": [
+    {
+      "name": "Katrina Huang"
+    },
+    {
+      "name": "Marieke Nelis"
+    },
+    {
+      "name": "Sarah Evenson"
+    },
+    {
+      "name": "Will Driscoll"
+    },
+    {
+      "name": "Gabby Spurzem"
+    },
+    {
+      "name": "Charlotte Silverman"
+    },
+    {
+      "name": "Jess Jang"
+    },
+    {
+      "name": "Maya Weiss"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Mallika Yedla"
+    },
+    {
+      "name": "Santiago Saravia"
+    },
+    {
+      "name": "Colin Chase"
+    },
+    {
+      "name": "Sam Vaughn"
+    },
+    {
+      "name": "Soorin Lee"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00c3\u0089tienne Bergeron",
+      "timestamp_ms": 1431631212705,
+      "content": "\u00c3\u0089tienne Bergeron left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "\u00c3\u0089tienne Bergeron"
+        }
+      ]
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1431617658646,
+      "content": "A contact left the group.",
+      "type": "Unsubscribe"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431562461833,
+      "content": "sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431562442978,
+      "content": "Can we all meet at 8:45?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431562373161,
+      "content": "do you guys want to meet in the lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431562277805,
+      "content": "I just don't get how to draw the voltaic cell diagram",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Driscoll",
+      "timestamp_ms": 1431562275080,
+      "content": "Redox reaction",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431562262617,
+      "content": "oxidation and reduction",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431562126877,
+      "content": "What's on the test tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431562112638,
+      "content": "the ksp and buffer stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Driscoll",
+      "timestamp_ms": 1431561857868,
+      "content": "What was the stuff we learned on the last day that we don't have to know for test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431553414542,
+      "content": "Lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431552361170,
+      "content": "8:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431549301101,
+      "content": "When?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431539107801,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431538208084,
+      "content": "Does anyone wanna study for the test tonight???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431430679720,
+      "content": "Ohhhhh good call",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jess Jang",
+      "timestamp_ms": 1431430428057,
+      "content": "CLOSE TOED SHOES EVERYONE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Soorin Lee",
+      "timestamp_ms": 1431392294313,
+      "content": "I'm at New Space rehearsing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Soorin Lee",
+      "timestamp_ms": 1431392287189,
+      "content": "All I did was write the equation down and watch the titration video",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431392278637,
+      "content": "Come 2 the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Soorin Lee",
+      "timestamp_ms": 1431392259011,
+      "content": "Hey y'all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431391939885,
+      "content": "Sadie where you at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00c3\u0089tienne Bergeron",
+      "timestamp_ms": 1431388576257,
+      "content": "https://www.youtube.com/watch?v=9DkB82xLvNE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00c3\u0089tienne Bergeron",
+      "timestamp_ms": 1431388574485,
+      "content": "Could possibly be helpful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Evenson",
+      "timestamp_ms": 1431385219919,
+      "content": "Sarah sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851576_633722843313692_1034807800_n_633722839980359.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431385177676,
+      "content": "ahahahahahahah kate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1431385152269,
+      "content": "Hey, guys. Could you we take minute when we all meet up to all dance in a room with party lights? I'll bring the lights if you all being the party..\n\nIt's for German",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mason Parker",
+      "timestamp_ms": 1431384368522,
+      "content": "Mason Parker left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Mason Parker"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431384091400,
+      "content": "And then delete your history",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431384075044,
+      "content": "look up hot man body b4 u hit the gym for reference",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431384062374,
+      "content": "4th amendment #privacy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Santiago Saravia",
+      "timestamp_ms": 1431384058968,
+      "content": "And hit the gym",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Driscoll",
+      "timestamp_ms": 1431384051024,
+      "content": "I agree with Santi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Santiago Saravia",
+      "timestamp_ms": 1431384032992,
+      "content": "Honestly at this point I think we all need to delete our facebooks and get lawyers.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383984153,
+      "content": "Haha nice kat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383950436,
+      "content": "seen what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Driscoll",
+      "timestamp_ms": 1431383916890,
+      "content": "Do not tell her we have seen this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383851064,
+      "content": "She wouldn't like it if she found out that we knew ahead of time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383804393,
+      "content": "She gets pissed if we ask if a test is hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431383799310,
+      "content": "^ amen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jess Jang",
+      "timestamp_ms": 1431383786377,
+      "content": "JUST LET IT BE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383781122,
+      "content": "No don't say",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mason Parker",
+      "timestamp_ms": 1431383774500,
+      "content": "she posted it voluntarily... just sayin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1431383772445,
+      "content": "Cuz she said she was gonna tell us right before the actual thing and not before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jess Jang",
+      "timestamp_ms": 1431383755169,
+      "content": "MASON STOP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383750960,
+      "content": "^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431383744748,
+      "content": "So they stay the same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mason Parker",
+      "timestamp_ms": 1431383742906,
+      "content": "why does it matter?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383723196,
+      "content": "secrets are more fun as secrets",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Santiago Saravia",
+      "timestamp_ms": 1431383721643,
+      "content": "Yeah actually no one mention it and pretend you don't know who your partner is when we walk in tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mason Parker",
+      "timestamp_ms": 1431383705489,
+      "content": "why not?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00c3\u0089tienne Bergeron",
+      "timestamp_ms": 1431383660925,
+      "content": "GUYS DO NOT SAY A WORD ABOUT THIS!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431383646853,
+      "content": "SADIE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Santiago Saravia",
+      "timestamp_ms": 1431383633785,
+      "content": "$$$$$$",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383627427,
+      "content": "Sam sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/KatrinaMariekeSarahand10others_b8bdd1a003/photos/11245348_1579425308984011_1948491168_n_1579425308984011.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383618820,
+      "content": "AYYYY SANTI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383610664,
+      "content": "Sam sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/KatrinaMariekeSarahand10others_b8bdd1a003/photos/11212217_1579425235650685_1003694345_n_1579425235650685.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mallika Yedla",
+      "timestamp_ms": 1431383603952,
+      "content": "8:40 will give us abt 30-40 mins...think that's enough time??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jess Jang",
+      "timestamp_ms": 1431383603823,
+      "content": "yea u can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383595244,
+      "content": "where",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383585030,
+      "content": "It says it's locked but when you click on it it shows the names",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383579241,
+      "content": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383565836,
+      "content": "Hey and I'm pretty sure we can see our partners on the new group on canvas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marieke Nelis",
+      "timestamp_ms": 1431383461173,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00c3\u0089tienne Bergeron",
+      "timestamp_ms": 1431383428986,
+      "content": "8:40 it is people! In the basement!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Evenson",
+      "timestamp_ms": 1431383410230,
+      "content": "That works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383396747,
+      "content": "8:40 lib sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383392628,
+      "content": "http://www.smc.edu/projects/28/Chemistry_10_Experiments/Ch10_Titration.pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Charlotte Silverman",
+      "timestamp_ms": 1431383377070,
+      "content": "8:40",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383376528,
+      "content": "yea give me a sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Driscoll",
+      "timestamp_ms": 1431383373917,
+      "content": "I'll just show up at some point",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383369306,
+      "content": "I just have something at 7:30 to around 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383353733,
+      "content": "or actually you guys decide",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383351297,
+      "content": "I have something at 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Santiago Saravia",
+      "timestamp_ms": 1431383350935,
+      "content": "Also wanna send a link to the website Kat?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383332783,
+      "content": "after 8:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Evenson",
+      "timestamp_ms": 1431383325885,
+      "content": "What time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maya Weiss",
+      "timestamp_ms": 1431383303894,
+      "content": "How does the Library sound?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katrina Huang",
+      "timestamp_ms": 1431383294733,
+      "content": "yea I found a website that explains the lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mason Parker",
+      "timestamp_ms": 1431383292068,
+      "content": "when",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sam Vaughn",
+      "timestamp_ms": 1431383267440,
+      "content": "Hey do you guys want to meet as a class to talk about the lab practical",
+      "type": "Generic"
+    }
+  ],
+  "title": "Katrina, Marieke, Sarah and 10 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "KatrinaMariekeSarahand10others_b8bdd1a003"
+}

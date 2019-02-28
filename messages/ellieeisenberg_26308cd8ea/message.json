@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Ellie Eisenberg"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522332256591,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ellie Eisenberg",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "EllieEisenberg_26308cd8ea"
+}

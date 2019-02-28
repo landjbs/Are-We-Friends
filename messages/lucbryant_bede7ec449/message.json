@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Luc Bryant"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1489636752043,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Luc Bryant",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LucBryant_bede7ec449"
+}

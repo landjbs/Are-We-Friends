@@ -1,0 +1,475 @@
+{
+  "participants": [
+    {
+      "name": "Maddy Buffett"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1526241477891,
+      "content": "Awesome thanks! I'll let ms Ludwig know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526241457021,
+      "content": "sure sounds fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1526240707918,
+      "content": "Hey Landon! Ms Ludwig invited me to share study strategies we learned in metacognition tomorrow night with the learning diversity club. She said I could invite someone else from the class, so would you want to join? the meeting is at 7:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1517369393695,
+      "content": "Ok awesome. I'll bring a printed copy in case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517368175694,
+      "content": "but id be happy to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1517368172668,
+      "content": "largely depends on how much i have written by then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1517365489545,
+      "content": "Totally cool if not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1517365478303,
+      "content": "Would you want to peer edit in class tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516683842065,
+      "content": "I\u00e2\u0080\u0099m excited about our project!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516683834582,
+      "content": "Night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516683316750,
+      "content": "See you tomorrow!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516683311195,
+      "content": "I agree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516683297880,
+      "content": "Yes I think everything looks great now! I just wanted to be picky just in case. I think the volume of interactions and analysis is awesome so I hope she sees that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516683192026,
+      "content": "I think i fixed the fein thing too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516683062924,
+      "content": "Definitely yours looks great and overall i think it went well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516683049703,
+      "content": "Yikes my b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516683024229,
+      "content": "Yes definitely. It doesn't have to be in exact order. Also did you mean to have Jane Goodall \"right\" a rec? Just want to make sure that would be a purposeful mistake. And there is one more thing with fein and hamlet but you do say fein said so I think it's ok if you feel we should keep it. And please let me know if you have suggestions on my part!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516682913716,
+      "content": "The order of tweets is a little weird but i think its ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516682895292,
+      "content": "Yeah sure i was wondering abt that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516682871249,
+      "content": "Everything is awesome can you just retweet that one poll so I don't vote for the Dad to stay inside the building?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516682644503,
+      "content": "Great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516682439349,
+      "content": "Portrayal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516682432270,
+      "content": "Or I guess intead of \"cool\" I meant an accurate portage all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516682406321,
+      "content": "Ya that would be really good. And ask why he's done etc. that would be really cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516682377145,
+      "content": "Should i message mr black \u00e2\u0080\u009cwhere are you\u00e2\u0080\u009d or something like that and he wont respond?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516682231194,
+      "content": "Yeah i just found the page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516682212720,
+      "content": "Ok I can see the cyclone one but not the fein and emotion yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516681982555,
+      "content": "Otherwise looks awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516681969600,
+      "content": "Also one last thing: I accidentally voted on your poll to stay but I meant to just comment. Could you redo that to delete my vote? I think that would be a little too dark",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516681946027,
+      "content": "I just did the cyclone one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516681940582,
+      "content": "Yeah i think youre right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516681857280,
+      "content": "Convo looks good , just a few things: you should probably cite the fein and emotion tweet with page numbers and quotes. I think you can just edit the tweet. And also I would put a page number for the cyclone one. Sorry again I just think vo is picky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516679958331,
+      "content": "For sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516679720190,
+      "content": "I agree. I think the effort we put in will come through. And it's unique and creative",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516679691720,
+      "content": "Not a problem at all i think we can do well on this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516679660640,
+      "content": "Awesome! Sorry I don't mean to be bossy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516679632166,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516679620964,
+      "content": "Yeah ik im doing it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516679615566,
+      "content": "Definitely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516679591214,
+      "content": "Also I wanted to let you know that both Lucas and I used in text citations for the quotes and quotation marks. Sorry just saw a few of your quotes aren't cited and want to be sure you didn't accidentally forget",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516679331221,
+      "content": "Hey can you reply to direct message? We only need to do a couple but I want to show something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1516498190213,
+      "content": "Lando you coming?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509410959661,
+      "content": "yeah thats ok same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509410940210,
+      "content": "I'm going to hold off on working until the project is finalized",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509406434040,
+      "content": "En route",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509406417823,
+      "content": "are you at the lib?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509400389681,
+      "content": "oh good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509398758199,
+      "content": "Yes and I had a thought; Andover was founded before Exeter so we can say Phillips academies are expanding towards St. Paul's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509392263886,
+      "content": "perfect lets meet in the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509376586408,
+      "content": "Cool. Let's just do an hour to get a good start and that's great. Does 7:30 work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509376558735,
+      "content": "also i can do the editing bc i know how",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509376548799,
+      "content": "yeah for sure ive got a bit of work tonight but i def want to meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509375074980,
+      "content": "Can we meet tonight? Just to get a start",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509373178061,
+      "content": "Well we should write our storyboard ASAP then hopefully film soon after. I've never made a movie so I don't know how long editing takes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509373143167,
+      "content": "when do you want to film?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509373136225,
+      "content": "oh perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509373126170,
+      "content": "We can convert to a movie and make them longer but keep the template",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509373027236,
+      "content": "true although those might be too short",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1509373020100,
+      "content": "great idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1509368578487,
+      "content": "Hey for the movie trailer I think it may be better if we used another school (Exeter?) coming to St. Paul's. We could show life at St. Paul's isn't bad, wear sps clothes, lingo etc. \n\nAlso iMovie has really cool movie trailer templates we could use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506567826626,
+      "content": "Maddy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506567824823,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506567817820,
+      "content": "Maybe ask him during dorm meetings tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506567797751,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506567795490,
+      "content": "Ok that's what I'll do too. I won't write the essay but I want to bring quotes and ideas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506567750241,
+      "content": "i think im gonna take notes and if he says we cant use them then i wont",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506567732523,
+      "content": "yeah hes in drury but hes not on duty or in the dorm tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506567673949,
+      "content": "And if so could you ask him tomorrow if we can bring notes in our journal about the prompt to the reflection tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506567642716,
+      "content": "Is mr smith still in drury?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506567632876,
+      "content": "Hey Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506041115300,
+      "content": "Thanks Landon!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506041022295,
+      "content": "sure and congrats on your awards",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506040988824,
+      "content": "Sweet thanks Landon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506040982442,
+      "content": "i dont think we have anything for tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1506040965451,
+      "content": "sat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1506040817701,
+      "content": "Is make it stick presentation tomorrow or sat?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Maddy Buffett",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MaddyBuffett_bd5be227b6"
+}

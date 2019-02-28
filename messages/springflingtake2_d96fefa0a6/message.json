@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Aidan Spencer"
+    },
+    {
+      "name": "Willa King"
+    },
+    {
+      "name": "Maddox Angerhofer"
+    },
+    {
+      "name": "Maddy Buffett"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1430678919652,
+      "content": "Are spencer and cate coming with us too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430675244159,
+      "content": "I can make the reservation somewhere if anyone has any ideas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430671249703,
+      "content": "I'm fine with anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Spencer",
+      "timestamp_ms": 1430671075448,
+      "content": "Do we want something really formal?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430671061592,
+      "content": "Ok so I think this is our group as of now. Any ideas for dinner or plans?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Maddy Buffett",
+      "timestamp_ms": 1430671027418,
+      "content": "Maddy named the group Spring fling take 2.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Spring fling take 2",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "Springflingtake2_d96fefa0a6"
+}

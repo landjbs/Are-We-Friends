@@ -1,0 +1,174 @@
+{
+  "participants": [
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Eda Keni"
+    },
+    {
+      "name": "Alex Urbina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1519396175085,
+      "content": "honestly same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1519317890621,
+      "content": "rudeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519317626272,
+      "content": "Salty at the H+ \u00f0\u009f\u0099\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519186686543,
+      "content": "*me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519186682513,
+      "content": "Landon if you send my the link to the kaboom I\u00e2\u0080\u0099ll type out the questions into a doc and outline our timeline.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519186629744,
+      "content": "Idk why I didn\u00e2\u0080\u0099t get a notification for this but apparently she responded at 8:30. Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519186607252,
+      "content": "Alex sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/EdaandAlex_ce5f1e17b3/photos/28235753_572023006503189_1092625051_n_572023006503189.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519186259291,
+      "content": "No I\u00e2\u0080\u0099m sorry I emailed her but she didn\u00e2\u0080\u0099t say anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1519183341408,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1519176834254,
+      "content": "did we figure out whether lesson plan submissions are supposed to be group or individual?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1519176803601,
+      "content": "ok that sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519176300805,
+      "content": "And at the end we\u00e2\u0080\u0099ll write take aways on the board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519175948652,
+      "content": "Then after we go through all the question we\u00e2\u0080\u0099ll have time dedicated to comments or if people want to revisit questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519175892756,
+      "content": "And after we\u00e2\u0080\u0099ll do about 3 mins of discussion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519175874676,
+      "content": "We have 12 questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519175868384,
+      "content": "No were pretty much set",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519175691597,
+      "content": "Yea you did I\u00e2\u0080\u0099ll give it to you tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1519175579522,
+      "content": "also did I leave my hand sanitizer behind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1519175568868,
+      "content": "yo is there anything I should do or are we pretty much set?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519175312824,
+      "content": "Hey Landon don\u00e2\u0080\u0099t forget to take off the thing where it chooses a name for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1519171228282,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519171222547,
+      "content": "On the right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519171220017,
+      "content": "We\u00e2\u0080\u0099re in the room down stairs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eda Keni",
+      "timestamp_ms": 1519170701676,
+      "content": "ya where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Urbina",
+      "timestamp_ms": 1519170008089,
+      "content": "Where (in the lib) did we want to work?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Eda and Alex",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "EdaandAlex_ce5f1e17b3"
+}

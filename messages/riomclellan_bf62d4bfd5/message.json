@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Rio McLellan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522803098731,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rio McLellan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RioMcLellan_bf62d4bfd5"
+}

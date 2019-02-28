@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Brian O'Sullivan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1427513565285,
+      "content": "don't tell him i sent u this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1427513527605,
+      "content": "kick willy out of ur room it's for the sake of the dorm",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brian O'Sullivan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "BrianOSullivan_06d4ac0fc6"
+}

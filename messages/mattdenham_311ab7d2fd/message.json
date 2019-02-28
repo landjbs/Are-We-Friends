@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Matt Denham"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matt Denham",
+      "timestamp_ms": 1526696720204,
+      "content": "awesome thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526696700664,
+      "content": "just sent ethan the money",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matt Denham",
+      "timestamp_ms": 1526696195491,
+      "content": "and if you cant pay or anything like that its perfectly fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matt Denham",
+      "timestamp_ms": 1526696179726,
+      "content": "alright just let me know when you have paid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526679770194,
+      "content": "yeah i can take care of that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526679765494,
+      "content": "great thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matt Denham",
+      "timestamp_ms": 1526679575633,
+      "content": "But also everyone needs to figure out their own way there and place to stay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matt Denham",
+      "timestamp_ms": 1526679549501,
+      "content": "yeah for sure! You would just need to venmo ethan 80$ and you'd be good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1526679455068,
+      "content": "ik its really late but my plans for grad just changed. is there any chance i could still get on the list for mtl?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matt Denham",
+      "timestamp_ms": 1509455424015,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Matt Denham",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MattDenham_311ab7d2fd"
+}

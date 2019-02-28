@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Ethan Ruttenberg"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Justin Wilcox"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Ruttenberg",
+      "timestamp_ms": 1424482111623,
+      "content": "the shadow method",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ethan Ruttenberg",
+      "timestamp_ms": 1424482101867,
+      "content": "the photo methid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ethan Ruttenberg",
+      "timestamp_ms": 1424482095721,
+      "content": "the mirror method, which we have been doing very wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ethan Ruttenberg",
+      "timestamp_ms": 1424482078885,
+      "content": "we have the thumb method",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ethan Ruttenberg",
+      "timestamp_ms": 1424482003687,
+      "content": "i found a bunch of methods",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ethan and Justin",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "EthanandJustin_54bdb39588"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jenna Albezreh"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522455200017,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jenna Albezreh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JennaAlbezreh_603a1c2d90"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Sedona Farber"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522551978414,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sedona Farber",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SedonaFarber_8ab703f72a"
+}

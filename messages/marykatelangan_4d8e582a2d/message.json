@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Mary Kate Langan"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1481254951759,
+      "content": "great! i'll see you there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Kate Langan",
+      "timestamp_ms": 1481253122594,
+      "content": "yeah! thank you for inviting me it'll be fun!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Kate Langan",
+      "timestamp_ms": 1481253082716,
+      "content": "Mary Kate Langan accepted your request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1481252216106,
+      "content": "hey do you want to come to the drury christmas party tomorrow at 7:30? i won't be able to make it until the last like 30 min but its going to be fun",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mary Kate Langan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MaryKateLangan_4d8e582a2d"
+}

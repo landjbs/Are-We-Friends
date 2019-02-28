@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Luca Muir Hinrichs"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1522455247058,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Luca Muir Hinrichs",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LucaMuirHinrichs_b2e3577986"
+}

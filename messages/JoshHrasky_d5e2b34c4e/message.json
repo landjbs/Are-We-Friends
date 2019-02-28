@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Josh Hrasky"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1422329955885,
+      "content": "Fuck u bitch ass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josh Hrasky",
+      "timestamp_ms": 1422326835350,
+      "content": "Who gave u that mark u PAB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1422326811328,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/JoshHrasky_d5e2b34c4e/videos/video1422326808_324510547746959.mp4",
+          "thumbnail": {
+            "uri": "messages/JoshHrasky_d5e2b34c4e/videos/thumbnails/10875833_324510557746958_823332124_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josh Hrasky",
+      "timestamp_ms": 1422326778127,
+      "content": "U a punk ass bitch",
+      "type": "Generic"
+    }
+  ],
+  "title": "Josh Hrasky",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JoshHrasky_d5e2b34c4e"
+}

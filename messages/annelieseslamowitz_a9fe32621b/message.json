@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Anneliese Slamowitz"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449927208965,
+      "content": "holy shit that sucks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anneliese Slamowitz",
+      "timestamp_ms": 1449918361428,
+      "content": "Yeah lol my fingers broken in two places and I might need surgery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1449893159289,
+      "content": "are you legit injured or nah?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anneliese Slamowitz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AnnelieseSlamowitz_a9fe32621b"
+}

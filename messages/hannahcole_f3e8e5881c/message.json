@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Hannah Cole"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hannah Cole",
+      "timestamp_ms": 1528038949028,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hannah Cole",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "HannahCole_f3e8e5881c"
+}

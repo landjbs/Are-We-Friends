@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Katie Vohr"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Katie Vohr",
+      "timestamp_ms": 1451926050850,
+      "content": "Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1451925568173,
+      "content": "yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1451925560841,
+      "content": "You accepted Katie's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Vohr",
+      "timestamp_ms": 1451920519704,
+      "content": "Hi could you possibly give a tour this Thursday during D block?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Katie Vohr",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "KatieVohr_90871fb2a7"
+}

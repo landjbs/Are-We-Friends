@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Sydney Bednar"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525556919075,
+      "content": "chance could prob help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sydney Bednar",
+      "timestamp_ms": 1525556491167,
+      "content": "i wanted help setting up sound system!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sydney Bednar",
+      "timestamp_ms": 1525556483551,
+      "content": "no worries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525555178478,
+      "content": "did you want me to dj relay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1525555169803,
+      "content": "hey im on a flight back from cali rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sydney Bednar",
+      "timestamp_ms": 1525554995521,
+      "content": "You missed a call from Sydney.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Sydney Bednar",
+      "timestamp_ms": 1525554815151,
+      "content": "question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sydney Bednar",
+      "timestamp_ms": 1525554809837,
+      "content": "hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sydney Bednar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "SydneyBednar_a723096249"
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Faith Onyechere"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1516413220551,
+      "content": "hey have you written the cross ex questions for bates?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510261439344,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Faith Onyechere",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "FaithOnyechere_c9abc12cee"
+}

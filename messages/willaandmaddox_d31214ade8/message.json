@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Willa King"
+    },
+    {
+      "name": "Maddox Angerhofer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maddox Angerhofer",
+      "timestamp_ms": 1430355901252,
+      "content": "Perfect, we are still making plans about dinner, will let you know when we have more details.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1430355839788,
+      "content": "yeah we would love to go with you We've seen the sign and we think it was great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Willa King",
+      "timestamp_ms": 1430355589314,
+      "content": "Hey Landon- I'm sure you've seen the sign. We are finalizing plans and would like to know your and Billy's answer.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Willa and Maddox",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "WillaandMaddox_d31214ade8"
+}

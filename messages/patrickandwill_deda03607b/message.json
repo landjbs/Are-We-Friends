@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Patrick Prendergast"
+    },
+    {
+      "name": "Will Driscoll"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1488327325224,
+      "content": "im free after 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Prendergast",
+      "timestamp_ms": 1488326879477,
+      "content": "I've been studying in the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will Driscoll",
+      "timestamp_ms": 1488326828878,
+      "content": "what time you guys want to meet for math",
+      "type": "Generic"
+    }
+  ],
+  "title": "Patrick and Will",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "PatrickandWill_deda03607b"
+}

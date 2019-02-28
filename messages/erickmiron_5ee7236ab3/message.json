@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Erick Miron"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Erick Miron",
+      "timestamp_ms": 1499605622202,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Erick Miron",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ErickMiron_5ee7236ab3"
+}

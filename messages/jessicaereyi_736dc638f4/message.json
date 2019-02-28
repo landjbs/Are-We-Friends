@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jessica Ereyi"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessica Ereyi",
+      "timestamp_ms": 1518973088322,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jessica Ereyi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "JessicaEreyi_736dc638f4"
+}

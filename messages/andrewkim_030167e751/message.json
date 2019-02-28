@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Andrew Kim"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1496784036488,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Andrew Kim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AndrewKim_030167e751"
+}

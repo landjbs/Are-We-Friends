@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Brittany Cong"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1510110527637,
+      "content": "can we make a group chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1510110502923,
+      "content": "hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510100541417,
+      "content": "You called Brittany.",
+      "call_duration": 26,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510100502345,
+      "content": "Brittany missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1510099975779,
+      "content": "eren and i are on the first floor of the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508429343734,
+      "content": "idek where her house s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508429334002,
+      "content": "yeah im just gonna go to the lib",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1508429317049,
+      "content": "she didnt say anything though so idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1508429302766,
+      "content": "oh shit u right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508429292188,
+      "content": "i thought she said we were going to her house or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1508429270398,
+      "content": "why would we?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Cong",
+      "timestamp_ms": 1508429266775,
+      "content": "i dont think si",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1508429186231,
+      "content": "do we have to go somewhere different for creative writing today?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brittany Cong",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "BrittanyCong_7a086806d7"
+}

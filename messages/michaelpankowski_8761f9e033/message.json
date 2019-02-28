@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Michael Pankowski"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Pankowski",
+      "timestamp_ms": 1517511791040,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Pankowski",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MichaelPankowski_8761f9e033"
+}

@@ -1,0 +1,207 @@
+{
+  "participants": [
+    {
+      "name": "States Langham"
+    },
+    {
+      "name": "Brandon Ruiz"
+    },
+    {
+      "name": "Doug Robbins"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445299762175,
+      "content": "sry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445299757848,
+      "content": "I'm going to be there soon I'm finishing up a chem lab in lindsay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445299720591,
+      "content": "Before you get wasted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445299716677,
+      "content": "Bring dat as here boi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445299713981,
+      "content": "Now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445299712570,
+      "content": "Landon get here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445299622963,
+      "content": "I don't think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445299595575,
+      "content": "Lando  do you have the second half of the problem set!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445297128640,
+      "content": "Yeah that's good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445297026283,
+      "content": "Armor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445297023477,
+      "content": "7 45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445297012892,
+      "content": "Forgot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445297011565,
+      "content": "Fuck dude I had advisee dinner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445296975928,
+      "content": "We need to work on this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445208733883,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445208712428,
+      "content": "Armour study pod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1445208703303,
+      "content": "yeah that sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445208690892,
+      "content": "We can do 7:15-8:40?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445208675777,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445208670556,
+      "content": "my vaccine is at 8 50",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445208655581,
+      "content": "Doug did you end up going to town?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445208637051,
+      "content": "I'm gonna be a little late if it's at 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445208636418,
+      "content": "should I come over to armor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445191455757,
+      "content": "Yeah let's start at 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445188990004,
+      "content": "I will at around 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445188970182,
+      "content": "Brandon sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/StatesBrandonandDoug_d2f5d9e5ff/photos/12166316_889973557746161_927442877_n_889973557746161.jpg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Doug Robbins",
+      "timestamp_ms": 1445188946980,
+      "content": "Who wants to work on it tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445102259383,
+      "content": "or tommorow idc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "States Langham",
+      "timestamp_ms": 1445102244291,
+      "content": "today possibly?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Ruiz",
+      "timestamp_ms": 1445102059363,
+      "content": "What time do you guys wanna work on this problem set?",
+      "type": "Generic"
+    }
+  ],
+  "title": "States, Brandon and Doug",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "StatesBrandonandDoug_d2f5d9e5ff"
+}

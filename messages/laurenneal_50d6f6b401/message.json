@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Lauren Neal"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1482375842535,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lauren Neal",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "LaurenNeal_50d6f6b401"
+}

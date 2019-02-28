@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Alyssa Kim"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1528394313420,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alyssa Kim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "AlyssaKim_c3059f6476"
+}

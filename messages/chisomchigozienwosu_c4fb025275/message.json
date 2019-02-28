@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Chisom Chigozie-Nwosu"
+    },
+    {
+      "name": "Landon Smith"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444359743746,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chisom Chigozie-Nwosu",
+      "timestamp_ms": 1444359732290,
+      "content": "*block",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chisom Chigozie-Nwosu",
+      "timestamp_ms": 1444359729749,
+      "content": "yeah theres no tour guides needed for d clock",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444359668992,
+      "content": "should I just not give a tour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chisom Chigozie-Nwosu",
+      "timestamp_ms": 1444359647844,
+      "content": "ok sorry about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444359549550,
+      "content": "It says on the email that u sent that I'm scheduled to give a tour during c block but my free is d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444273611981,
+      "content": "np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chisom Chigozie-Nwosu",
+      "timestamp_ms": 1444273419552,
+      "content": "thnx!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chisom Chigozie-Nwosu",
+      "timestamp_ms": 1444273414295,
+      "content": "ok i put you down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1444248960201,
+      "content": "yeah I've given a tour before and I can do one this Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chisom Chigozie-Nwosu",
+      "timestamp_ms": 1444247940276,
+      "content": "hey have you given a tour before/ would you like to give one this friday during d block?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chisom Chigozie-Nwosu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ChisomChigozieNwosu_c4fb025275"
+}

@@ -1,0 +1,109 @@
+{
+  "participants": [
+    {
+      "name": "Chance Emerson"
+    },
+    {
+      "name": "Landon Smith"
+    },
+    {
+      "name": "Finn George"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chance Emerson",
+      "timestamp_ms": 1493247986393,
+      "content": "first floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1493247970470,
+      "content": "which floor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chance Emerson",
+      "timestamp_ms": 1493247695391,
+      "content": "end of hall on the left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Finn George",
+      "timestamp_ms": 1493247557206,
+      "content": "I'm here where's your room chance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1493228379349,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Finn George",
+      "timestamp_ms": 1493228372563,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chance Emerson",
+      "timestamp_ms": 1493228361141,
+      "content": "Kinda janky, that works tho. We'll just do it in my room then.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1493228340363,
+      "content": "foster common room?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chance Emerson",
+      "timestamp_ms": 1493228320655,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chance Emerson",
+      "timestamp_ms": 1493228319458,
+      "content": "Cool. Where do you want to do it, Lando.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Finn George",
+      "timestamp_ms": 1493227728231,
+      "content": "7 works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Finn George",
+      "timestamp_ms": 1493227721149,
+      "content": "Hey, sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Landon Smith",
+      "timestamp_ms": 1493225923968,
+      "content": "if you didnt see my email im writing an article abt the ep and id like to interview you both",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chance Emerson",
+      "timestamp_ms": 1493225875737,
+      "content": "How does 7 tonight sound, Finn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chance Emerson",
+      "timestamp_ms": 1493225861056,
+      "content": "Whatsup fellas",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chance and Finn",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "ChanceandFinn_2f79fb810f"
+}

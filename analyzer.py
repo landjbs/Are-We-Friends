@@ -81,9 +81,9 @@ for rowCounter, message in enumerate(message_words):
 df = pd.DataFrame(data=usage_matrix)
 
 model = Sequential([
-    Dense(32, input_shape=(len(significant_words),)),
+    Dense(300, input_shape=(len(significant_words),)),
     Activation('relu'),
-    Dense(1),
+    Dense(2),
     Activation('softmax'),
 ])
 

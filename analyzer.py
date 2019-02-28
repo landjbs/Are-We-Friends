@@ -81,7 +81,11 @@ usage_matrix = np.zeros((len(significant_words), len(message_words)))
 
 for rowCounter, message in enumerate(message_words):
     for word in message:
-        for colCounter, word_check in enumerate(significant_words)
+        for colCounter, word_check in enumerate(significant_words):
+            if word == word_check:
+                usage_matrix[rowCounter, colCounter] = 1
+
+print(usage_matrix)
 
 # PLOTTING FUNCTIONS
 def plot_num_messages(chat_number):

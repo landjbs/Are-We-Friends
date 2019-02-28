@@ -9,7 +9,8 @@ from collections import Counter
 
 CURRENT_DIRECTORY = os.getcwd()
 NUMBER_TO_ANALYZE = 50000
-MESSAGE_THRESHOLD = 1000
+MESSAGE_THRESHOLD = 100
+FRIEND_CUTOFF = 1000 # number of messages with a person to consider a friend
 
 # FIRST DEFINITIONS
 def get_json_data(chat):
@@ -49,10 +50,15 @@ print('Finished processing chats...')
 
 words_used = []
 message_words = []
+number_messages = []
 
 for i, (messages, chat, messages) in enumerate(sorted_chats):
     for message in messages:
         try:
+            # is person a friend?
+            friend_binary = 1 if len(messages) > FRIEND_CUTOFF else 0
+            number_messages.append(friend_binary)
+            # strings used in message
             words_list = [clean_word(word) for word in message["content"].split()]
             words_used += words_list
             message_words.append(words_list)
@@ -60,27 +66,28 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
             # happens for special cases like users who deactivated, unfriended, blocked
             invalid_message_count += 1
 
+
 print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
 
 # make list of words used more than 20 times
 times_used = Counter(words_used)
 significant_words = [k for k,v in times_used.items() if (v > 20)]
+print(significant_words)
 
 # matrix to hold word vector for each message
 usage_matrix = np.zeros((len(message_words), len(significant_words)))
 
-print(usage_matrix.shape)
-
 # create binary usage vector for words in each message
 for rowCounter, message in enumerate(message_words):
-
     for word in message:
         for colCounter, word_check in enumerate(significant_words):
             if word == word_check:
                 usage_matrix[rowCounter, colCounter] = 1
 
-
+print(number_messages)
+print(len(number_messages))
+print(usage_matrix.shape)
 
 # CHECK AGAINST MODEL
 def check_against_model():

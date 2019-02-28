@@ -85,11 +85,18 @@ for rowCounter, message in enumerate(message_words):
             if word == word_check:
                 usage_matrix[rowCounter, colCounter] = 1
 
-print(number_messages)
-print(len(number_messages))
-print(usage_matrix.shape)
+# print(len(number_messages))
+# print(usage_matrix.shape)
 
 # CHECK AGAINST MODEL
 def check_against_model():
-    input = input("Send me a sample message:\n")
-    print([clean_word(word) for word in input.split()])
+    user_words = input("Send me a sample message:\n")
+    cleaned_input = [clean_word(word) for word in user_words.split()]
+    input_vector = np.zeros((len(cleaned_input)))
+    for word in cleaned_input:
+        for count, word_check in enumerate(significant_words):
+            if word == word_check:
+                input_vector[count] = 1
+    print(input_vector)
+
+check_against_model()

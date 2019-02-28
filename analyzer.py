@@ -64,7 +64,6 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
             number_messages[name] = number_messages.get(name, 0)
             number_messages[name] += 1
 
-            number_words[name] = number_words.get(name, [])
             words_list = [clean_word(word) for word in message_content.split()]
             words_used += words_list
 

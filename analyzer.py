@@ -10,7 +10,7 @@ from keras.layers import Dense, Activation
 CURRENT_DIRECTORY = os.getcwd()
 NUMBER_TO_ANALYZE = 50000
 MESSAGE_THRESHOLD = 100
-FRIEND_CUTOFF = 100 # number of messages with a person to consider a friend
+FRIEND_CUTOFF = 1000 # number of messages with a person to consider a friend
 WORD_USE_CUTOFF = 10
 
 # FIRST DEFINITIONS
@@ -61,10 +61,9 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
         except KeyError:
             # happens for special cases like users who deactivated, unfriended, blocked
             invalid_message_count += 1
-
-# make set of words used more than 20 times
+# make set of words used more than 10 and less than 400 times
 times_used = Counter(words_used)
-significant_words = set([k for k,v in times_used.items()])
+significant_words = set([k for k,v in times_used.items() if v > 10 and v < 400])
 
 # matrix to hold word vector for each message
 usage_matrix = np.zeros((len(message_words), len(significant_words)))
@@ -106,7 +105,7 @@ def check_against_model():
     predictionDF = pd.DataFrame(input_vector)
     result = model.predict(predictionDF.T)
     if result == 1:
-        print("I think we're likely to have lots of messages")
+        print("I think we're likely to have lots of messages!")
     else:
         print("We probably don't have many messages :(")
 

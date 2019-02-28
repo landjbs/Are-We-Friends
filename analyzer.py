@@ -72,7 +72,7 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
             invalid_message_count += 1
 
     final_data_messages[i] = number_messages
-    messsage_words[i] = words_list
+    message_words[i] = words_list
 
 print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')

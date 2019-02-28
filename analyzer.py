@@ -82,16 +82,22 @@ for rowCounter, message in enumerate(message_words):
             if word == word_check:
                 usage_matrix[rowCounter, colCounter] = 1
 
+# NEURAL NET TRAINING AND SET UP
 df = pd.DataFrame(data=usage_matrix)
 print(df.describe())
 
 model = Sequential([
-    Dense(32, input_shape=(784,)),
+    Dense(32, input_shape=(len(significant_words),)),
     Activation('relu'),
-    Dense(10),
+    Dense(1),
     Activation('softmax'),
 ])
 
+model.compile(optimizer='rmsprop',
+              loss='binary_crossentropy',
+              metrics=['accuracy'])
+
+model.fit(df, friend_vector, epochs=30)
 
 # CHECK AGAINST MODEL
 def check_against_model():
@@ -102,4 +108,7 @@ def check_against_model():
         for count, word_check in enumerate(significant_words):
             if word == word_check:
                 input_vector[count] = 1
-    print(input_vector)
+    result = model.predict(input_vector)
+    print(result)
+
+check_against_model()

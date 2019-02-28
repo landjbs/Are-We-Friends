@@ -5,11 +5,11 @@ import numpy as np
 import pylab as pl
 import datetime
 import pandas as pd
-import string
+from collections import Counter
 
 CURRENT_DIRECTORY = os.getcwd()
-NUMBER_TO_ANALYZE = 5000
-MESSAGE_THRESHOLD = 100
+NUMBER_TO_ANALYZE = 50000
+MESSAGE_THRESHOLD = 10
 
 # FIRST DEFINITIONS
 def get_json_data(chat):
@@ -47,12 +47,12 @@ sorted_chats.sort(reverse=True)
 
 print('Finished processing chats...')
 
+words_used = []
 
 for i, (messages, chat, messages) in enumerate(sorted_chats):
     number_messages = {}
     person_to_times = {}
     number_words = {}
-    words_used = []
 
     print(str(i) + " - " + str(len(messages)) + " messages - " + str(chat))
 
@@ -71,7 +71,6 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
             number_words[name] = number_words.get(name, [])
             messageWords = [clean_word(word) for word in message_content.split()]
             number_words[name].append(len(messageWords))
-            print(messageWords)
             words_used += messageWords
         except KeyError:
             # happens for special cases like users who deactivated, unfriended, blocked
@@ -81,8 +80,18 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
     final_data_times[i] = person_to_times
     final_data_words[i] = number_words
 
+
 print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
+
+counted_words = Counter(words_used))
+print("before", len(counted_words))
+
+for k,v in counted_words.items():
+    if v < 15:
+       del counted_words[k]
+
+print("after", len(counted_words))
 
 # PLOTTING FUNCTIONS
 def plot_num_messages(chat_number):

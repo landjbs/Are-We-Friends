@@ -97,18 +97,22 @@ model.compile(optimizer='rmsprop',
               loss='binary_crossentropy',
               metrics=['accuracy'])
 
-model.fit(df, friend_vector, epochs=30)
+model.fit(df, friend_vector, epochs=3)
 
 # CHECK AGAINST MODEL
 def check_against_model():
     user_words = input("Send me a sample message:\n")
     cleaned_input = [clean_word(word) for word in user_words.split()]
-    input_vector = np.zeros((len(significant_words)))
+    input_vector = np.zeros((len(significant_words)),)
     for word in cleaned_input:
         for count, word_check in enumerate(significant_words):
             if word == word_check:
                 input_vector[count] = 1
-    result = model.predict(input_vector)
-    print(result)
+    print(input_vector.shape)
+    result = model.predict(input_vector.T)
+    if result == 1:
+        print("I think we're likely to have lots of messages")
+    else:
+        print("We probably don't have many messages :(")
 
 check_against_model()

@@ -2,10 +2,10 @@
 import os
 import json
 import numpy as np
-import pylab as pl
-import datetime
 import pandas as pd
 from collections import Counter
+from keras.models import Sequential
+from keras.layers import Dense, Activation
 
 CURRENT_DIRECTORY = os.getcwd()
 NUMBER_TO_ANALYZE = 50000
@@ -37,7 +37,6 @@ invalid_message_count = 0
 for chat in chats:
     url = chat + '/message.json'
     json_data = get_json_data(chat)
-    print(chat)
     if json_data != None:
         messages = json_data["messages"]
         if len(messages) >= MESSAGE_THRESHOLD:
@@ -74,15 +73,25 @@ significant_words = set([k for k,v in times_used.items() if (v > WORD_USE_CUTOFF
 # matrix to hold word vector for each message
 usage_matrix = np.zeros((len(message_words), len(significant_words)))
 
+friend_vector = []
 # create binary usage vector for words in each message
 for rowCounter, message in enumerate(message_words):
+    friend_vector.append(number_messages[rowCounter])
     for word in message:
         for colCounter, word_check in enumerate(significant_words):
             if word == word_check:
                 usage_matrix[rowCounter, colCounter] = 1
 
-# print(len(number_messages))
-# print(usage_matrix.shape)
+df = pd.DataFrame(data=usage_matrix)
+print(df.describe())
+
+model = Sequential([
+    Dense(32, input_shape=(784,)),
+    Activation('relu'),
+    Dense(10),
+    Activation('softmax'),
+])
+
 
 # CHECK AGAINST MODEL
 def check_against_model():
@@ -94,5 +103,3 @@ def check_against_model():
             if word == word_check:
                 input_vector[count] = 1
     print(input_vector)
-
-check_against_model()

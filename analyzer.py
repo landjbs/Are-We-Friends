@@ -5,6 +5,7 @@ import numpy as np
 import pylab as pl
 import datetime
 import pandas as pd
+import string
 
 CURRENT_DIRECTORY = os.getcwd()
 NUMBER_TO_ANALYZE = 5000
@@ -21,7 +22,7 @@ def get_json_data(chat):
         pass # some things the directory aren't messages (DS_Store, stickers_used, etc.)
 
 def clean_word(word):
-    return (word.lower()).replace("?","")
+    return (word.lower())
 
 # ANALYZE CHATS
 chats = os.listdir(CURRENT_DIRECTORY + "/messages/")[:NUMBER_TO_ANALYZE]
@@ -70,6 +71,7 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
             number_words[name] = number_words.get(name, [])
             messageWords = [clean_word(word) for word in message_content.split()]
             number_words[name].append(len(messageWords))
+            print(messageWords)
             words_used += messageWords
         except KeyError:
             # happens for special cases like users who deactivated, unfriended, blocked

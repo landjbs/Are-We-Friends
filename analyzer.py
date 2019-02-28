@@ -75,9 +75,10 @@ print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
 
 # make list of words used more than 20 times
-significant_words = [k for k,v in (Counter(words_used)).items() if v < 20]
+significant_words = [k for k,v in (Counter(words_used)).items() if v > 20 and v < 30]
 
-usage_matrix = np.zeros((len(significant_words), len(message_words)))
+# matrix to hold word vector for each message
+usage_matrix = np.zeros((len(message_words),len(significant_words)))
 
 for rowCounter, message in enumerate(message_words):
     for word in message:
@@ -87,46 +88,6 @@ for rowCounter, message in enumerate(message_words):
 
 print(usage_matrix)
 
-# PLOTTING FUNCTIONS
-def plot_num_messages(chat_number):
-    plotted_data = final_data_messages[chat_number]
-    X = np.arange(len(plotted_data))
-    pl.bar(X, list(plotted_data.values()), align='center', width=0.5, color = 'r', bottom = 0.3)
-    pl.xticks(X, plotted_data.keys(), rotation = 90)
-    pl.title('Number of Messages Sent')
-    pl.tight_layout()
-    pl.show()
-
-def plot_histogram_time(chat_number):
-    person_to_times = final_data_times[chat_number]
-    pl.xlabel('Time')
-    pl.ylabel('Number of Messages')
-    pl.title('# of Messages Over Time')
-    colors = ['b', 'r', 'c', 'm', 'y', 'k', 'w', 'g']
-    for i , person in enumerate(person_to_times):
-        plotted_data = person_to_times[person]
-        pl.hist(plotted_data, 100, alpha=0.3, label=person, facecolor=colors[i % len(colors)])
-    pl.legend()
-    pl.xticks(rotation=90)
-    pl.tight_layout()
-    pl.show()
-
-def plot_histogram_words(chat_number):
-    temp = {}
-    for person in final_data_words[chat_number]:
-        temp[person] = np.average(final_data_words[chat_number][person])
-    plotted_data = temp
-    X = np.arange(len(plotted_data))
-    pl.bar(X, list(plotted_data.values()), align='center', width=0.5, color = 'r', bottom = 0.3)
-    pl.xticks(X, plotted_data.keys(), rotation = 90)
-    pl.title('Average Word Count')
-    pl.tight_layout()
-    pl.show()
-
-def plot(chat_number):
-    plot_num_messages(chat_number)
-    plot_histogram_time(chat_number)
-    plot_histogram_words(chat_number)
 
 # CHECK AGAINST MODEL
 def check_against_model():

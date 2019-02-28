@@ -84,14 +84,10 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
 print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
 
-counted_words = Counter(words_used))
-print("before", len(counted_words))
+counted_words = Counter(words_used)
 
-for k,v in counted_words.items():
-    if v < 15:
-       del counted_words[k]
+significant_words = {k:v for k,v in counted_words.items() if v < 20}
 
-print("after", len(counted_words))
 
 # PLOTTING FUNCTIONS
 def plot_num_messages(chat_number):

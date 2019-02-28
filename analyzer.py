@@ -74,13 +74,14 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
 print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
 
-counted_words = Counter(words_used)
-
-significant_words = {k:v for k,v in counted_words.items() if v < 20}
+# make list of words used more than 20 times
+significant_words = [k for k,v in (Counter(words_used)).items() if v < 20]
 
 usage_matrix = np.zeros((len(significant_words), len(message_words)))
 
-for 
+for rowCounter, message in enumerate(message_words):
+    for word in message:
+        for colCounter, word_check in enumerate(significant_words)
 
 # PLOTTING FUNCTIONS
 def plot_num_messages(chat_number):

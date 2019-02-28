@@ -9,7 +9,7 @@ from collections import Counter
 
 CURRENT_DIRECTORY = os.getcwd()
 NUMBER_TO_ANALYZE = 50000
-MESSAGE_THRESHOLD = 10
+MESSAGE_THRESHOLD = 100
 
 # FIRST DEFINITIONS
 def get_json_data(chat):
@@ -48,11 +48,10 @@ sorted_chats.sort(reverse=True)
 print('Finished processing chats...')
 
 words_used = []
+message_words = []
 
 for i, (messages, chat, messages) in enumerate(sorted_chats):
     number_messages = {}
-    message_words = []
-
     print(str(i) + " - " + str(len(messages)) + " messages - " + str(chat))
 
     for message in messages:
@@ -66,13 +65,11 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
 
             words_list = [clean_word(word) for word in message_content.split()]
             words_used += words_list
-
+            message_words.append(words_list)
         except KeyError:
             # happens for special cases like users who deactivated, unfriended, blocked
             invalid_message_count += 1
-
     final_data_messages[i] = number_messages
-    message_words[i] = words_list
 
 print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
@@ -81,7 +78,9 @@ counted_words = Counter(words_used)
 
 significant_words = {k:v for k,v in counted_words.items() if v < 20}
 
-print(message_words)
+usage_matrix = np.zeros((len(significant_words), len(message_words)))
+
+for 
 
 # PLOTTING FUNCTIONS
 def plot_num_messages(chat_number):

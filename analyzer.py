@@ -11,6 +11,7 @@ CURRENT_DIRECTORY = os.getcwd()
 NUMBER_TO_ANALYZE = 50000
 MESSAGE_THRESHOLD = 100
 FRIEND_CUTOFF = 1000 # number of messages with a person to consider a friend
+WORD_USE_CUTOFF = 10
 
 # FIRST DEFINITIONS
 def get_json_data(chat):
@@ -33,8 +34,6 @@ final_data_times = {}
 final_data_words = {}
 invalid_message_count = 0
 
-print('Analyzing ' + str(min(NUMBER_TO_ANALYZE, len(chats))) + ' chats...')
-
 for chat in chats:
     url = chat + '/message.json'
     json_data = get_json_data(chat)
@@ -45,8 +44,6 @@ for chat in chats:
             sorted_chats.append((len(messages), chat, messages))
 
 sorted_chats.sort(reverse=True)
-
-print('Finished processing chats...')
 
 words_used = []
 message_words = []
@@ -70,10 +67,9 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
 print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
 
-# make list of words used more than 20 times
+# make set of words used more than 20 times
 times_used = Counter(words_used)
-significant_words = [k for k,v in times_used.items() if (v > 20)]
-print(significant_words)
+significant_words = set([k for k,v in times_used.items() if (v > WORD_USE_CUTOFF)])
 
 # matrix to hold word vector for each message
 usage_matrix = np.zeros((len(message_words), len(significant_words)))
@@ -92,7 +88,7 @@ for rowCounter, message in enumerate(message_words):
 def check_against_model():
     user_words = input("Send me a sample message:\n")
     cleaned_input = [clean_word(word) for word in user_words.split()]
-    input_vector = np.zeros((len(cleaned_input)))
+    input_vector = np.zeros((len(significant_words)))
     for word in cleaned_input:
         for count, word_check in enumerate(significant_words):
             if word == word_check:

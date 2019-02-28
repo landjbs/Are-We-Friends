@@ -51,25 +51,14 @@ words_used = []
 message_words = []
 
 for i, (messages, chat, messages) in enumerate(sorted_chats):
-    number_messages = {}
-    print(str(i) + " - " + str(len(messages)) + " messages - " + str(chat))
-
     for message in messages:
         try:
-            name = message["sender_name"]
-            time = message["timestamp_ms"]
-            message_content = message["content"]
-
-            number_messages[name] = number_messages.get(name, 0)
-            number_messages[name] += 1
-
-            words_list = [clean_word(word) for word in message_content.split()]
+            words_list = [clean_word(word) for word in message["content"].split()]
             words_used += words_list
             message_words.append(words_list)
         except KeyError:
             # happens for special cases like users who deactivated, unfriended, blocked
             invalid_message_count += 1
-    final_data_messages[i] = number_messages
 
 print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
@@ -77,14 +66,15 @@ print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD
 # make list of words used more than 20 times
 times_used = Counter(words_used)
 significant_words = [k for k,v in times_used.items() if (v > 20)]
-print(len(significant_words))
 
 # matrix to hold word vector for each message
 usage_matrix = np.zeros((len(message_words), len(significant_words)))
 
 print(usage_matrix.shape)
 
+# create binary usage vector for words in each message
 for rowCounter, message in enumerate(message_words):
+
     for word in message:
         for colCounter, word_check in enumerate(significant_words):
             if word == word_check:

@@ -10,7 +10,7 @@ from keras.layers import Dense, Activation
 CURRENT_DIRECTORY = os.getcwd()
 NUMBER_TO_ANALYZE = 50000
 MESSAGE_THRESHOLD = 100
-FRIEND_CUTOFF = 1000 # number of messages with a person to consider a friend
+FRIEND_CUTOFF = 100 # number of messages with a person to consider a friend
 WORD_USE_CUTOFF = 10
 
 # FIRST DEFINITIONS
@@ -62,13 +62,9 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
             # happens for special cases like users who deactivated, unfriended, blocked
             invalid_message_count += 1
 
-
-print('Found ' + str(invalid_message_count) + ' invalid messages...')
-print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
-
 # make set of words used more than 20 times
 times_used = Counter(words_used)
-significant_words = set([k for k,v in times_used.items() if (v > WORD_USE_CUTOFF)])
+significant_words = set([k for k,v in times_used.items()])
 
 # matrix to hold word vector for each message
 usage_matrix = np.zeros((len(message_words), len(significant_words)))
@@ -84,7 +80,6 @@ for rowCounter, message in enumerate(message_words):
 
 # NEURAL NET TRAINING AND SET UP
 df = pd.DataFrame(data=usage_matrix)
-print(df.describe())
 
 model = Sequential([
     Dense(32, input_shape=(len(significant_words),)),
@@ -108,8 +103,8 @@ def check_against_model():
         for count, word_check in enumerate(significant_words):
             if word == word_check:
                 input_vector[count] = 1
-    print(input_vector.shape)
-    result = model.predict(input_vector.T)
+    predictionDF = pd.DataFrame(input_vector)
+    result = model.predict(predictionDF.T)
     if result == 1:
         print("I think we're likely to have lots of messages")
     else:

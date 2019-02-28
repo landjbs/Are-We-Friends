@@ -51,8 +51,7 @@ words_used = []
 
 for i, (messages, chat, messages) in enumerate(sorted_chats):
     number_messages = {}
-    person_to_times = {}
-    number_words = {}
+    message_words = []
 
     print(str(i) + " - " + str(len(messages)) + " messages - " + str(chat))
 
@@ -65,21 +64,16 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
             number_messages[name] = number_messages.get(name, 0)
             number_messages[name] += 1
 
-            person_to_times[name] = person_to_times.get(name, [])
-            person_to_times[name].append(datetime.datetime.fromtimestamp(time/1000.0))
-
             number_words[name] = number_words.get(name, [])
-            messageWords = [clean_word(word) for word in message_content.split()]
-            number_words[name].append(len(messageWords))
-            words_used += messageWords
+            words_list = [clean_word(word) for word in message_content.split()]
+            words_used += words_list
+
         except KeyError:
             # happens for special cases like users who deactivated, unfriended, blocked
             invalid_message_count += 1
 
     final_data_messages[i] = number_messages
-    final_data_times[i] = person_to_times
-    final_data_words[i] = number_words
-
+    messsage_words[i] = words_list
 
 print('Found ' + str(invalid_message_count) + ' invalid messages...')
 print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD) + ' messages or more')
@@ -88,6 +82,7 @@ counted_words = Counter(words_used)
 
 significant_words = {k:v for k,v in counted_words.items() if v < 20}
 
+print(message_words)
 
 # PLOTTING FUNCTIONS
 def plot_num_messages(chat_number):

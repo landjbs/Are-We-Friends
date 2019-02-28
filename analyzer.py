@@ -76,7 +76,7 @@ print('Found ' + str(len(sorted_chats)) + ' chats with ' + str(MESSAGE_THRESHOLD
 
 # make list of words used more than 20 times
 times_used = Counter(words_used)
-significant_words = [k for k,v in times_used.items() if (v > 20 and v < 30)]
+significant_words = [k for k,v in times_used.items() if (v > 20)]
 print(len(significant_words))
 
 # matrix to hold word vector for each message
@@ -88,9 +88,9 @@ for rowCounter, message in enumerate(message_words):
     for word in message:
         for colCounter, word_check in enumerate(significant_words):
             if word == word_check:
-                usage_matrix[rowCounter,rowCounter] = 1
+                usage_matrix[rowCounter, colCounter] = 1
 
-print(message)
+
 
 # CHECK AGAINST MODEL
 def check_against_model():

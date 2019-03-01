@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Are We Friends?</title>
+  <link rel="stylesheet" href="/static/css/main.css">
+  <link rel="shortcut icon" href="/static/images/lstm.ico">
+
+</head>
+
+<body>
+  <div class="container">
+    <h1>
+      <center>Result</center>
+    </h1>
+
+    {% block content %}
+    {% for message in form.message.errors %}
+    <div class="flash">{{ message }}</div>
+    {% endfor %}
+
+    <form method=post>
+
+      {{ form.message.label }}
+      {{ form.message }}
+      
+    </form>
+    {% endblock %}
+
+  </div>
+</body>
+
+</html>

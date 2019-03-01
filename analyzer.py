@@ -7,6 +7,7 @@ from collections import Counter
 from keras.models import Sequential
 from keras.layers import Dense, Activation
 from keras.utils import to_categorical
+import pickle
 
 CURRENT_DIRECTORY = os.getcwd()
 NUMBER_TO_ANALYZE = 50000
@@ -94,7 +95,11 @@ model.compile(optimizer='rmsprop',
 
 model.fit(df, to_categorical(friend_vector), epochs=3)
 
-# CHECK AGAINST MODEL
+# save model to files
+pickle.dump(model, open('facebookModel.sav','wb'))
+
+
+# CHECK AGAINST MODEL : ONLY IN COLAB OR TERMINAL
 def check_against_model(normalization=0.05):
     user_words = input("\nSend me a sample message:\n")
     cleaned_input = [clean_word(word) for word in user_words.split()]
@@ -109,7 +114,3 @@ def check_against_model(normalization=0.05):
         print(f"\nI think we're likely to have lots of messages!\nBelief Strength: {round((result[0][1])*100, 2)} %\n",end="")
     else:
         print(f"\nWe probably don't have many messages :(\nBelief Strength: {round((result[0][0])*100, 2)} %\n",end="")
-
-while True:
-        check_against_model(normalization=0.1)
-        print('-'*40)

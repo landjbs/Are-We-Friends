@@ -15,28 +15,14 @@
     </h1>
 
     {% block content %}
-    {% for message in form.seed.errors %}
-    <div class="flash">{{ message }}</div>
-    {% endfor %}
-
-    {% for message in form.diversity.errors %}
-    <div class="flash">{{ message }}</div>
-    {% endfor %}
-
-    {% for message in form.words.errors %}
+    {% for message in form.message.errors %}
     <div class="flash">{{ message }}</div>
     {% endfor %}
 
     <form method=post>
 
-      {{ form.seed.label }}
-      {{ form.seed }}
-
-      {{ form.diversity.label }}
-      {{ form.diversity }}
-
-      {{ form.words.label }}
-      {{ form.words }}
+      {{ form.message.label }}
+      {{ form.message }}
 
       {{ form.submit }}
     </form>

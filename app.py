@@ -40,6 +40,7 @@ def home():
     if request.method == 'POST' and form.validate():
         # Extract information
         message = request.form['message']
+        return render_template('result.html',message=message)
 
     # Send template information to index.html
     return render_template('index.html', form=form)

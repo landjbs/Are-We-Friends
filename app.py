@@ -40,7 +40,7 @@ def home():
     if request.method == 'POST' and form.validate():
         # Extract information
         message = request.form['message']
-        # Generate a random sequence
+        return render_template('result.html')
 
     # Send template information to index.html
     return render_template('index.html', form=form)

@@ -98,7 +98,6 @@ model.fit(df, to_categorical(friend_vector), epochs=3)
 # save model to files
 pickle.dump(model, open('facebookModel.sav','wb'))
 
-
 # CHECK AGAINST MODEL : ONLY IN COLAB OR TERMINAL
 def check_against_model(normalization=0.05):
     user_words = input("\nSend me a sample message:\n")

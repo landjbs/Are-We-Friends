@@ -6,6 +6,7 @@ import pandas as pd
 from collections import Counter
 from keras.models import Sequential
 from keras.layers import Dense, Activation
+from keras.utils import to_categorical
 
 CURRENT_DIRECTORY = os.getcwd()
 NUMBER_TO_ANALYZE = 50000
@@ -63,7 +64,7 @@ for i, (messages, chat, messages) in enumerate(sorted_chats):
             invalid_message_count += 1
 # make set of words used more than 10 and less than 400 times
 times_used = Counter(words_used)
-significant_words = set([k for k,v in times_used.items() if v > 10 and v < 400])
+significant_words = set([k for k,v in times_used.items() if v > 10 and v < 800])
 
 # matrix to hold word vector for each message
 usage_matrix = np.zeros((len(message_words), len(significant_words)))
@@ -91,11 +92,11 @@ model.compile(optimizer='rmsprop',
               loss='binary_crossentropy',
               metrics=['accuracy'])
 
-model.fit(df, friend_vector, epochs=3)
+model.fit(df, to_categorical(friend_vector), epochs=3)
 
 # CHECK AGAINST MODEL
-def check_against_model():
-    user_words = input("Send me a sample message:\n")
+def check_against_model(normalization=0.05):
+    user_words = input("\nSend me a sample message:\n")
     cleaned_input = [clean_word(word) for word in user_words.split()]
     input_vector = np.zeros((len(significant_words)),)
     for word in cleaned_input:
@@ -104,9 +105,11 @@ def check_against_model():
                 input_vector[count] = 1
     predictionDF = pd.DataFrame(input_vector)
     result = model.predict(predictionDF.T)
-    if result == 1:
-        print("I think we're likely to have lots of messages!")
+    if (result[0][1]-normalization) > result[0][0]:
+        print(f"\nI think we're likely to have lots of messages!\nBelief Strength: {round((result[0][1])*100, 2)} %\n",end="")
     else:
-        print("We probably don't have many messages :(")
+        print(f"\nWe probably don't have many messages :(\nBelief Strength: {round((result[0][0])*100, 2)} %\n",end="")
 
-check_against_model()
+while True:
+        check_against_model(normalization=0.1)
+        print('-'*40)

@@ -30,9 +30,35 @@ Session(app)
 # Configure CS50 Library to use SQLite database
 #db = SQL("sqlite:///WouldU.db")
 
-@app.route("/")
-def index():
-	return render_template('index.html')
+@app.route("/", methods=['GET', 'POST'])
+def home():
+    """Home page of app with form"""
+    # Create form
+    form = ReusableForm(request.form)
+
+    # On form entry and all conditions met
+    if request.method == 'POST' and form.validate():
+        # Extract information
+        seed = request.form['seed']
+        diversity = float(request.form['diversity'])
+        words = int(request.form['words'])
+        # Generate a random sequence
+        if seed == 'random':
+            return render_template('random.html',
+                                   input=generate_random_start(model=model,
+                                                               graph=graph,
+                                                               new_words=words,
+                                                               diversity=diversity))
+        # Generate starting from a seed sequence
+        else:
+            return render_template('seeded.html',
+                                   input=generate_from_seed(model=model,
+                                                            graph=graph,
+                                                            seed=seed,
+                                                            new_words=words,
+                                                            diversity=diversity))
+    # Send template information to index.html
+    return render_template('index.html', form=form)
 
 loaded_model = pickle.load(open("facebookModel.sav", "rb"))
 # result = loaded_model.predict(np.expand_dims(userData, axis=1).T)

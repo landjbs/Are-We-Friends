@@ -40,12 +40,12 @@ def home():
     if request.method == 'POST' and form.validate():
         # Extract information
         message = request.form['message']
-        return render_template('result.html')
 
     # Send template information to index.html
     return render_template('index.html', form=form)
 
 loaded_model = pickle.load(open("facebookModel.sav", "rb"))
+
 # result = loaded_model.predict(np.expand_dims(userData, axis=1).T)
 
 #

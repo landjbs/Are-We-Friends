@@ -96,7 +96,7 @@ model.compile(optimizer='rmsprop',
 model.fit(df, to_categorical(friend_vector), epochs=3)
 
 # save model to files
-pickle.dump(model, open('facebookModel.sav','wb'))
+# pickle.dump(model, open('facebookModel.sav','wb'))
 
 # CHECK AGAINST MODEL : ONLY IN COLAB OR TERMINAL
 def check_against_model(normalization=0.05):
@@ -113,3 +113,6 @@ def check_against_model(normalization=0.05):
         print(f"\nI think we're likely to have lots of messages!\nBelief Strength: {round((result[0][1])*100, 2)} %\n",end="")
     else:
         print(f"\nWe probably don't have many messages :(\nBelief Strength: {round((result[0][0])*100, 2)} %\n",end="")
+
+while True:
+        check_against_model()

@@ -28,6 +28,23 @@ def get_json_data(chat):
 def clean_word(word):
     return (word.lower())
 
+# CHECK AGAINST MODEL : ONLY IN COLAB OR TERMINAL
+def check_against_model(normalization=0.05):
+    user_words = input("\nSend me a sample message:\n")
+    cleaned_input = [clean_word(word) for word in user_words.split()]
+    input_vector = np.zeros((len(significant_words)),)
+    for word in cleaned_input:
+        for count, word_check in enumerate(significant_words):
+            if word == word_check:
+                input_vector[count] = 1
+    predictionDF = pd.DataFrame(input_vector)
+    result = model.predict(predictionDF.T)
+    if (result[0][1]-normalization) > result[0][0]:
+        print(f"\nI think we're likely to have lots of messages!\nBelief Strength: {round((result[0][1])*100, 2)} %\n",end="")
+    else:
+        print(f"\nWe probably don't have many messages :(\nBelief Strength: {round((result[0][0])*100, 2)} %\n",end="")
+
+
 # ANALYZE CHATS
 chats = os.listdir(CURRENT_DIRECTORY + "/messages/")[:NUMBER_TO_ANALYZE]
 sorted_chats = []
@@ -97,22 +114,6 @@ model.fit(df, to_categorical(friend_vector), epochs=3)
 
 # save model to files
 # pickle.dump(model, open('facebookModel.sav','wb'))
-
-# CHECK AGAINST MODEL : ONLY IN COLAB OR TERMINAL
-def check_against_model(normalization=0.05):
-    user_words = input("\nSend me a sample message:\n")
-    cleaned_input = [clean_word(word) for word in user_words.split()]
-    input_vector = np.zeros((len(significant_words)),)
-    for word in cleaned_input:
-        for count, word_check in enumerate(significant_words):
-            if word == word_check:
-                input_vector[count] = 1
-    predictionDF = pd.DataFrame(input_vector)
-    result = model.predict(predictionDF.T)
-    if (result[0][1]-normalization) > result[0][0]:
-        print(f"\nI think we're likely to have lots of messages!\nBelief Strength: {round((result[0][1])*100, 2)} %\n",end="")
-    else:
-        print(f"\nWe probably don't have many messages :(\nBelief Strength: {round((result[0][0])*100, 2)} %\n",end="")
 
 while True:
         check_against_model()
